@@ -1,0 +1,63 @@
+site_name: Immersion-based Vietnamese Learning 
+site_description: Guide to self-learning Vietnamese.
+site_author: onlyduyy  
+theme:
+  name: material
+  features:
+    - navigation.sections
+  palette:
+    primary: indigo
+
+nav:
+  - Home: 'index.md'
+  - 'Vietnamese':
+    - 'Guide': 'guide.md'
+    - 'Reading': 'reading-guide.md'
+    - 'Culture': 'viet-culture.md'
+  - 'Comprehensible Input':
+    - 'Guide': 'input-guide.md'
+    - 'Resources': 'input-resources.md'
+  - 'Tools':
+    - 'Mining': 'asbplayer.md'
+    - 'Yomitan': 'yomi-setup.md'
+    - 'Anki': 'anki.md'
+  - 'Hán Nôm':
+    - 'Guide': 'han-nom.md'
+  - 'Resources':
+    - 'Resources': 'resources.md'
+    - 'Grammar': 'grammar-guide.md'
+  - 'Media':
+    - 'Novels': 'books.md'
+    - 'Movies': 'movies.md'
+    - 'Youtube': 'youtube.md'
+    - 'Podcasts': 'podcasts.md'
+      
+theme:
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: grey
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.sections
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+
+extra:
+  generator: false
