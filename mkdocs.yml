@@ -1,5 +1,5 @@
-site_name: Immersion-based Vietnamese Learning 
-site_description: Guide to self-learning Vietnamese.
+site_name: Comprehensible Vietnamese  
+site_description: Guide to self-learning Vietnamese through Comprehensible Input and Mass Immersion.
 site_author: onlyduyy  
 theme:
   name: material
@@ -12,7 +12,6 @@ nav:
   - Home: 'index.md'
   - 'Vietnamese':
     - 'Guide': 'guide.md'
-    - 'Reading': 'reading-guide.md'
     - 'Culture': 'viet-culture.md'
   - 'Comprehensible Input':
     - 'Guide': 'input-guide.md'
@@ -21,11 +20,13 @@ nav:
     - 'Mining': 'asbplayer.md'
     - 'Yomitan': 'yomi-setup.md'
     - 'Anki': 'anki.md'
+    - 'Reading': 'reading-guide.md'
   - 'Hán Nôm':
     - 'Guide': 'han-nom.md'
   - 'Resources':
     - 'Resources': 'resources.md'
     - 'Grammar': 'grammar-guide.md'
+    - 'Communities': 'community.md' 
   - 'Media':
     - 'Novels': 'books.md'
     - 'Movies': 'movies.md'

@@ -28,7 +28,7 @@ The learning process for the beginner consists of:
 
 - Learning the alphabet (29 letters) and tones (5 tones). 
 
-- Learning basic vocabulary with a program called _Anki_ (If you know Japanese or Chinese, it would be easier to learn Hán Nôm, kinda like the latin version for Chinese characters).
+- Learning basic vocabulary with a program called _Anki_ (If you know Japanese or Chinese, it would be easier to acquire Vietnamese vocabulary).
 
 - Learning grammar through a _YouTube_ playlist or a full-text guide.
 
@@ -42,7 +42,9 @@ The learning process for the beginner consists of:
 The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the official writing system of Vietnam, reflecting the linguistic and cultural heritage of the country. This unique script, unlike many other East Asian writing systems, is based on the Latin alphabet, showcasing the influence of Western linguistic traditions in Vietnam’s language development. The alphabet consists of 29 letters, including 14 consonants and 15 vowels. Each letter has a unique sound, and it is essential to know how to pronounce them correctly in order to speak and read Vietnamese fluently. 
 
 ### 1.3 How to learn the alphabet
+
 ### Step 1: the chart
+
 ![bang_chu_cai](./Image/bang_chu_cai.webp)
 
 _The alphabet chart, there are some characters that sound different than the English counterpart, don't try to remember all of them at first, especially the letter combinations. Skip the IPA after the "/" in the pronunciation guide below each characters, it represents its Southern dialect counterpart._

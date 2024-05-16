@@ -1,12 +1,13 @@
 There are various great Youtube contents made by Vietnamese. And if you are stuck, auto-generated subtitles are here to use, it's pretty accurate tbh (mostly).
+
 ## Youtube channels
 
 | Kênh | Giọng - Accent | Thể loại - Genre | Mô tả - Description | Hình - Picture |
 | --- | --- | --- | --- | --- |
 | [Gia đình cam cam](https://www.youtube.com/channel/UClsAZnicRDs_25b_1DxldKA)    | Northern       | Daily vlog   | A family vlog with warm and cozy atmosphere, really relaxed to watch | ![cover](./previews/youtube/cam_cam.webp) |
-| [The Hanoi Chamomile](https://www.youtube.com/channel/UCZv-924OFOCEX6A8hcvdisQ) | Northern       | Self improvement and vlog | A Vietnamese polyglot who makes a lot of study-with-me vlogs and videos about "how to study effectively" | ![cover](./previews/youtube/kira.webp) |
+| [The Hanoi Chamomile](https://www.youtube.com/channel/UCZv-924OFOCEX6A8hcvdisQ) | Northern       | Self improvement and vlog | another lovely guy with a Norther accent. he shares tips about learning and lifestyle | ![cover](./previews/youtube/kira.webp) |
 | [Dinology](https://www.youtube.com/channel/UCwTi_xn6ukH9QJsNtH-oNWw)            | Northern       | Daily Vlog  | | ![cover](./previews/youtube/unnamed.webp) | 
-| [Giang Ơi](https://www.youtube.com/channel/UC-AJnWGWhPt3ReFnvzRZ-Kg)            | Northern       | Self-help |  | ![cover](./previews/youtube/giang_oi.webp) |
+| [Giang Ơi](https://www.youtube.com/channel/UC-AJnWGWhPt3ReFnvzRZ-Kg)            | Northern       | Self-help | she also has a Northern accent but as she’s lived in Saigon for a long time now, her accent is a little mixed. there are more podcast episodes on Spotify but her channel has other videos too | ![cover](./previews/youtube/giang_oi.webp) |
 | [ThinkView](https://www.youtube.com/channel/UCMRCjWYwR5p2Plp_0ehIG6g)           | Northern       | Technology | Technology Reviews  | ![cover](./previews/youtube/thinkview.webp) |
 | [VTV24](https://www.youtube.com/channel/UCabsTV34JwALXKGMqHpvUiA)               | Northern       | News & Podcast | Vietnamese news for Gen Z | ![cover](./previews/youtube/vtv.webp) |
 | [Vietcetera](https://www.youtube.com/channel/UCORwVnph7TK6rmyKozkV8_g)          | Northern       | News & Podcast  | Interviewing with successful, "nhiều chữ" people | ![cover](./previews/youtube/vietcetera.webp) |

@@ -11,7 +11,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.
 
 ### Grammar
-- [onlyduyy's guide to Vietnamese Grammar](grammar-guide.md): Yet another Vietnamese grammar guide that doesn't suck. Currently in progress.
+- [duykhan's guide to Vietnamese Grammar](grammar-guide.md): Yet another Vietnamese grammar guide that doesn't suck. Currently in progress.
 
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
 
@@ -22,8 +22,13 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects!
 
 ### Chữ Nôm
+
+*PS: It's weird to repeat this in the resource section, but you DON'T HAVE TO LEARN Han Nom to be able to speak Vietnamese. Most of the Vietnamese out there aren't able to recognize a single Nom character. But still, there are people who want to learn this so I decided to make Han Nom resource list (It's not completed though).*
+
 - [ChuNom.org](https://chunom.org/): There are some Chữ Nôm course offered by ChuNom.org
 - [Nom Foundation](https://nomfoundation.org/): an American nonprofit agency for Han Nom preservation. 
+- [VNY2K](http://vny2k.com/hannom/index.aspx): An online dictionary dedicated to Han Nom etymology
+- [VNY2K - Tu nguyen](http://vny2k.com/hannom/tunguyen.asp): Same as above, with more detailed etymological explanations.
 
 ## Acquire Vietnamese
 
@@ -35,14 +40,27 @@ You just have to click one of the links here and it will directs you to the Viet
 - [VieChannel](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw): There are a lot of gameshows in this channel.
 
 ### Novels and Literary Texts
+
+#### Comprehensible Input
+
+- [Vietnamese Book Suggestion](books.md) - Finding real Vietnamese Literature suggestion that might suits you.
+- [Comprehensible Vietnamese Reading](https://daihocmo.github.io/viet-graded-readers/) - A collection of Vietnamese free graded readers.
+ 
 #### Real Vietnamese literature
+
+_Vietnamese short stories and literary texts written for Vietnamese readers._
+
 - [Văn học trẻ - Truyện ngắn](https://vanhoctre.com/tac-gia-tac-pham/van-hoc-viet-nam/truyen-ngan): Collection of short stories.
 - [Báo Nhân Dân - Mục truyện ngắn](https://nhandan.vn/truyen-ngan/): Collection of short stories from Nhan Dan Newspaper.
 - [Hội nhà văn - Truyện ngắn](https://vanvn.vn/tac-pham-moi/truyen-ngan/): Same as above, but written by people from "Hội nhà văn".
 - [Wikisource Vietnamese Short Stories Collection](https://vi.wikisource.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Truy%E1%BB%87n_ng%E1%BA%AFn_Vi%E1%BB%87t_Nam): Collection of short stories from Wikisource
 - [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/): old Vietnamese books (expired copyright) being digitalized. 
+- [Truyen Voz](https://voz.vn/f/truyen-voz.96/) - Short stories written by Voz forum's users
 
-#### Light novel, web novel
+#### LN, WM
+
+_For those who want to read Light Novel or Web Novel in Vietnamese._
+
 - [Hako](https://ln.hako.vn/): Light novels and Web novels translated to Vietnamese
 - [DTV-Ebook](https://www.dtv-ebook.com): Download various Romance ebooks.
 
@@ -82,6 +100,7 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 - [Youglish Vietnamese](https://youglish.com/vietnamese): Youghlish but for Vietnamese.
 - [Forvo](https://forvo.com/languages/vi/): Search for a word and hear it pronounced by a native speaker.
 - [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/) - A Vietnamese Dictionary made by VietnamesePod101.
+- [VNEDICT Online](http://www.denisowski.org/Vietnamese/Vietnamese.html)
 - [VDict](http://1.vndic.net/) (bilingual) - If you are a beginner, use this. 
 Remember to change the search mode to "Viet - Anh".
 
@@ -94,28 +113,13 @@ Remember to change the search mode to "Viet - Anh".
 
 - [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard.
     
-
-### Applications (Mobile)
-
-#### Android
-
-- [AnkiDroid](https://play.google.com/store/apps/details?id=com.ichi2.anki&hl=en) - Port of Anki for Android devices.
-
-- [AnkiConnect for Android](https://github.com/KamWithK/AnkiconnectAndroid) - use AnkiConnect for 1 click card creation on Android.
-
-- [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser&hl=ja&gl=US) - Chromium based browser with extension support. You can use Yomichan on this.
-
-#### iOS
-
-- [AnkiMobile](https://apps.apple.com/us/app/ankimobile-flashcards/id373493387) - $24.99 official port of Anki for iOS.
-    
+  
 ### Guides/Methods/Motivation
 
-- [All Japanese All The Time](https://learnjapanese.link/ajatt) - The reason why All Japanese All The Time, often abbreviated to AJATT, is still popular to this day, is because of the mindset building that it was able to achieve. The articles on that site can get you in the Japanese immersion spirit better than I or any other guide can.
+- [More Vietnamese](https://morevietnamese.com/)
 - [AntiMoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.
-- [TheMoeWay](http://learnjapanese.moe/): Immersion-based Japanese guide.
-- [Donkuri Guide](https://donkuri.github.io/learn-japanese/)
-- [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and netflix mining guide with asbplayer (also works with zoro.to and amazon prime video)
+- [TheMoeWay](http://learnjapanese.moe/) - Immersion-based Japanese guide, learning Japanese through mass immersion and comprehensible input.
+- [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and Netflix mining guide with asbplayer
 
 ### "Other"
 
