@@ -50,7 +50,7 @@ You just have to click one of the links here and it will directs you to the Viet
 #### Comprehensible Input
 
 - [Vietnamese Book Suggestion](books.md) - Finding real Vietnamese Literature suggestion that might suits you.
-- [Comprehensible Vietnamese Reading](https://daihocmo.github.io/viet-graded-readers/) - A collection of Vietnamese free graded readers.
+- [Comprehensible Vietnamese Reading](https://daihocmo.github.io/archive/vietnamese-reading/) - A collection of Vietnamese free graded readers.
  
 #### Real Vietnamese literature
 
