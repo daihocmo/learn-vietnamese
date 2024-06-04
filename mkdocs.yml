@@ -13,14 +13,14 @@ nav:
   - 'Vietnamese':
     - 'Guide': 'guide.md'
     - 'Culture': 'viet-culture.md'
+    - 'Reading': 'reading-guide.md'
+    - 'Sentence Mining': 'asbplayer.md'
   - 'Comprehensible Input':
     - 'Guide': 'input-guide.md'
     - 'Resources': 'input-resources.md'
   - 'Tools':
-    - 'Mining': 'asbplayer.md'
     - 'Yomitan': 'yomi-setup.md'
     - 'Anki': 'anki.md'
-    - 'Reading': 'reading-guide.md'
   - 'Hán Nôm':
     - 'Guide': 'han-nom.md'
   - 'Resources':
