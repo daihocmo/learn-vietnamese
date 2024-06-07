@@ -13,9 +13,7 @@ Basically, Vietnamese language:
 There are so many Vietnamese southern dialect resources and learning guides out there but rarely for Northern dialect. There are several reasons why you may wanna learn Vietnamese in Northern Dialect from the beginning:
 
 - The pronunciation is clearer, sharper, easier to comprehend.
-
 - Northern dialect is Vietnamese standard dialect.
-
 - The characters and the tones sound consistent in Northern dialect. 
 
 
@@ -56,7 +54,7 @@ _The alphabet chart, there are some characters that sound different than the Eng
 
 ![tones](./Image/tones.webp)
 
-_The tone chart, skip it for now, just learn it quick for the sake of comsuming comprehensible input. The best way to learn tones is to listen to native speakers._
+_The tone chart, skip it for now, just learn it quickly for the sake of comsuming comprehensible input. The best way to learn tones is to listen to native speakers as much as possible._
 
 There are six (6) tones in the Vietnamese language with five (5) tone marks as you can see in the above chart.
 
@@ -68,8 +66,7 @@ This chart will come in handy. I recommend you save it.
 Things you can do with the chart:
 
 - Learn to read characters by referring to the table. 
-
-- Revise how they are pronounced (If you know IPA).
+- Revise how they are pronounced (If you know IPA btw).
 
 - Use it as a master reference for all singular characters and letter combinations. This will help you a lot when you are learning how to read Vietnamese.
 
@@ -146,9 +143,9 @@ Learning grammar can be straightforward and complex at the same time. It's quite
 
 Here are a few guides I wanna recommend to total beginners. You do not need to do every single one, just find the one that works well for you.
 
-- [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers like podcasts.
+- [Elementary Vietnamese by Binh Nhu Ngo](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699): Excellent reviews from community. You can buy the book direct on Amazon (2003 Revised Version) or download it somewhere else on the Internet.
 
-- [Elementary Vietnamese by Binh Nhu Ngo](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699): Excellent reviews from community, I haven't read it myself, you can buy the book direct on Amazon (2003 Revised Version).
+- [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers like podcasts.
 
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 
@@ -167,7 +164,8 @@ So how can we make it so we don’t constantly dread having to parse through con
 
 The answer is actually very simple. Fun! Media can be entertaining for reasons other than language content. By choosing media that also has high entertainment value regardless of its language level, we are able to stay consistently engaged and motivated to continue our immersion. Then, as our language experience grows, we naturally find ourselves understanding more and more, and the once seemingly unattainable goal of finding comprehensible input has now become a given, with the goal rather shifting to finding content that is difficult enough to push us to continue learning.
 
-Wanna learn more about Comprehensible Input, [click here](input-guide.md)
+Wanna learn more about Comprehensible Input, [click here](input.md)
+
 ## 1.7 How to immerse
 
 ### Reading & Dictionaries
@@ -178,12 +176,14 @@ To look up words individually, you can use [Soha](http://tratu.soha.vn/) (Rememb
 
 ### Choosing immersion content
 
-Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](https://daihocmo.github.io/learn-vietnamese/youtube/). Just make sure you're actually interested in whatever you're choosing to immerse with!
+Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](youtube.md). Just make sure you're actually interested in whatever you're choosing to immerse with!
 
 ### How to immerse with listening
 
 Listening is almost entirely a top-down, "intuitive" approach. We don't want to think too hard over things when we are listening. Go with the flow until you find a really good oppportunity to pause and look something up.  
+
 There are certain levels to listening. Level one would be free-flow listening, where you let the listening flow without looking things up. Level two would be looking things up that pop out at you but still letting the listening play. Level three would be pausing at every single unknown word and looking them up.  
+
 In the beginner to intermediate stages, listening is entirely level one and level two listening. Don't think too hard about it and cherish all the little opportunities you get.
 
 #### "Active" and "Passive" listening
@@ -214,7 +214,8 @@ This is a terrible approach. You need to do a bit of everything.
 
 ### The right way to do it
 
-While you are learning the alphabet, I suggest you get into the immersion spirit by trying to watch something in Vietnamese without subtitles. It can be anything you like, and you don't need to understand anything.  
+While you are learning the alphabet, I suggest you get into the immersion spirit by trying to watch something in Vietnamese without subtitles. It can be anything you like, and you don't need to understand anything.
+
 After that you should learn vocabulary and grammar at the same time. How about doing 10 new words and learn 2 grammar points per day? And in the same day, try to get some immersion in.
 
 How long should I do immersion per day?
@@ -241,7 +242,7 @@ How can you measure your current Vietnamese level? It's up to your listening and
 
 _This guide is made possible by TheMoeWay community, I just modified it so it fits Vietnamese learners better. All thanks and donation should goes to them, not me._
 
-There isn't really much else to the learning process other than immerse a lot and learn words and grammar. You can really get fluent at Japanese with this method. But one thing does change when you leave the beginner stage.
+There isn't really much else to the learning process other than immerse a lot and learn words and grammar. You can really get fluent at Vietnamese with this method. But one thing does change when you leave the beginner stage.
 
 Learning vocabulary with Anki will become much more personal as you will be making your own cards from words found in your immersion in a process we call _mining_. You can search "Sentence Mining" for further information. Mining will essentially become the heart of your language _study_. 
 
@@ -252,7 +253,3 @@ Here are some guides for "Sentence Mining", in order:
 - [Mining Vietnamese Sentences with Asbplayer](asbplayer.md)
 
 Thank you so much for taking your time to read this guide and I wish you good luck on your Vietnamese learning journey!
-
-If you have any questions, you can ask away at our Discord server (TheMoeWay server, there is a Vietnamese channel in the server).
-
-[Join the Discord](http://learnjapanese.moe/join/)

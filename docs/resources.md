@@ -3,8 +3,9 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 ## Learning Vietnamese
 
 ### General
-- [Tiếng Việt Thực Hành | Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Made for "" or Vietnamese living overseas
-- [Dạy tiếng Việt | ĐÀI TIẾNG NÓI VIỆT NAM](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov)
+- [Tiếng Việt Thực Hành | Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
+- [Dạy tiếng Việt | ĐÀI TIẾNG NÓI VIỆT NAM](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
+- [More Vietnamese](https://morevietnamese.com/)
 
 
 ### Alphabet
@@ -17,11 +18,9 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.
 
 ### Grammar
-- [duykhan's guide to Vietnamese Grammar](grammar-guide.md): Yet another Vietnamese grammar guide that doesn't suck. Currently in progress.
+- [**※ Elementary Vietnamese by Binh Nhu Ngo**](https://archive.org/details/elementaryvietna0000ngnh/): Excellent reviews from community, I haven't read it myself, you can buy [the book directly on Amazon](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699) (2003 Revised Version).
 
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
-
-- [Elementary Vietnamese by Binh Nhu Ngo](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699): Excellent reviews from community, I haven't read it myself, you can buy the book directly on Amazon (2003 Revised Version).
 
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 
@@ -71,7 +70,6 @@ _For those who want to read Light Novel or Web Novel in Vietnamese._
 - [DTV-Ebook](https://www.dtv-ebook.com): Download various Romance ebooks.
 
 ### Manga
-- [Manga Recommendation](): From Japanese Media Recommendation, you can choose the same manga to read on any of these manga reading sites. 
 - [Blogtruyenmoi](https://blogtruyenmoi.com/): A manga reader site made by Ngankvn, most of the mangas here are uploaded by users or scanlated groups.
 - [Nettruyen](https://nettruyenco.vn/): A pretty large manga reader site.
 - [TruyenQQVN](https://truyenqqvn.com/): Another manga (and manhwa, manhua) reading site.  
@@ -88,8 +86,8 @@ _For those who want to read Light Novel or Web Novel in Vietnamese._
 - [TVE-4U](https://tve-4u.org/): The forum for book lovers and for downloading Vietnamese books made by volunteers.
 
 ### News
-- [VTVNews](https://vtv.vn/): Daily news about Vietnam.
-- [Vietnamnet](https://vietnamnet.vn/): News 
+- [VTVNews](https://vtv.vn/)
+- [Vietnamnet](https://vietnamnet.vn/)
 - [Dân trí](https://dantri.com.vn/)
 - [VNExpress](https://vnexpress.net/)
 - [Tạp chí Tia sáng](https://tiasang.com.vn/): A Vietnamese science & technology magazine.
@@ -122,7 +120,6 @@ Remember to change the search mode to "Viet - Anh".
   
 ### Guides/Methods/Motivation
 
-- [More Vietnamese](https://morevietnamese.com/)
 - [AntiMoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.
 - [TheMoeWay](http://learnjapanese.moe/) - Immersion-based Japanese guide, learning Japanese through mass immersion and comprehensible input.
 - [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and Netflix mining guide with asbplayer

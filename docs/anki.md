@@ -1,1 +1,0 @@
-You can read the guide [here](https://leananki.com/how-to-use-anki-tutorial/). Instead of writing my own guide, there are many quality guide to Anki out there, this is one of those. Or you can just simply find any tutorials on Youtube.

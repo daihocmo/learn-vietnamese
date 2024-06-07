@@ -1,6 +1,6 @@
 I have no idea how should I sort these books, so here is the approximate difficulty, based on my own reading experiences. 
 
-You should read these Vietnamese books using an [online ebook reader](https://reader.ttsu.app) (to look up words immediately using Yomitan. Learn more about how to read and look up words in Vietnamese [here]()) or using ebook reader like Kindle or Kobo. 
+You should read these Vietnamese books using an [online ebook reader](https://reader.ttsu.app) (to look up words immediately using Yomitan) or using ebook reader like Kindle or Kobo. 
 
 | Name | Author | Difficulty | Description | Book cover |
 | --- | --- | --- | --- | --- |
