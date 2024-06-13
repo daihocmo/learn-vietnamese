@@ -250,6 +250,5 @@ Here are some guides for "Sentence Mining", in order:
 
 - [Basic Sentence Mining Guide from Refold](https://refold.la/roadmap/stage-2/a/basic-sentence-mining)
 - [How to use Sentence Mining](https://www.reddit.com/r/languagelearning/comments/ja37ua/how_do_i_use_sentence_mining/)
-- [Mining Vietnamese Sentences with Asbplayer](asbplayer.md)
 
 Thank you so much for taking your time to read this guide and I wish you good luck on your Vietnamese learning journey!

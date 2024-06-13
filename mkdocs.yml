@@ -1,4 +1,4 @@
-site_name: Comprehensible Vietnamese  
+site_name: Immersion-based Vietnamese Learning - Daihocmo  
 site_description: Guide to self-learning Vietnamese through Comprehensible Input and Mass Immersion.
 site_author: onlyduyy  
 theme:
@@ -10,11 +10,11 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Vietnamese':
+  - 'Main Guide':
     - 'Guide': 'guide.md'
     - 'Culture': 'viet-culture.md'
     - 'FAQ': 'viet-faq.md'
-  - 'Guide':
+  - 'Setup':
     - 'Anki & Yomitan': 'tools.md'
     - 'Comprehensible Input': 'input.md'
     - 'Reading': 'reading-guide.md'
@@ -48,7 +48,7 @@ theme:
         name: Switch to light mode
   features:
     - navigation.instant
-    - navigation.sections
+    - navigation.tabs
     - search.suggest
     - search.highlighting
     - search.share
