@@ -1,9 +1,9 @@
 ## Anki
 
-- [Quick Guide](https://learnjapanese.moe/routine/#stage-learning-kanji-and-new-words-using-anki-for-the-first-time)
-- [Comprehensive Guide from Learnanki.com](https://leananki.com/how-to-use-anki-tutorial/). 
+You might wanna "learn" Anki beforehand. Here are some suggested full-text guides. If you prefer interactive guide, just search it on Youtube.
 
-Instead of writing my own guide, there are many quality guide to Anki out there, there are some of those. Or you can just simply find any tutorials on Youtube.
+- [Quick Guide](https://learnjapanese.moe/routine/#stage-learning-kanji-and-new-words-using-anki-for-the-first-time)
+- [Comprehensive Guide from LearnAnki](https://leananki.com/how-to-use-anki-tutorial/)
 
 ## Yomitan
 
@@ -13,7 +13,7 @@ First, please visit [this page](https://github.com/MarvNC/yomichan-dictionaries?
 
 Choose **VNEDICT** and it will redirect to the download page. There are 5 dictionaries, you can just download all of them if you have no idea which one should you use.
 
-You can read the installation guide [here](https://learnjapanese.moe/yomichan/).
+Read Yomitan installation guide [here](https://learnjapanese.moe/yomichan/) before proceeding.
 
 ### Preview:
 ![viet-english-dictionary](./previews/guides/reading/08.webp)

@@ -13,6 +13,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Alphabet by MyLanguages.org](http://www.mylanguages.org/vietnamese_alphabet.php): Yet another Vietnamese alphabet guide.
 
 ### Vocabulary
+
 - [Vietnamese Vocabulary Core 1k by Soi](https://ankiweb.net/shared/info/687513656): Vietnamese Core 1K Vocab Anki Deck made by Soi
 - [Xefjord's Complete Vietnamese - Northern Dialect](https://www.dropbox.com/sh/g4iz7sw992qzieg/AAD-iCCcDrUmfUPsXU3JtvWLa?dl=0): The Vietnamese Anki deck from [this project](https://www.reddit.com/r/languagelearning/comments/ywuj8g/100_free_anki_language_decks_xefjords_complete/).
 - [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.

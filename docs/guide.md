@@ -1,6 +1,6 @@
 The structure of this guide is based on [TheMoeWay's Guide](https://learnjapanese.moe/guide/) (TheMoeWay's guide includes the "Preface" part, which tackles many questions about traditional language learning methods so feel free to check this out). 
 
-Basically, Vietnamese language:
+Vietnamese has:
 
 - No conjugation you would need to remember.
 
@@ -14,19 +14,19 @@ There are so many Vietnamese southern dialect resources and learning guides out 
 
 - The pronunciation is clearer, sharper, easier to comprehend.
 - Northern dialect is Vietnamese standard dialect.
-- The characters and the tones sound consistent in Northern dialect. 
-
+- The characters and the tones sound consistent in Northern dialect.
 
 Don't worry about the dialects too much when you have just started learning Vietnamese. The dialect only matters in listening and speaking (I know most of Vietnamese learners know this, but still, I want to emphasize it)
 
 You might wanna watch [this video](https://youtu.be/y1fF69jiavU?si=3f2CvFzjN-8zxPNP) before reading this whole learning guide. This video was made by a successful Vietnamese learner - aNcari (Her Youtube channel name).
 
 ### Beginner study process
+
 The learning process for the beginner consists of:
 
-- Learning the alphabet (29 letters) and tones (5 tones). 
+- Learning the alphabet (29 letters) and tones (5 tones).  
 
-- Learning basic vocabulary with a program called _Anki_ (If you know Japanese or Chinese, it would be easier to acquire Vietnamese vocabulary).
+- Learning basic vocabulary with a program called _Anki_
 
 - Learning grammar through a _YouTube_ playlist or a full-text guide.
 
@@ -48,6 +48,7 @@ The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the of
 _The alphabet chart, there are some characters that sound different than the English counterpart, don't try to remember all of them at first, especially the letter combinations. Skip the IPA after the "/" in the pronunciation guide below each characters, it represents its Southern dialect counterpart._
 
 ### Notes
+
 - The letters "F", "J", "W" and "Z" are not part of the Vietnamese alphabet, but are used in foreign loan words.
 
 - In informal writing, "W", "F", and "J" are sometimes used as shorthands for "QU", "PH" and "GI" respectively.
@@ -82,11 +83,16 @@ Both videos only take you 20 minutes, so don't skip any parts and watch until th
 
 You can use [this Anki deck](https://ankiweb.net/shared/info/2093025241) (check the Anki guide below before downloading this deck and use it) to revise the alphabet (I assume you've finished Step 2). Or, if you want an easier way to test yourself, [here is the Quizlet link](https://quizlet.com/vn/888929191/vietnamese-alphabet-flash-cards/) for the Vietnamese alphabet.
 
+
 #### Step 4 - reading practice
 
 What also helps immensely in memorising the alphabet and the tones is reading Vietnamese sentences. You don't have to understand the meaning yet, just read to remember them for now (don't speak it aloud, it goes against the immersion rule, or reading too much, it may affects your Vietnamese pronunciation).
 
 I recommend practising by trying to read some storybooks, which you can find [here](https://global-asp.github.io/storybooks-sah/stories/vi/).
+
+#### Step 5 - "học đánh vần" (spelling)
+
+Learning how to read Vietnamese words is non-trivial at first but it pays off in the long run. You don't have to rely on IPA, undoubtedly you shouldn't because the IPA for most Vietnamese words looks intimidating and it varies based on different dialects. 
 
 ## 1.4 Learning Vocabulary
  
