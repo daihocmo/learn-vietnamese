@@ -3,9 +3,7 @@ The structure of this guide is based on [TheMoeWay's Guide](https://learnjapanes
 Vietnamese has:
 
 - No conjugation you would need to remember.
-
 - Lots of loan words from Chinese (if you know some Chinese, you have something to associate your new vocabulary with).
-
 - The script: Latin-based.
 
 ## 1.1 How to learn Vietnamese (Northern Dialect)
@@ -93,6 +91,8 @@ I recommend practising by trying to read some storybooks, which you can find [he
 #### Step 5 - "học đánh vần" (spelling)
 
 Learning how to read Vietnamese words is non-trivial at first but it pays off in the long run. You don't have to rely on IPA, undoubtedly you shouldn't because the IPA for most Vietnamese words looks intimidating and it varies based on different dialects. 
+
+You should read [this guide](https://morevietnamese.com/pronounce-vietnamese-words/) written by [Elisabeth Ruth](https://morevietnamese.com/). 
 
 ## 1.4 Learning Vocabulary
  

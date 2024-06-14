@@ -20,10 +20,10 @@ nav:
     - 'Anki & Yomitan': 'tools.md'
     - 'Comprehensible Input': 'input.md'
     - 'Reading': 'reading-guide.md'
-  - 'Resources':
+  - 'Resources & Recommendations':
     - 'Resources': 'resources.md'
     - 'Communities': 'community.md' 
-  - 'Recommendation':
+  - 'Media':
     - 'Books': 'books.md'
     - 'Movies': 'movies.md'
     - 'Youtube': 'youtube.md'

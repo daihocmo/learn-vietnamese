@@ -1,6 +1,6 @@
 ## Anki
 
-You might wanna "learn" Anki beforehand. Here are some suggested full-text guides. If you prefer interactive guide, just search it on Youtube.
+You might wanna "learn" Anki beforehand. Here are some suggested full-text guides. If you prefer interactive guide, just look it up on Youtube.
 
 - [Quick Guide](https://learnjapanese.moe/routine/#stage-learning-kanji-and-new-words-using-anki-for-the-first-time)
 - [Comprehensive Guide from LearnAnki](https://leananki.com/how-to-use-anki-tutorial/)

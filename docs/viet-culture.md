@@ -1,5 +1,3 @@
-_Understanding Vietnam's culture could make your Vietnamese learning journey much easier._
-
 Vietnam is actually East Asian by culture & ethnicity. It's 1 of the main cultures within the [East Asian cultural sphere](https://en.wikipedia.org/wiki/East_Asian_cultural_sphere), and even [Harvard](https://ealc.fas.harvard.edu/vietnamese) labels Vietnamese as East Asian. Also, Vietnamese used to be written in [Chinese characters](https://en.wikipedia.org/wiki/Ch%E1%BB%AF_N%C3%B4m) before the French came and changed everything, and our ancestors came from South China & North Vietnam
 
 Compare to other East Asian cultures (China, Japan, Korea), You can say that Vietnamese are somewhat more genuine and open to other cultures. Us Vietnamese live among a lots of culture and they (for whom I have seen) mostly do not regard toward races and genders much. Vietnamese are also (again, for the people I have seen) hard working and trying to figure their way around a lot. A lot of poor, underprivileged Vietnamese find happiness in themselves. And they would help people in need whenever their condition allows it.

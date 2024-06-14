@@ -5,8 +5,15 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 ### General
 - [Tiếng Việt Thực Hành | Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
 - [Dạy tiếng Việt | ĐÀI TIẾNG NÓI VIỆT NAM](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
-- [More Vietnamese](https://morevietnamese.com/)
+- [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo)
+- [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
+- [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
 
+### Course
+- [Vietnamese courses on Memrise](http://www.memrise.com/courses/english/vietnamese/)
+- [Northern Illinois University Vietnamese Language Course](http://www.seasite.niu.edu/vietnamese/vnlanguage/supportns/tableofcontent.htm)
+- [Vietnam - Tuttle Publishing](http://www.tuttlepublishing.com/vietnam) They have a variety of Vietnamese language material.
+- [Learning Vietnamese Language Online](http://www.public.asu.edu/~ickpl/vnonline/index.htm) (ASU Vietnamese Online Coarse)
 
 ### Alphabet
 - [Flexiclasses Vietnamese Learning Blog](https://flexiclasses.com/vietnamese/alphabet/): All about Vietnamese alphabet, learning how to read and write here.
@@ -19,17 +26,14 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.
 
 ### Grammar
-- [**※ Elementary Vietnamese by Binh Nhu Ngo**](https://archive.org/details/elementaryvietna0000ngnh/): Excellent reviews from community, I haven't read it myself, you can buy [the book directly on Amazon](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699) (2003 Revised Version).
-
+- [**※ Elementary Vietnamese by Binh Nhu Ngo**](https://mega.nz/file/gyFkhYKJ#Kpnyib0ScvKUJ6SYhvuMgJT8SnvIUfYhE5G29q378MQ): Excellent reviews from community, you can buy [the book directly on Amazon](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699) (2003 Revised Version). Here is the [Audio CD](https://www.tuttlepublishing.com/elementary-vietnamese-audio) for the book.
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
-
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
-
 - [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects!
 
 ### Chữ Nôm
 
-*PS: It's weird to repeat this in the resource section, but you DON'T HAVE TO LEARN Han Nom to be able to speak Vietnamese. Most of the Vietnamese out there aren't able to recognize a single Nom character. But still, there are people who want to learn this so I decided to make Han Nom resource list (It's not completed though).*
+*PS: you DON'T HAVE TO LEARN Chu Nom to be able to speak Vietnamese. Most of the Vietnamese out there aren't able to recognize a single Nom character. But still, there are people who want to learn this so I decided to make Han Nom resource list (It's not completed though).*
 
 - [ChuNom.org](https://chunom.org/): There are some Chữ Nôm course offered by ChuNom.org
 - [Nom Foundation](https://nomfoundation.org/): an American nonprofit agency for Han Nom preservation. 
