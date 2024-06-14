@@ -12,13 +12,14 @@ nav:
   - Home: 'index.md'
   - 'Main Guide':
     - 'Guide': 'guide.md'
+    - 'Comprehensible Input': 'input.md'
+  - 'FAQ':
     - 'FAQ': 'viet-faq.md'
   - 'Vietnam':
     - 'Culture': 'viet-culture.md'
     - 'Cuisine': 'viet-cuisine.md'
   - 'Setup':
     - 'Anki & Yomitan': 'tools.md'
-    - 'Comprehensible Input': 'input.md'
     - 'Reading': 'reading-guide.md'
   - 'Resources & Recommendations':
     - 'Resources': 'resources.md'
