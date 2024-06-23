@@ -24,6 +24,8 @@ nav:
     - 'Movies': 'movies.md'
     - 'Youtube': 'youtube.md'
     - 'Podcasts': 'podcasts.md'
+  - 'Mining':
+    - 'Mining': 'mining.md'
   - 'Resources':
     - 'Resources': 'resources.md'
   - 'Recommendations':

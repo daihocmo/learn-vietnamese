@@ -22,7 +22,7 @@ You might wanna watch [this video](https://youtu.be/y1fF69jiavU?si=3f2CvFzjN-8zx
 
 The learning process for the beginner consists of:
 
-- Learning the alphabet (29 letters) and tones (5 tones).  
+- Learning the alphabet (29 letters) and tones (6 tones).  
 
 - Learning basic vocabulary with a program called _Anki_
 
@@ -43,31 +43,18 @@ The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the of
 
 ![bang_chu_cai](./Image/bang_chu_cai.webp)
 
-_The alphabet chart, there are some characters that sound different than the English counterpart, don't try to remember all of them at first, especially the letter combinations. Skip the IPA after the "/" in the pronunciation guide below each characters, it represents its Southern dialect counterpart._
-
-### Notes
-
-- The letters "F", "J", "W" and "Z" are not part of the Vietnamese alphabet, but are used in foreign loan words.
-
-- In informal writing, "W", "F", and "J" are sometimes used as shorthands for "QU", "PH" and "GI" respectively.
+_The alphabet chart, there are some characters that sound different than the English counterpart, don't try to remember all of them at first, especially the letter combinations._
 
 ![tones](./Image/tones.webp)
 
-_The tone chart, skip it for now, just learn it quickly for the sake of comsuming comprehensible input. The best way to learn tones is to listen to native speakers as much as possible._
+_The tone chart._
 
 There are six (6) tones in the Vietnamese language with five (5) tone marks as you can see in the above chart.
 
 
 Both of the above chart are taken from [Omniglot](https://www.omniglot.com/writing/vietnamese.htm).
 
-This chart will come in handy. I recommend you save it. 
-
-Things you can do with the chart:
-
-- Learn to read characters by referring to the table. 
-- Revise how they are pronounced (If you know IPA btw).
-
-- Use it as a master reference for all singular characters and letter combinations. This will help you a lot when you are learning how to read Vietnamese.
+You might wanna use the chart as a master reference for all singular characters and letter combinations. This will help you a lot when you are learning how to read Vietnamese so I recommend you save it. 
 
 #### Step 2 - The YouTube video
 
@@ -81,7 +68,6 @@ Both videos only take you 20 minutes, so don't skip any parts and watch until th
 
 You can use [this Anki deck](https://ankiweb.net/shared/info/2093025241) (check the Anki guide below before downloading this deck and use it) to revise the alphabet (I assume you've finished Step 2). Or, if you want an easier way to test yourself, [here is the Quizlet link](https://quizlet.com/vn/888929191/vietnamese-alphabet-flash-cards/) for the Vietnamese alphabet.
 
-
 #### Step 4 - reading practice
 
 What also helps immensely in memorising the alphabet and the tones is reading Vietnamese sentences. You don't have to understand the meaning yet, just read to remember them for now (don't speak it aloud, it goes against the immersion rule, or reading too much, it may affects your Vietnamese pronunciation).
@@ -90,25 +76,25 @@ I recommend practising by trying to read some storybooks, which you can find [he
 
 #### Step 5 - "học đánh vần" (spelling)
 
-Learning how to read Vietnamese words is non-trivial at first but it pays off in the long run. You don't have to rely on IPA, undoubtedly you shouldn't because the IPA for most Vietnamese words looks intimidating and it varies based on different dialects. 
+Learning how to read Vietnamese words is non-trivial at first but it pays off in the long run. You don't have to rely on IPA, frankly you shouldn't because the IPA for most Vietnamese words looks intimidating. Furthermore, The Vietnamese script is almost entirely phonetic, meaning you can read a new word and know how to pronounce it immediately.
 
 You should read [this guide](https://morevietnamese.com/pronounce-vietnamese-words/) written by [Elisabeth Ruth](https://morevietnamese.com/). 
+
+You should also have a pronunciation deck, please visit [here](https://ankiweb.net/shared/info/1747674390) to download the deck.
 
 ## 1.4 Learning Vocabulary
  
 To make Vietnamese less daunting, I recommend you work through a beginner-level vocabulary deck for Anki. This is a deck consisting of around 1000 to 2000 words aimed at teaching you the most common Vietnamese words to jumpstart your Vietnamese learning.
 
-- [Vietnamese Vocabulary Core 1k by Soi](https://ankiweb.net/shared/info/687513656): Vietnamese Core 1K Vocab Anki Deck made by Soi.
-
-- [Xefjord's Complete Vietnamese - Northern Dialect](https://www.dropbox.com/sh/g4iz7sw992qzieg/AAD-iCCcDrUmfUPsXU3JtvWLa?dl=0): The Vietnamese Anki deck from [this project](https://www.reddit.com/r/languagelearning/comments/ywuj8g/100_free_anki_language_decks_xefjords_complete/).
-
-_PS: There are some decks I found that may come in handy. If there is any suggestions how to improve these decks, or wanna make a high-quality Vietnamese deck, feel free to email me: duykhanh471@protonmail.com_
+Please visit [here](https://daihocmo.github.io/learn-vietnamese/anki/#premade-decks-for-vietnamese-learning) to download some of the suggested Vietnamese Vocabulary Decks.
 
 ### Quick Anki Setup
 
 Anki is a flashcard program designed to help you remember large amounts of information, such as vocabulary.
 
 Visit the [Anki download page](https://apps.ankiweb.net/), and download the version of Anki for your system and install it.
+
+![anki-download-page](https://learnjapanese.moe/img/ankidownload.png)
 
 Download the one for your system.
 
@@ -147,10 +133,8 @@ Learning grammar can be straightforward and complex at the same time. It's quite
 
 Here are a few guides I wanna recommend to total beginners. You do not need to do every single one, just find the one that works well for you.
 
-- [Elementary Vietnamese by Binh Nhu Ngo](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699): Excellent reviews from community. You can buy the book direct on Amazon (2003 Revised Version) or download it somewhere else on the Internet.
-
+- Elementary Vietnamese by Binh Nhu Ngo
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers like podcasts.
-
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 
 It is prime time to start getting some immersion going when you have learned some new grammar points. Seeing how the grammar you learned is applied in real usages really helps further your understanding of the grammar points.
@@ -167,8 +151,6 @@ Failing to understand the content you want to enjoy inherently sucks unless you 
 So how can we make it so we don’t constantly dread having to parse through content that is difficult to understand?
 
 The answer is actually very simple. Fun! Media can be entertaining for reasons other than language content. By choosing media that also has high entertainment value regardless of its language level, we are able to stay consistently engaged and motivated to continue our immersion. Then, as our language experience grows, we naturally find ourselves understanding more and more, and the once seemingly unattainable goal of finding comprehensible input has now become a given, with the goal rather shifting to finding content that is difficult enough to push us to continue learning.
-
-Wanna learn more about Comprehensible Input, [click here](input.md)
 
 ## 1.7 How to immerse
 
@@ -211,9 +193,9 @@ You can start to lower the amount of listening to an equal 5:5 ratio when you ge
 
 ### The wrong way to do it
 
-The wrong way
+> The wrong way
 
-Learn the alphabet, then learn ALL the 1500 words in the Core deck, then learn ALL the grammar before you finally try immersion for the first time...
+_Learn the alphabet, then learn ALL the 1500 words in the Core deck, then learn ALL the grammar before you finally try immersion for the first time..._
 
 This is a terrible approach. You need to do a bit of everything.
 
@@ -223,9 +205,10 @@ While you are learning the alphabet, I suggest you get into the immersion spirit
 
 After that you should learn vocabulary and grammar at the same time. How about doing 10 new words and learn 2 grammar points per day? And in the same day, try to get some immersion in.
 
-How long should I do immersion per day?
+> "How long should I do immersion per day?"
 
-I recommend around 1 hour to 2 hours when starting out. There is no harm in doing more immersion than that, and you will improve faster with more immersion per day.
+I recommend around 1 hour to 2 hours when starting out. There is no harm in doing more immersion than that, and you will improve faster with more immersion per day.  
+
 
 ## 2.1 Regarding speaking and writing (output)
 
@@ -236,11 +219,20 @@ Contrary to what many immersion-based learning methods say, I do not believe it 
 
 ## 2.2 Pronunciation
 
-Learning Vietnamese pronunciation is tough, even for advanced learners (if you follow traditional guides btw). It's undeniable to say that, how well you pronouce a Vietnamese word is largely up to how much time have you heard that word spoken by a Vietnamese native.
+How well you pronouce a Vietnamese word is largely up to how many times you have heard that word spoken by Vietnamese.
+
+Here is [the Vietnamese Pronunciation deck](https://ankiweb.net/shared/info/1747674390) you should use.
 
 ## 2.3 Learning milestones
 
-How can you measure your current Vietnamese level? It's up to your listening and reading time (Comprehensible Input), not just immersing mindlessly, incomprehensible input doesn't work.
+For those that are curious, here is the level of Vietnamese ability you can expect to have after reaching these milestones.
+
+- 50 active immersion hours: You are really starting to get the hang of listening to Vietnamese. You are probably able to understand a good chunk of sentences now.
+- 150 active immersion hours: At this point listening to Vietnamese is going to feel more natural than ever before.
+- 300 active immersion hours: If you have been keeping up with your study... then I can't really consider you a beginner anymore at this point. There's going to be a huge difference between your abilty now compared to when you were starting out!
+- 1 full novel finished: While you had a really rough time trying to understand this book, you are beginning to really shoot out of the beginner stage. The next book you read will be noticeably easier.
+- 5 novels finished: I wouldn't consider you are a beginner anymore. You are really beginning to build up good Vietnamese reading proficiency.
+- 10 novels finished: Completely intermediate at this point. Congratulations!
 
 
 ## 2.4 Closing notes: post-beginner stage and beyond
