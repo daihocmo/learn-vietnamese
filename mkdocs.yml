@@ -1,5 +1,5 @@
-site_name: Immersion-based Vietnamese Learning - Daihocmo  
-site_description: Guide to self-learning Vietnamese through Comprehensible Input and Mass Immersion.
+site_name: Immersion-based Vietnamese Learning - Khu học mở  
+site_description: Guide to self-learning Vietnamese through Comprehensible Input and Immersion.
 site_author: onlyduyy  
 theme:
   name: material
@@ -15,20 +15,19 @@ nav:
     - 'Comprehensible Input': 'input.md'
   - 'FAQ':
     - 'FAQ': 'viet-faq.md'
-  - 'Vietnam':
-    - 'Culture': 'viet-culture.md'
-    - 'Cuisine': 'viet-cuisine.md'
   - 'Setup':
-    - 'Anki & Yomitan': 'tools.md'
+    - 'Anki': 'anki.md'
+    - 'Yomitan': 'yomitan.md'
     - 'Reading': 'reading-guide.md'
-  - 'Resources & Recommendations':
-    - 'Resources': 'resources.md'
-    - 'Communities': 'community.md' 
   - 'Media':
     - 'Books': 'books.md'
     - 'Movies': 'movies.md'
     - 'Youtube': 'youtube.md'
     - 'Podcasts': 'podcasts.md'
+  - 'Resources':
+    - 'Resources': 'resources.md'
+  - 'Recommendations':
+    - 'Communities': 'community.md' 
       
 theme:
   palette:

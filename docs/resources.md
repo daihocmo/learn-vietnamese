@@ -2,17 +2,21 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 
 ## Learning Vietnamese
 
-### General
-- [Tiếng Việt Thực Hành | Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
-- [Dạy tiếng Việt | ĐÀI TIẾNG NÓI VIỆT NAM](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
-- [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo)
+### Guide
+- [HOW TO START LEARNING VIETNAMESE](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
+- [Refold Vietnamese](http://refold.link/vietnamese) - Refold Roadmap for Vietnamese Learning.
+- [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo) - Not really a curated guide but it's worth reading.
+
+## Other Resources
 - [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
 - [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
+- [Dạy tiếng Việt | ĐÀI TIẾNG NÓI VIỆT NAM](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
+- [Tiếng Việt Thực Hành | Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
+
 
 ### Course
-- [Vietnamese courses on Memrise](http://www.memrise.com/courses/english/vietnamese/)
+- [Vietnamese courses on Memrise]( https://www.memrise.com/course/2238657/mammens-vietnamese/edit/)
 - [Northern Illinois University Vietnamese Language Course](http://www.seasite.niu.edu/vietnamese/vnlanguage/supportns/tableofcontent.htm)
-- [Vietnam - Tuttle Publishing](http://www.tuttlepublishing.com/vietnam) They have a variety of Vietnamese language material.
 - [Learning Vietnamese Language Online](http://www.public.asu.edu/~ickpl/vnonline/index.htm) (ASU Vietnamese Online Coarse)
 
 ### Alphabet
@@ -21,9 +25,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 
 ### Vocabulary
 
-- [Vietnamese Vocabulary Core 1k by Soi](https://ankiweb.net/shared/info/687513656): Vietnamese Core 1K Vocab Anki Deck made by Soi
-- [Xefjord's Complete Vietnamese - Northern Dialect](https://www.dropbox.com/sh/g4iz7sw992qzieg/AAD-iCCcDrUmfUPsXU3JtvWLa?dl=0): The Vietnamese Anki deck from [this project](https://www.reddit.com/r/languagelearning/comments/ywuj8g/100_free_anki_language_decks_xefjords_complete/).
-- [Vietnamese Vocabulary Lists](https://www.vietnamesepod101.com/vietnamese-vocabulary-lists/): A complete list of basic Vietnamese vocabulary made by VietnamesePod101.
+- [**※ Vietnamese Anki Decks**](anki.md) - Collection of Vietnamese Learning Anki Decks.
 
 ### Grammar
 - [**※ Elementary Vietnamese by Binh Nhu Ngo**](https://mega.nz/file/gyFkhYKJ#Kpnyib0ScvKUJ6SYhvuMgJT8SnvIUfYhE5G29q378MQ): Excellent reviews from community, you can buy [the book directly on Amazon](https://www.amazon.com/Elementary-Vietnamese-Binh-Nhu-Ph-D/dp/0804833699) (2003 Revised Version). Here is the [Audio CD](https://www.tuttlepublishing.com/elementary-vietnamese-audio) for the book.
@@ -43,6 +45,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 ## Acquire Vietnamese
 
 ### Movies & TV Shows
+
 You just have to click one of the links here and it will directs you to the Vietnamese movie collection (Instead of the website's main page).
 
 - [FPTPlay](https://fptplay.vn/block/category_vod/viet-nam-5575464417dc1321ee858668): Watching Vietnamese movies for free, you just have to use your Google or Facebook account. 
@@ -85,10 +88,10 @@ _For those who want to read Light Novel or Web Novel in Vietnamese._
 - [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Vietnamese Podcasts.
 
 ### Forums
-- [VOZ](https://voz.vn/): VOZ (other names: Vnoczone, vOz, vOzforums, Vietnam Overclockers Zone) an online forum has been established since 2001, one of the largest Technogoly forum in Vietnamese. Despite the description, this forum has a lot of things to offer, not just Science & Technology.  
+- [VOZ](https://voz.vn/) - one of the largest Technogoly forum in Vietnamese. 
 - [OTOFUN](https://www.otofun.net/forums): Primarily about cars and auto.
 - [Blogtruyen Forum](https://forum.blogtruyenmoi.com/): An Forum for manga lovers, you can also read Vietnamese-translated manga here.
-- [TVE-4U](https://tve-4u.org/): The forum for book lovers and for downloading Vietnamese books made by volunteers.
+- [TVE-4U](https://tve-4u.org/): For Bookworms
 
 ### News
 - [VTVNews](https://vtv.vn/)
@@ -98,20 +101,25 @@ _For those who want to read Light Novel or Web Novel in Vietnamese._
 - [Tạp chí Tia sáng](https://tiasang.com.vn/): A Vietnamese science & technology magazine.
 
 ### Dictionaries
+
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily. 
+
+- [**※ - Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary.
 
 - **[VNEDICT](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)** by Paul Denisowski converted by Marsh Nguyễn for Yomichan.
 - **[Chữ Nôm Dictionary](https://www.mediafire.com/file/sn5xjfcp045vh9p/Ch%E1%BB%AF_N%C3%B4m.zip/file)** Chữ Nôm Dictionary converted by Marsh Nguyễn. The data comes from [https://chunom.org/](https://chunom.org/) The dictionary contains 1,569 entries.
 - **[Từ Điển Tiếng Việt Thông Dụng](https://www.mediafire.com/file/ekopqoj0627tpkw/T%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_Vi%E1%BB%87t.zip/file)** Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from [https://github.com/vntk/dictionary/tree/master/data](https://github.com/vntk/dictionary/tree/master/data) contains 42012 entries.
 
 #### Online
-- [Youglish Vietnamese](https://youglish.com/vietnamese): Youghlish but for Vietnamese.
-- [Forvo](https://forvo.com/languages/vi/): Search for a word and hear it pronounced by a native speaker.
-- [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/) - A Vietnamese Dictionary made by VietnamesePod101.
+
 - [VNEDICT Online](http://www.denisowski.org/Vietnamese/Vietnamese.html)
 - [VDict](http://1.vndic.net/) (bilingual) - If you are a beginner, use this. 
 Remember to change the search mode to "Viet - Anh".
+- [Youglish Vietnamese](https://youglish.com/vietnamese): Youghlish but for Vietnamese.
+- [Forvo](https://forvo.com/languages/vi/): Search for a word and hear it pronounced by a native speaker.
+- [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/) - A Vietnamese Dictionary made by VietnamesePod101.
+
 
 #### E-Reader Dictionaries
 - **[VNEDICT in stardict format](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)**

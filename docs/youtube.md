@@ -24,13 +24,13 @@ There are various great Youtube contents made by Vietnamese. And if you are stuc
 | [Thanh Pham](https://www.youtube.com/channel/UCflB5s9lNML-rFf9JpBiC4A) | Northern | Other | He draws, sometimes makes random videos about history, really hilarious. | ![cover](./previews/youtube/thanhpham.webp) |
 | [Tập Vẽ Man](https://www.youtube.com/@tapveman) | Northern | Skits | He makes animated videos about his own experiences. | ![cover](./previews/youtube/tap_ve_man.webp) | 
 | [Meichan](https://www.youtube.com/channel/UCXqtMJC2xCAWPATo4919dTA) | Northern | Vlog | vlog about her uni life | ![cover](./previews/youtube/meichan.webp) | 
-| [Ninh Titô](https://youtube.com/c/NinhTit%C3%B4) | Northern | travel & food | A food reviewer who makes videos about various Vietnamese cuisines | ![cover]() | 
-| [Woossi TV](https://youtube.com/c/WOOSSITV) | Northern | Vlog | (he's Korean but the content is in VN), there are Vietnamese subtitles (inside the video) | ![cover]() | 
-| [Huy Hay Đi](https://youtube.com/c/HuyHay%C4%90i) | Northern |  | smaller travel, vietnamese sub is available  | ![cover]() | 
-| [Loa Phường TV](https://www.youtube.com/@LoaPhuongtv) | Northern |  | comedy, vietnamese sub is available  | ![cover]() | 
-| [Cô Em Trendy](https://www.youtube.com/channel/UCgjvMGOqcR1Z3yUXN71GDgg) | Northern | Comestics |  | ![cover]() | 
-| [An Nguyễn Fitness](https://www.youtube.com/channel/UCmGd7o2cpZgU6EcuJYXijKw) | Northern | Fitness |  | ![cover]() | 
- 
+| [Ninh Titô](https://youtube.com/c/NinhTit%C3%B4) | Northern | travel & food | A food reviewer who makes videos about various Vietnamese cuisines | | 
+| [Woossi TV](https://youtube.com/c/WOOSSITV) | Northern | Vlog | (he's Korean but the content is in VN), there are Vietnamese subtitles (inside the video) | | 
+| [Huy Hay Đi](https://youtube.com/c/HuyHay%C4%90i) | Northern |  | smaller travel, vietnamese sub is available  | | 
+| [Loa Phường TV](https://www.youtube.com/@LoaPhuongtv) | Northern |  | comedy, vietnamese sub is available  | | 
+| [Cô Em Trendy](https://www.youtube.com/channel/UCgjvMGOqcR1Z3yUXN71GDgg) | Northern | Comestics |  | | 
+| [An Nguyễn Fitness](https://www.youtube.com/channel/UCmGd7o2cpZgU6EcuJYXijKw) | Northern | Fitness |  | | 
+| [Saigon Teu](https://www.youtube.com/channel/UCqaQzGvnFzaEPFx-f326pog) | Southern | Comedy | | |
 
 ## TV Programme (Available on Youtube)
 

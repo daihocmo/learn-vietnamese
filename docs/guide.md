@@ -110,8 +110,6 @@ Anki is a flashcard program designed to help you remember large amounts of infor
 
 Visit the [Anki download page](https://apps.ankiweb.net/), and download the version of Anki for your system and install it.
 
-![Anki Download Page](http://learnjapanese.moe/img/ankidownload.webp)
-
 Download the one for your system.
 
 When opening Anki for the first time, you will be asked to set your display language, just leave it at the default (English).
@@ -205,7 +203,8 @@ Reading content with a visual component such as Youtube videos, Manga can help e
 
 ### Ideal ratio between listening and reading
 
-In the beginner stage I recommend a 7:3 listening to reading ratio. This is mainly because listening is the most natural form of the language, so I believe it is essential to prioritise it to make your brain process Japanese more naturally.  
+In the beginner stage I recommend a 7:3 listening to reading ratio. This is mainly because listening is the most natural form of the language, so I believe it is essential to prioritise it to make your brain process Vietnamese more naturally.  
+
 You can start to lower the amount of listening to an equal 5:5 ratio when you get better at Vietnamese.
 
 ## 1.8 Beginner learning loop
