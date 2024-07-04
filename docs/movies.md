@@ -1,4 +1,3 @@
-Here are some suggestions:
 
 - [Kính vạn hoa](https://youtube.com/playlist?list=PLFk1RtAQGTYV_wFjNd1filUx1mbZowwzz) 
 - [Sóng ở đáy sông](https://youtube.com/playlist?list=PLI4DZVYqSXKOVBZMyJJ2A4mHmK-OwSv3O) - Some art work of the 2000s right there |

@@ -74,7 +74,7 @@ What also helps immensely in memorising the alphabet and the tones is reading Vi
 
 I recommend practising by trying to read some storybooks, which you can find [here](https://global-asp.github.io/storybooks-sah/stories/vi/).
 
-#### Step 5 - "học đánh vần" (spelling)
+#### Step 5 - "học đánh vần" - Pronunciation
 
 Learning how to read Vietnamese words is non-trivial at first but it pays off in the long run. You don't have to rely on IPA, frankly you shouldn't because the IPA for most Vietnamese words looks intimidating. Furthermore, The Vietnamese script is almost entirely phonetic, meaning you can read a new word and know how to pronounce it immediately.
 
@@ -100,7 +100,7 @@ Download the one for your system.
 
 When opening Anki for the first time, you will be asked to set your display language, just leave it at the default (English).
 
-You can try the [Vietnamese Vocabulary Core 1k by Soi](https://ankiweb.net/shared/info/687513656) deck to get started. My own optimized deck is currently in progress so you can give this deck from Soi a try.
+Wanna use premade decks instead of making your own deck? Visit [here](./anki.md).
 
 After the download is complete, import the deck by clicking "Import file" and navigating to the downloaded file (.apkg) and then click Import on the top right.
 
@@ -217,13 +217,7 @@ Regular output along with regular input is recommended.
 
 Contrary to what many immersion-based learning methods say, I do not believe it is a smart idea to delay your output until you are "really good" for reasons such as "saying things incorrectly is going to "cripple" or "ruin" your Vietnamese". Doing this makes you miss out on so many opportunities to pick up on things to use in your output earlier and brainwashes you into a toxic perfectionist mindset, becoming extremely protective of your Vietnamese.
 
-## 2.2 Pronunciation
-
-How well you pronouce a Vietnamese word is largely up to how many times you have heard that word spoken by Vietnamese.
-
-Here is [the Vietnamese Pronunciation deck](https://ankiweb.net/shared/info/1747674390) you should use.
-
-## 2.3 Learning milestones
+## 2.2 Learning milestones
 
 For those that are curious, here is the level of Vietnamese ability you can expect to have after reaching these milestones.
 
@@ -235,7 +229,7 @@ For those that are curious, here is the level of Vietnamese ability you can expe
 - 10 novels finished: Completely intermediate at this point. Congratulations!
 
 
-## 2.4 Closing notes: post-beginner stage and beyond
+## 2.3 Closing notes: post-beginner stage and beyond
 
 _This guide is made possible by TheMoeWay community, I just modified it so it fits Vietnamese learners better. All thanks and donation should goes to them, not me._
 

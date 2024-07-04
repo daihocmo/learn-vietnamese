@@ -15,5 +15,6 @@ That's how important example sentences are. Sentence Mining here basically means
 2. You should read the [Sentence Mining Guide](https://tatsumoto-ren.github.io/blog/sentence-mining.html) from Tatsumoto to kinda grasp the idea about Sentence Mining.
 3. [Discussing various card templates](https://tatsumoto-ren.github.io/blog/discussing-various-card-templates.html) - You should read about card templates and which card types should you choose.
 4. Automatic Sentence Mining guide:
-	- [Mining from movies and TV-shows - mpv](https://tatsumoto-ren.github.io/blog/mining-from-movies-and-tv-shows.html)
-	- [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and Netflix mining guide with asbplayer
+	- [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and Netflix mining guide with asbplayer.
+	- [Mining from movies and TV-shows - mpv](https://tatsumoto-ren.github.io/blog/mining-from-movies-and-tv-shows.html) - This guide aims towards Japanese learners but you can do the same thing with Vietnamese videos and Vietnamese subtitles.
+	
