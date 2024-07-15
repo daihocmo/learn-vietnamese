@@ -14,11 +14,13 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Tiếng Việt Thực Hành | Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
 
 ### Course
+
 - [Vietnamese courses on Memrise]( https://www.memrise.com/course/2238657/mammens-vietnamese/edit/)
 - [Northern Illinois University Vietnamese Language Course](http://www.seasite.niu.edu/vietnamese/vnlanguage/supportns/tableofcontent.htm)
 - [Learning Vietnamese Language Online](http://www.public.asu.edu/~ickpl/vnonline/index.htm) (ASU Vietnamese Online Coarse)
 
 ### Alphabet
+
 - [Flexiclasses Vietnamese Learning Blog](https://flexiclasses.com/vietnamese/alphabet/): All about Vietnamese alphabet, learning how to read and write here.
 - [Vietnamese Alphabet by MyLanguages.org](http://www.mylanguages.org/vietnamese_alphabet.php): Yet another Vietnamese alphabet guide.
 
@@ -27,7 +29,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [**※ Vietnamese Anki Decks**](anki.md) - Collection of Vietnamese Learning Anki Decks.
 
 ### Grammar
-- [**※ Vietnamese : An Essential Grammar by Binh Nhu Ngo**](https://mega.nz/file/gyFkhYKJ#Kpnyib0ScvKUJ6SYhvuMgJT8SnvIUfYhE5G29q378MQ)
+- [**※ Vietnamese : An Essential Grammar by Binh Nhu Ngo**](https://drive.proton.me/urls/TR1A3GBG8M#WiqnQfudUCQI)
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
 - [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects! 
