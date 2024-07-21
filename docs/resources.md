@@ -8,14 +8,14 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo) - Not really a curated guide but it's worth reading.
 
 ### Other Resource Pages
-- [**※ Awesome-Vietnamese**]() - Awesome Vietnamese Learning Resources. 
+- [**※ Awesome-Vietnamese**](Awesome-Vietnamese/) - Awesome Vietnamese Learning Resources. 
 - [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
 - [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
 - [Dạy tiếng Việt - VOV](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
 - [Tiếng Việt Thực Hành - Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
 
 ### Course
-- [Vietnamese - Duolingo]()
+- [Vietnamese - Duolingo](https://www.duolingo.com/courses/vi)
 - [Vietnamese courses on Memrise]( https://www.memrise.com/course/2238657/mammens-vietnamese/edit/)
 - [Northern Illinois University Vietnamese Language Course](http://www.seasite.niu.edu/vietnamese/vnlanguage/supportns/tableofcontent.htm)
 - [Learning Vietnamese Language Online](http://www.public.asu.edu/~ickpl/vnonline/index.htm) (ASU Vietnamese Online Coarse)

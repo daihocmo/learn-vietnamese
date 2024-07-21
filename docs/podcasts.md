@@ -1,9 +1,8 @@
 ## Starter Pack
 
 - [VietnamesePod101](https://podcasts.apple.com/us/podcast/learn-vietnamese-vietnamesepod101-com/id534443508)
-- [Levion - Learn Vietnamese Online](https://open.spotify.com/show/1vj0JqcpFhHzrMzfLQ5Mqv)
+- [Levion - Learn Vietnamese Online](https://open.spotify.com/show/1vj0JqcpFhHzrMzfLQ5Mqv) - Formerly known as "Your Vietnamese Tutor"
 - [ÚM BA LA, THẾ GIỚI MỞ RA](https://podcastindex.org/podcast/4368414): Podcasts for educating kids from 4 to 12 years old.
-- Your Vietnamese Tutor
 - [TVO Podcast](https://www.youtube.com/playlist?list=PLpDgPu_Hq9Zx5cejuDGZPWdDyTPAgse7P): A Podcast made by TiengVietOi - A Vietnamese learning Youtube channel.
 
 
