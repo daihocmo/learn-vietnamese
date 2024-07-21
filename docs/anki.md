@@ -1,22 +1,6 @@
-## Why do people use Anki?
-
-The answer is very simple: SRS. Spaced repetition reduces the number of repetitions you need to make while increasing the strength of your memories. If you use it even semi-competently, it will reduce the time needed to learn things to a quarter of what it was, and you will know them forever. Seriously. It has its limits, it isn't flashy, but it can be life-changing.
-
-## Is Anki a necessity?
-
-There’s a lot to unpack here.
-
-I would say that the more you do, to a point, the better. Anki and similar apps will help close gaps that may take you longer to find in any other programs. However, when you speak a language, you never do it by imagining a series of flashcards and then putting them in order. You just use it. Slowly and poorly at first, sure, but you get better at it.
-
-Also, flashcards are almost always out of context. It’s just a word on a card. If you can read authentic material, you will learn words in a variety of contexts.
-
-So, I would say that Anki is useful early on when you’re still learning key vocab, but it’s really, really hard to learn more than maybe two thousand words using a flashcard app. At some point, I would either leave Anki behind entirely, or use it to focus on a particular set of vocabulary I need to know about a particular topic.
-
-## Why you should use it?
+## Introduction
 
 Anki is an excellent option for revising nearly everything you wanna learn by heart.
-
-It just works. It works well, pretty easy to use (once you get used to it) and it doesn't cause too much trouble. There are videos online for "how to use anki" than can show you nuances of the app and how to change how it looks and all kinds of stuff like that. but i like it because it's reliable, doesn't charge a subscription, works, and syncs easily between computer and phone. it's no frills and no fuss.
 
 [Here is the full-text guide](https://leananki.com/how-to-use-anki-tutorial/) to get started (for those who prefer reading).
 
@@ -44,15 +28,13 @@ It just works. It works well, pretty easy to use (once you get used to it) and i
 - [Vietnamese for English Speakers](https://ankiweb.net/shared/info/2064548721)
 
 ### LTL Vietnamese Collection
-- [🇻🇳🇻🇳🇻🇳 LTL VIETNAMESE DECK LEVEL 1 - Short](https://ankiweb.net/shared/info/190476395)
-- [🇻🇳🇻🇳🇻🇳 LTL Vietnamese Deck Level 2 - Short Medium](https://ankiweb.net/shared/info/109765305)
-- [🇻🇳🇻🇳🇻🇳 LTL Vietnamese Deck Level 3 - Medium](https://ankiweb.net/shared/info/193056394)
-- [🇻🇳🇻🇳🇻🇳 LTL Vietnamese Deck Level 4 - Medium Long](https://ankiweb.net/shared/info/490478202)
-- [🇻🇳🇻🇳🇻🇳 LTL Vietnamese Deck Level 5 - Long](https://ankiweb.net/shared/info/327582122)
+- [LTL VIETNAMESE Deck Level 1 - Short](https://ankiweb.net/shared/info/190476395)
+- [LTL Vietnamese Deck Level 2 - Short Medium](https://ankiweb.net/shared/info/109765305)
+- [LTL Vietnamese Deck Level 3 - Medium](https://ankiweb.net/shared/info/193056394)
+- [LTL Vietnamese Deck Level 4 - Medium Long](https://ankiweb.net/shared/info/490478202)
+- [LTL Vietnamese Deck Level 5 - Long](https://ankiweb.net/shared/info/327582122)
 
-### 
-
+### Miscellaneous
 - [Forvo Travel (Vietnamese)](https://ankiweb.net/shared/info/1771783638)
 - [Vietnamese - English 22000](https://ankiweb.net/shared/info/1548842830)
-
-You might wanna check other decks on [Ankiweb Share Decks](https://ankiweb.net/shared/decks?search=vietnamese).
+- You might wanna check other decks on [Ankiweb Share Decks](https://ankiweb.net/shared/decks?search=vietnamese).

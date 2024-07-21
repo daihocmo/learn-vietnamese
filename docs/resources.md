@@ -3,24 +3,24 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 ## Learning Vietnamese
 
 ### Guide
-- [HOW TO START LEARNING VIETNAMESE](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
+- [How to start learning Vietnamese](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
 - [Refold Vietnamese](http://refold.link/vietnamese) - Refold Roadmap for Vietnamese Learning.
 - [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo) - Not really a curated guide but it's worth reading.
 
-### Other Resources
+### Other Resource Pages
+- [**※ Awesome-Vietnamese**]() - Awesome Vietnamese Learning Resources. 
 - [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
 - [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
-- [Dạy tiếng Việt | ĐÀI TIẾNG NÓI VIỆT NAM](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
-- [Tiếng Việt Thực Hành | Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
+- [Dạy tiếng Việt - VOV](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
+- [Tiếng Việt Thực Hành - Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
 
 ### Course
-
+- [Vietnamese - Duolingo]()
 - [Vietnamese courses on Memrise]( https://www.memrise.com/course/2238657/mammens-vietnamese/edit/)
 - [Northern Illinois University Vietnamese Language Course](http://www.seasite.niu.edu/vietnamese/vnlanguage/supportns/tableofcontent.htm)
 - [Learning Vietnamese Language Online](http://www.public.asu.edu/~ickpl/vnonline/index.htm) (ASU Vietnamese Online Coarse)
 
 ### Alphabet
-
 - [Flexiclasses Vietnamese Learning Blog](https://flexiclasses.com/vietnamese/alphabet/): All about Vietnamese alphabet, learning how to read and write here.
 - [Vietnamese Alphabet by MyLanguages.org](http://www.mylanguages.org/vietnamese_alphabet.php): Yet another Vietnamese alphabet guide.
 
@@ -32,25 +32,19 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [**※ Vietnamese : An Essential Grammar by Binh Nhu Ngo**](https://drive.proton.me/urls/TR1A3GBG8M#WiqnQfudUCQI)
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
+- [A Vietnamese Grammar Reference - Laurence C Thompson](https://www.scribd.com/document/256469090/Laurence-C-Thompson-A-Vietnamese-Reference-Grammar)
 - [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects! 
 
 ### Chữ Nôm
-
-*PS: you DON'T HAVE TO LEARN Chu Nom to be able to speak Vietnamese. Most of the Vietnamese out there aren't able to recognize a single Nom character. But still, there are people who want to learn this so I decided to make Han Nom resource section (It's not completed though).*
 
 - [ChuNom.org](https://chunom.org/): There are some Chữ Nôm course offered by ChuNom.org
 - [Nom Foundation](https://nomfoundation.org/): an American nonprofit agency for Han Nom preservation. 
 - [VNY2K](http://vny2k.com/hannom/index.aspx): An online dictionary dedicated to Han Nom etymology
 - [VNY2K - Tu nguyen](http://vny2k.com/hannom/tunguyen.asp): Same as above, with more detailed etymological explanations.
-- **[Chữ Nôm Dictionary](https://www.mediafire.com/file/sn5xjfcp045vh9p/Ch%E1%BB%AF_N%C3%B4m.zip/file)** Chữ Nôm Dictionary converted by Marsh Nguyễn for Yomichan/Yomitan. The data comes from [https://chunom.org/](https://chunom.org/) The dictionary contains 1,569 entries.
+- **[※ Chữ Nôm Dictionary](https://www.mediafire.com/file/sn5xjfcp045vh9p/Ch%E1%BB%AF_N%C3%B4m.zip/file)** Chữ Nôm Dictionary converted by Marsh Nguyễn for Yomichan/Yomitan. The data comes from [https://chunom.org/](https://chunom.org/) The dictionary contains 1,569 entries.
 
 
 ## Acquire Vietnamese
-
-### Comprehensible Input
-
-#### Reading
-- [Vietnamese Book Suggestion](books.md) - Finding real Vietnamese Literature suggestion that might suits you.
  
 ### Movies & TV Shows
 
@@ -68,6 +62,7 @@ You just have to click one of the links here and it will directs you to the Viet
 - [Hội nhà văn - Truyện ngắn](https://vanvn.vn/tac-pham-moi/truyen-ngan/): Same as above, but written by people from "Hội nhà văn".
 - [Wikisource Vietnamese Short Stories Collection](https://vi.wikisource.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Truy%E1%BB%87n_ng%E1%BA%AFn_Vi%E1%BB%87t_Nam): Collection of short stories from Wikisource
 - [Truyen Voz](https://voz.vn/f/truyen-voz.96/) - Short stories written by Voz forum's users
+- [**※ Vietnamese Book Suggestion**](books.md) - Finding real Vietnamese Literature suggestion that might suits you.
 
 #### Books
 - [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/): old Vietnamese books (expired copyright) being digitalized. 
@@ -103,17 +98,17 @@ _For those who want to read Light Novel or Web Novel in Vietnamese._
 - [Tạp chí Tia sáng](https://tiasang.com.vn/): A Vietnamese science & technology magazine.
 
 ### Dictionaries
+- [JoaTH: Guide to the Best Vietnamese Dictionaries](https://www.reddit.com/r/learnvietnamese/comments/blc33z/joath_guide_to_the_best_vietnamese_dictionaries/)
 
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily. 
 
 - [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary.
-
 - **[VNEDICT](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)** by Paul Denisowski converted by Marsh Nguyễn for Yomichan.
 - **[Từ Điển Tiếng Việt Thông Dụng](https://www.mediafire.com/file/ekopqoj0627tpkw/T%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_Vi%E1%BB%87t.zip/file)** Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from [https://github.com/vntk/dictionary/tree/master/data](https://github.com/vntk/dictionary/tree/master/data) contains 42012 entries.
 
 #### Online
-
+- [**※ Glosbe**](https://glosbe.com/)
 - [**※ Vtudien VI-VI**](https://vtudien.com/viet-viet) - Recommended for intermediate learners, there are also examples.
 - [VNEDICT Online](http://www.denisowski.org/Vietnamese/Vietnamese.html)
 - [Youglish Vietnamese](https://youglish.com/vietnamese): Youghlish but for Vietnamese.
@@ -137,5 +132,5 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 - [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and Netflix mining guide with asbplayer
 
 ### "Other"
-
+- [Report on 1000 hours of active Vietnamese practice](https://www.reddit.com/r/languagelearning/comments/1bxs5ag/report_on_1000_hours_of_active_vietnamese_practice/)
 - [Why You Still Don't Understand Your Target Language](https://youtu.be/_LIz-Wbt4us) - Great video for getting motivated to immerse more.

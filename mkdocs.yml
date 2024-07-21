@@ -13,6 +13,7 @@ nav:
   - 'Main Guide':
     - 'Guide': 'guide.md'
     - 'Comprehensible Input': 'input.md'
+    - 'Reading Tips': 'readingtips.md'
   - 'FAQ':
     - 'FAQ': 'viet-faq.md'
   - 'Setup':
