@@ -14,12 +14,6 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Dạy tiếng Việt - VOV](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
 - [Tiếng Việt Thực Hành - Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
 
-### Course
-- [Vietnamese - Duolingo](https://www.duolingo.com/courses/vi)
-- [Vietnamese courses on Memrise]( https://www.memrise.com/course/2238657/mammens-vietnamese/edit/)
-- [Northern Illinois University Vietnamese Language Course](http://www.seasite.niu.edu/vietnamese/vnlanguage/supportns/tableofcontent.htm)
-- [Learning Vietnamese Language Online](http://www.public.asu.edu/~ickpl/vnonline/index.htm) (ASU Vietnamese Online Coarse)
-
 ### Alphabet
 - [Flexiclasses Vietnamese Learning Blog](https://flexiclasses.com/vietnamese/alphabet/): All about Vietnamese alphabet, learning how to read and write here.
 - [Vietnamese Alphabet by MyLanguages.org](http://www.mylanguages.org/vietnamese_alphabet.php): Yet another Vietnamese alphabet guide.
@@ -27,6 +21,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 ### Vocabulary
 
 - [**※ Vietnamese Anki Decks**](anki.md) - Collection of Vietnamese Learning Anki Decks.
+- [Vietnamese Idiomatic Expressions](https://vietnamesetypography.com/samples/idiomatic-expressions/) - Vietnamese "Idiomatic Expressions" 
 
 ### Grammar
 - [**※ Vietnamese : An Essential Grammar by Binh Nhu Ngo**](https://drive.proton.me/urls/TR1A3GBG8M#WiqnQfudUCQI)
@@ -41,7 +36,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Nom Foundation](https://nomfoundation.org/): an American nonprofit agency for Han Nom preservation. 
 - [VNY2K](http://vny2k.com/hannom/index.aspx): An online dictionary dedicated to Han Nom etymology
 - [VNY2K - Tu nguyen](http://vny2k.com/hannom/tunguyen.asp): Same as above, with more detailed etymological explanations.
-- **[※ Chữ Nôm Dictionary](https://www.mediafire.com/file/sn5xjfcp045vh9p/Ch%E1%BB%AF_N%C3%B4m.zip/file)** Chữ Nôm Dictionary converted by Marsh Nguyễn for Yomichan/Yomitan. The data comes from [https://chunom.org/](https://chunom.org/) The dictionary contains 1,569 entries.
+- [Chữ Nôm Dictionary](https://www.mediafire.com/file/sn5xjfcp045vh9p/Ch%E1%BB%AF_N%C3%B4m.zip/file) - Chữ Nôm Dictionary converted by Marsh Nguyễn for Yomichan/Yomitan. The data comes from [https://chunom.org/](https://chunom.org/) The dictionary contains 1,569 entries.
 
 
 ## Acquire Vietnamese
@@ -53,6 +48,7 @@ You just have to click one of the links here and it will directs you to the Viet
 - [FPTPlay](https://fptplay.vn/block/category_vod/viet-nam-5575464417dc1321ee858668): Watching Vietnamese movies for free, you just have to use your Google or Facebook account. 
 - [TV360](https://tv360.vn/movies/phim-viet-nam?c=3733): Same as above.
 - [VieChannel](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw): There are a lot of gameshows in this channel.
+[**※ Vietnamese Movie Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/movies) - 
 
 ### Novels and Literary Texts
 
@@ -62,33 +58,30 @@ You just have to click one of the links here and it will directs you to the Viet
 - [Hội nhà văn - Truyện ngắn](https://vanvn.vn/tac-pham-moi/truyen-ngan/): Same as above, but written by people from "Hội nhà văn".
 - [Wikisource Vietnamese Short Stories Collection](https://vi.wikisource.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Truy%E1%BB%87n_ng%E1%BA%AFn_Vi%E1%BB%87t_Nam): Collection of short stories from Wikisource
 - [Truyen Voz](https://voz.vn/f/truyen-voz.96/) - Short stories written by Voz forum's users
-- [**※ Vietnamese Book Suggestion**](books.md) - Finding real Vietnamese Literature suggestion that might suits you.
-
-#### Books
 - [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/): old Vietnamese books (expired copyright) being digitalized. 
-- [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks.
+- [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks. There might be some NSFW books so it's advised to visit [**Vietnamese Book Suggestion**](books.md) to know which one "should you search for". However, I think this should be up to your preference, not mine.
+- [**※ Vietnamese Book Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/books) - Finding real Vietnamese Literature suggestion that might suits you.
 
-#### LN, WM
-_For those who want to read Light Novel or Web Novel in Vietnamese._
 
-- [Hako](https://ln.hako.vn/): Light novels and Web novels translated to Vietnamese
+#### Web novels & Light novels
+- [Hako](https://ln.hako.vn/): Reading online webnovels in Vietnamese
+- [**※ Vietnamese WN&LN Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/ln-wn)
 
 ### Manga
 
-- [Blogtruyenmoi](https://blogtruyenmoi.com/): A manga reader site made by Ngankvn, most of the mangas here are uploaded by users or scanlated groups.
-- [Nettruyen](https://nettruyenco.vn/): A pretty large manga reader site.
-- [TruyenQQVN](https://truyenqqvn.com/): Another manga (and manhwa, manhua) reading site.  
+- [Blogtruyenmoi](https://blogtruyenmoi.com/) - Most of the mangas here are uploaded by users or scanlated groups (There are also some mangas from Vietnamese publishers).
+- [Nettruyen](https://nettruyenco.vn/) - read manga online (deprecated)
+- [TruyenQQVN](https://truyenqqvn.com/) - read manga online
 
 ### Audiobooks & Podcasts
-- [Vietnamese Podcast Suggestion](podcasts.md): A list of suggestions for which Vietnamese podcasts to listen to.
-- [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Vietnamese Podcasts.
+- [**※ Vietnamese Podcast Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/podcasts) 
+- [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Podcasts in Vietnamese.
 
 ### Vietnamese Forums
 
-- [VOZ](https://voz.vn/) - one of the largest Technogoly forum in Vietnamese. 
-- [OTOFUN](https://www.otofun.net/forums): Primarily about cars and auto.
-- [Blogtruyen Forum](https://forum.blogtruyenmoi.com/): An Forum for manga lovers, you can also read Vietnamese-translated manga here.
-- [TVE-4U](https://tve-4u.org/): For Bookworms
+- [VOZ](https://voz.vn/) - one of the largest Technology forums in Vietnamese. 
+- [Blogtruyen Forum](https://forum.blogtruyenmoi.com/): An Forum for manga lovers, you can also read manga in Vietnamese here.
+- [TVE-4U](https://tve-4u.org/) - for bookworms
 
 ### News
 - [VTVNews](https://vtv.vn/)
@@ -103,15 +96,13 @@ _For those who want to read Light Novel or Web Novel in Vietnamese._
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily. 
 
-- [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary.
-- **[VNEDICT](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)** by Paul Denisowski converted by Marsh Nguyễn for Yomichan.
-- **[Từ Điển Tiếng Việt Thông Dụng](https://www.mediafire.com/file/ekopqoj0627tpkw/T%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_Vi%E1%BB%87t.zip/file)** Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from [https://github.com/vntk/dictionary/tree/master/data](https://github.com/vntk/dictionary/tree/master/data) contains 42012 entries.
+- [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary. 
 
 #### Online
 - [**※ Glosbe**](https://glosbe.com/)
 - [**※ Vtudien VI-VI**](https://vtudien.com/viet-viet) - Recommended for intermediate learners, there are also examples.
 - [VNEDICT Online](http://www.denisowski.org/Vietnamese/Vietnamese.html)
-- [Youglish Vietnamese](https://youglish.com/vietnamese): Youghlish but for Vietnamese.
+- [Youglish Vietnamese](https://youglish.com/vietnamese) - Sentences sourced from YouTube video subtitles. This is a great tool to improve your pronunciation, as the words will be said by native speakers speaking naturally.
 - [Forvo](https://forvo.com/languages/vi/): Search for a word and hear it pronounced by a native speaker.
 - [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/) - A Vietnamese Dictionary made by VietnamesePod101.
 
@@ -120,10 +111,8 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 
 #### Other Tools
 
-- **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have. It is tricky to use at first. So please see the Mining section for guides on how to set it up (From the main guide).
-
-- [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard.
-    
+- **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have. It is tricky to use at first. You can install the app on mobile too but for iOS it cost $29.
+- [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard (Windows). For Linux users please install [ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo).    
   
 ### Guides/Methods/Motivation
 
