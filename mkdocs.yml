@@ -21,10 +21,7 @@ nav:
     - 'Yomitan': 'yomitan.md'
     - 'Reading': 'reading-guide.md'
   - 'Media':
-    - 'Books': 'books.md'
-    - 'Movies': 'movies.md'
-    - 'Youtube': 'youtube.md'
-    - 'Podcasts': 'podcasts.md'
+    - 'Media': 'media.md'
   - 'Mining':
     - 'Mining': 'mining.md'
   - 'Resources':

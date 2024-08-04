@@ -1,1 +1,0 @@
-Now migrate to Vietnamese Media Recommendation. Please visit [Vietnamese Media Recommendation](https://onlyduyy.github.io/vietnamese-media-recommendation/) for content suggestions.
