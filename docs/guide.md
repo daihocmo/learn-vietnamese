@@ -153,7 +153,7 @@ To look up words individually, you can use [Soha](http://tratu.soha.vn/) (Rememb
 
 ### Choosing immersion content
 
-Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](youtube.md). Just make sure you're actually interested in whatever you're choosing to immerse with!
+Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](media.md). Just make sure you're actually interested in whatever you're choosing to immerse with!
 
 ### How to immerse with listening
 
