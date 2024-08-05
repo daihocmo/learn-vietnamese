@@ -14,8 +14,6 @@ nav:
     - 'Guide': 'guide.md'
     - 'Comprehensible Input': 'input.md'
     - 'Reading Tips': 'readingtips.md'
-  - 'FAQ':
-    - 'FAQ': 'viet-faq.md'
   - 'Setup':
     - 'Anki': 'anki.md'
     - 'Yomitan': 'yomitan.md'
@@ -28,7 +26,9 @@ nav:
     - 'Resources': 'resources.md'
   - 'Recommendations':
     - 'Communities': 'community.md' 
-      
+
+  # - 'FAQ':
+  #   - 'FAQ': 'viet-faq.md'    
 theme:
   palette:
     # Palette toggle for light mode
