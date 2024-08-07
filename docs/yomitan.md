@@ -6,31 +6,27 @@ PS: Remember to change the language to Vietnamese as shown here.
 
 ## Acquire Dictionaries
 
-## My collection
-- [Lac Viet Vietnamese - English]() - currently working on it.
-- [Prodict VI-EN EN-VI](https://github.com/onlyduyy/viet-yomitan/releases/download/v0.0.1/prodict_vi-en.zip)
-- [Free Vietnamese-English Dictionary](https://github.com/onlyduyy/viet-yomitan/releases/download/v0.0.1/free_vi-en_dictionary.zip)
-
-
-## Other 
-Here is the list of dictionaries I suggest to use, in order:
-
-- [VNEDICT](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh) - [VNEDICT](http://www.denisowski.org/Vietnamese/Vietnamese.html) by Paul Denisowski converted by Marsh Nguyễn for Yomichan.
-- [The Free Vietnamese Dictionary Project](https://www.mediafire.com/file/zkr1i29t7d6vxth/%5BVI_-_VI%5D_dict.zip/file) - Converted by Marsh Nguyễn for Yomichan.
-- [Từ Điển Tiếng Việt Thông Dụng](https://www.mediafire.com/file/ekopqoj0627tpkw/T%E1%BB%AB_%C4%91i%E1%BB%83n_ti%E1%BA%BFng_Vi%E1%BB%87t.zip/file) Vie-Vie dictionary converted by Marsh Nguyễn. The dictionary data is from Từ Điển Tiếng Việt Thông Dụng and was sourced from <https://github.com/vntk/dictionary/tree/master/data> contains 42012 entries.
-
-
-Or, please visit [this page](https://github.com/MarvNC/yomichan-dictionaries?tab=readme-ov-file#vietnamese-english) to download Vietnamese - English Dictionary Collection (Most of them have already been listed here, you might wanna download Nôm dictionaries so I leave the link here).
+Please visit [this page](https://github.com/MarvNC/yomichan-dictionaries?tab=readme-ov-file#vietnamese-english) to download Vietnamese - English Dictionary Collection.
 
 ![viet-eng-dictionary](./Image/vie-eng-dictionary.webp)
 
-## Installing dictionaries and basic usage
-Visit [Installing dictionaries and basic usage](https://learnjapanese.moe/yomichan/#installing-dictionaries-and-basic-usage) from the original Yomitan installation guide to learn how to install dictionaries in Yomitan and then import these dictionaries:
+Or you can visit [my collection page](https://github.com/onlyduyy/viet-yomitan) for more dictionaries.
 
-- VNEDICT v4.zip
-- Babylon VI-EN v2.zip
-- [ODVN] VI-EN v2.zip
+## Installing dictionaries and basic usage
+Visit [Installing dictionaries and basic usage](https://learnjapanese.moe/yomichan/#installing-dictionaries-and-basic-usage) from the original Yomitan installation guide to learn how to install dictionaries in Yomitan and then import these dictionaries (here are just my suggestions):
+
+### Billingual
+
+- [VNEDICT v4.zip](https://www.mediafire.com/file/2uouyurvtqph6nk/VNEDICT_v4.zip/file)
+- [Babylon VI-EN v2.zip](https://www.mediafire.com/file/14cljd9ta8k2r7d/Babylon_VI-EN_v2.zip/file)
+- [ODVN VI-EN v2.zip](https://www.mediafire.com/file/xwpqadhb8hsjoqa/%255BOVDP%255D_VI-EN_v2.zip/file)
 - [Vietnamese - English Dictionary - Apple](https://drive.proton.me/urls/XZRWCKDM54#Bnq28tvMixEm) - Optional.
+
+### Monolingual
+Please read [Monoligual - TheMoeWay](https://learnjapanese.moe/monolingual/) 
+
+- [Từ điển Tiếng Việt](https://www.mediafire.com/file/ekopqoj0627tpkw/T%25E1%25BB%25AB_%25C4%2591i%25E1%25BB%2583n_ti%25E1%25BA%25BFng_Vi%25E1%25BB%2587t.zip/file)
+- [VI-VI Dict](https://www.mediafire.com/file/zkr1i29t7d6vxth/%255BVI_-_VI%255D_dict.zip/file)
 
 
 ## Preview:
