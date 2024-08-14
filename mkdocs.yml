@@ -56,5 +56,8 @@ theme:
     - search.share
   name: material
 
+plugins:
+  - open-in-new-tab
+  
 extra:
   generator: false
