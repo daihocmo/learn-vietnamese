@@ -29,6 +29,4 @@ Visit [Installing dictionaries and basic usage](https://learnjapanese.moe/yomich
 
 ## Preview:
 
-<source src="../reading-demo.mp4" type="video/mp4">	
-
 ![viet-english-dictionary](./previews/guides/reading/08.webp)

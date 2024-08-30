@@ -33,44 +33,34 @@ But how about looking up words? That's literally a picture isn't it? If you have
 
 Expect manga to be pretty hard for you at first, but over time it will smoothen out and get easier. You just need to read more. You just need to read a lot.
 
-### Novels/Light Novels
+### Novels
 
 Even if you read like 100 manga, you still need to read novels since there will be words you still won't know a lot of words that are commonly used in written text.  
 Literary Vietnamese is not that hard as it sounds, it's only slightly different from spoken Vietnamese and will be easy to get used to.
-For reading light novels, I recommend using *Yomichan*, you can find a detailed Yomichan setup tutorial [[here]](/yomichan)  
+For reading novels, I recommend using *Yomitan*, you can find a detailed Yomitan setup tutorial [here](yomitan.md)  
 
 I seriously recommend you read novels on this site: [Tủ sách văn học trong nước](https://tve-4u.org/forums/tu-sach-van-hoc-trong-nuoc.12/). You can also visit the [this forum](https://tve-4u.org/) to download ebooks.
 
 Your first light novel will be extremely painful, but your second light novel won't be as painful. Expect a light novel to take a 1-3 months to finish reading when you're first starting out, it will get quicker overtime (I can finish a light novel in around 10 hours). Just read more, read a lot.  
 Reading scans or physicals like these is not recommended, because it is hard to look up words from it. 
-Note: I am not against 縦書き, (vertical text), the image below is an example of a *scan*.  
 
-![LN 1](previews/reading/ln1.jpg)
-*Novel: Hibike! Euphonium*
+![LN 1](previews/reading/ln1.webp)
+*Novel: Tôi thấy hoa vàng trên cỏ xanh*
 
 ![LN 2](previews/reading/ln2.jpg)
-*Novel: Nichijou no Natsuyasumi*
+*Novel: Những ngày thơ ấu*
+
+[![LN 3](previews/reading/ln3.webp)](previews/reading/ln3.webp)
+*Novel: Cho tôi xin một vé về tuổi thơ.*  
 
 You need to read stuff like this:
-[![LN 3](previews/reading/ln3.jpg)](previews/reading/ln3.jpg)
-*Novel: Kimi no Na wa.*  
-*Click to enlarge*
+[![LN 4](previews/reading/ln4.png)](previews/reading/ln4.jpg)
+*Novel: Sống mòn.*  
 
-This is **digital**. Very important. I can select the text and use Yomichan with it.
-
-###Visual Novels
-![VN 1](previews/reading/vn1.jpg)
-*Visual Novel: Angel Beats! -1st beat-*
-
-Visual Novels are very good if you hate reading books. It's helped supercharge my reading. It's similar to watching anime with Vietnamese subtitles. It is also good for making [AnimeCards](https://www.animecards.site) from and also serve as semi-listening semi-reading immersion. 
-
-I wholeheartedly recommend VNs for people that have attention span issues when reading novels. 
-
-Just make sure you have texthooking setup, you can find out how to do that [here](/vn).
-To get good at reading visual novels, you just need to read more, you just need to read a lot
+This is **digital**. Very important. I can select the text and use Yomitan with it.
 
 ## Conclusion
-Don't worry about how much "kanji" you "know". You can start reading after you have enough listening experience, and have finished a grammar guide or something. That's all. Don't hesitate. Don't feel like you're "not ready yet" because you will never be if you don't start reading.
+You can start reading after you have enough listening experience, and have finished a grammar guide or something. That's all. Don't hesitate. Don't feel like you're "not ready yet" because you will never be if you don't start reading.
 Read more, read a lot, that's how you get good at reading.  No hacks, no tricks, sorry.
 
 Have fun immersing! :smile:

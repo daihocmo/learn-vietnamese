@@ -1,12 +1,8 @@
 site_name: Immersion-based Vietnamese Learning - Khu học mở  
 site_description: Guide to self-learning Vietnamese through Comprehensible Input and Immersion.
 site_author: onlyduyy  
-theme:
-  name: material
-  features:
-    - navigation.sections
-  palette:
-    primary: indigo
+repo_url: https://github.com/daihocmo/learn-vietnamese
+repo_name: Open a pull request
 
 nav:
   - Home: 'index.md'
@@ -53,9 +49,66 @@ theme:
     - search.share
   name: material
 
+theme:
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: purple
+      accent: cyan 
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: cyan 
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.sections
+    - navigation.expand
+    - search.suggest
+    - search.highlighting
+    - search.share
+  name: material
+  custom_dir: overrides
+  favicon: img/favicon.png
+  logo: img/moe.svg
+  icon:
+    repo: fontawesome/brands/github
+markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
+extra_css:
+  - stylesheets/extra.css
+extra_javascript:
+  - javascripts/extra.js
+  - javascripts/lang.js
 plugins:
-  - privacy
+  - search:
+      lang:
+        - en
+        - vi
   - open-in-new-tab
-  
-extra:
-  generator: false
