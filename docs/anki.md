@@ -1,5 +1,3 @@
-## Introduction
-
 Anki is an excellent option for revising nearly everything you wanna learn by heart.
 
 [Here is the full-text guide](https://leananki.com/how-to-use-anki-tutorial/) to get started (for those who prefer reading).

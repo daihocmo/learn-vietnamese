@@ -23,10 +23,8 @@ Visit [Installing dictionaries and basic usage](https://learnjapanese.moe/yomich
 - [Vietnamese - English Dictionary - Apple](https://drive.proton.me/urls/XZRWCKDM54#Bnq28tvMixEm) - Optional.
 
 ### Monolingual
-Please read [Monoligual - TheMoeWay](https://learnjapanese.moe/monolingual/) 
-
 - [Từ điển Tiếng Việt](https://www.mediafire.com/file/ekopqoj0627tpkw/T%25E1%25BB%25AB_%25C4%2591i%25E1%25BB%2583n_ti%25E1%25BA%25BFng_Vi%25E1%25BB%2587t.zip/file)
-- [VI-VI Dict](https://www.mediafire.com/file/zkr1i29t7d6vxth/%255BVI_-_VI%255D_dict.zip/file)
+- [VI-VI Dict - Hồ Ngọc Đức](https://www.mediafire.com/file/zkr1i29t7d6vxth/%255BVI_-_VI%255D_dict.zip/file)
 
 
 ## Preview:

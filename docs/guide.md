@@ -15,11 +15,8 @@ You might wanna watch [this video](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
 The learning process for the beginner consists of:
 
 - Learning the alphabet (29 letters) and tones (6 tones).  
-
 - Learning basic vocabulary with a program called _Anki_
-
 - Learning grammar through a _YouTube_ playlist or a full-text guide.
-
 - Starting immersion with easy content and with high repetition. This is how you will be spending most of your time.
 
 

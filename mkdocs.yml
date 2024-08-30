@@ -10,25 +10,22 @@ theme:
 
 nav:
   - Home: 'index.md'
-  - 'Main Guide':
-    - 'Guide': 'guide.md'
-    - 'Comprehensible Input': 'input.md'
-    - 'Reading Tips': 'readingtips.md'
+  - 'Guides':
+    - 'Vietnamese Guide': 'guide.md'
+    - 'Speaking Vietnamese': 'speaking.md'
+    - 'Reading Vietnamese': 'reading.md'
+    - 'Reading Techniques and Strategies': 'readingtips.md'
+    - 'Monolingual Guide': 'monolingual.md'
+    - 'Vietnames FAQ': 'faq.md' 
   - 'Setup':
-    - 'Anki': 'anki.md'
     - 'Yomitan': 'yomitan.md'
-    - 'Reading': 'reading-guide.md'
-  - 'Media':
-    - 'Media': 'media.md'
-  - 'Mining':
-    - 'Mining': 'mining.md'
   - 'Resources':
     - 'Resources': 'resources.md'
+    - 'Anki': 'anki.md'
+    - 'Comprehensible Input': 'input.md'
   - 'Recommendations':
     - 'Communities': 'community.md' 
 
-  # - 'FAQ':
-  #   - 'FAQ': 'viet-faq.md'    
 theme:
   palette:
     # Palette toggle for light mode
@@ -57,6 +54,7 @@ theme:
   name: material
 
 plugins:
+  - privacy
   - open-in-new-tab
   
 extra:

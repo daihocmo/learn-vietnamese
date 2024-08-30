@@ -1,7 +1,4 @@
-## Introduction
-You can just watch [Stephen Krashen: Language Acquisition and Comprehensible Input](https://www.youtube.com/watch?v=fnUc_W3xE1w) and grasp the basic idea about Comprehensible Input.
-
-## A List Of Vietnamese Comprehensible Input.
+Please watch [Stephen Krashen: Language Acquisition and Comprehensible Input](https://www.youtube.com/watch?v=fnUc_W3xE1w) before proceeding.
 
 ### Listening
 
