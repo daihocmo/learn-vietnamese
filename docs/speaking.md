@@ -26,8 +26,8 @@ Get over it and move on. It’s not a big deal. As long as you are immersing eve
 Using Vietnamese regularly, regardless of who you are using it to talk to is essential in expanding your active vocabularly. As long as you are immersing, there is no harm in talking to other learners.  
 
 ### Other Links
-[AntiMoon Article](http://www.antimoon.com/other/myths-speaking.htm)  
-[Main Guide](/guide)  
+- [Antimoon Article](http://www.antimoon.com/other/myths-speaking.htm)  
+- [Main Guide](guide.md)  
 
 Have fun immersing!
 

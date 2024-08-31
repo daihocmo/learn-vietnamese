@@ -29,7 +29,7 @@ Do what works for you!
 ### Easiest novel?
 
 ### How do I look up words easier on webpages?
-Yomitan. You can find it on the Chrome Web Store or whatever Firefox uses. Load dictionaries into it and hover over text while holding the ++shift++ key. I went into more detail in [Yomitan Guide](/yomichan) , so check that out.
+Yomitan. You can find it on the Chrome Web Store or whatever Firefox uses. Load dictionaries into it and hover over text while holding the ++shift++ key. I went into more detail in [Yomitan Guide](yomitan.md) , so check that out.
 ### How do I look up words easier in manga?
 [Mokuro](https://www.mokuro.moe/)  
 ### How do I look up words?

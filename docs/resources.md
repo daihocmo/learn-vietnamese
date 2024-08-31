@@ -91,16 +91,16 @@ You just have to click one of the links here and it will directs you to the Viet
 - [Tạp chí Tia sáng](https://tiasang.com.vn/): A Vietnamese science & technology magazine.
 
 ### Dictionaries
+- [**※ duykhanh471's dictionary collection**](https://onlyduyy.github.io/viet-yomitan/)
 - [JoaTH: Guide to the Best Vietnamese Dictionaries](https://www.reddit.com/r/learnvietnamese/comments/blc33z/joath_guide_to_the_best_vietnamese_dictionaries/)
 
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily. 
 
-- [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary. 
+- [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary extension on the web browser.  
 
 #### Online
-- [**※ Glosbe**](https://glosbe.com/)
-- [**※ Vtudien VI-VI**](https://vtudien.com/viet-viet) - Recommended for intermediate learners, there are also examples.
+- [**※ Lac Viet VI-VI**](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/-all.html) - Recommended for intermediate learners, there are also examples.
 - [VNEDICT Online](http://www.denisowski.org/Vietnamese/Vietnamese.html)
 - [Youglish Vietnamese](https://youglish.com/vietnamese) - Sentences sourced from YouTube video subtitles. This is a great tool to improve your pronunciation, as the words will be said by native speakers speaking naturally.
 - [Forvo](https://forvo.com/languages/vi/): Search for a word and hear it pronounced by a native speaker.

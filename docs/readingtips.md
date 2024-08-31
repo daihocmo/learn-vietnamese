@@ -32,7 +32,7 @@ And it's the strategy that I recommend everyone take when they get into reading.
 The holy trinity of Vietnamese learning (for novel enjoyers).  
 
 - Set up Yomichan [here](yomitan.md)  
-- TVE-4u in [Resources](/resources)  
+- TVE-4u in [Resources](resources.md)  
 - EPUBs... many ways you can get them (TVE-4u, DTV-Ebook .etc.)
 - [ッツ Reader](https://reader.ttsu.app/manage)  
 
