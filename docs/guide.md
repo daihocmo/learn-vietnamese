@@ -19,7 +19,6 @@ The learning process for the beginner consists of:
 - Learning grammar through a _YouTube_ playlist or a full-text guide.
 - Starting immersion with easy content and with high repetition. This is how you will be spending most of your time.
 
-
 ## 1.2 Vietnamese alphabet
 
 ![alphabet.webp](./Image/alphabet.webp)

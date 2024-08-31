@@ -13,8 +13,7 @@ Another reason why it is bad to output early is that you don’t know what’s r
 ### But here’s why it may not be a good idea talking to natives.
 1. If you expect to be corrected, then you're out of luck. Natives will not correct you. It is impolite to correct someone’s speech, as they could take offense to it. It is not an exclusively Vietnamese thing. I tend to notice unnatural phrasing in non-English natives but I do not correct them, as I could come off as a “grammar n#zi”. I’m sure Vietnamese people would feel the same about correcting your Vietnamese too. 
 2. Most native speakers on HelloTalk and similar apps don’t want to practice Vietnamese. They want to practice English with you. So they are stalling any chance of you ever practicing.
-3. When you do not have a decent grasp of the Vietnamese spoken language (e.g. understand most anime) and try to speak, it will be mistake-ridden and extremely frustrating to speak. It will be much more motivating to just immerse.
-4. Even if you ask them to correct you, they will not.
+3. When you do not have a decent grasp of the Vietnamese spoken language and try to speak, it will be mistake-ridden and extremely frustrating to speak. It will be much more motivating to just immerse.
 
 ### Here’s why it may be a good idea talking to natives
 1. It is fun. There is no denying outputting is fun when you are able to do it correctly. In my case when I output naturally and my Vietnamese friends understand exactly what I want to say, that’s a motivation boost for me. And hey, if you want to speak, then do it! There is no one stopping you. :slight_smile:
@@ -22,6 +21,7 @@ Another reason why it is bad to output early is that you don’t know what’s r
 
 ### What if I make a mistake?
 Get over it and move on. It’s not a big deal. As long as you are immersing everyday it is no big deal!
+
 **Can I talk to other learners?**
 Using Vietnamese regularly, regardless of who you are using it to talk to is essential in expanding your active vocabularly. As long as you are immersing, there is no harm in talking to other learners.  
 
