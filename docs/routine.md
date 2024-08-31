@@ -23,15 +23,9 @@ What I expect from you:
 ## Day 1  
 
 ### Stage: alphabet stage  
-The absolute first thing you need to do when you learn Vietnamese is to learn the  alphabet
+The absolute first thing you need to do when you learn Vietnamese is to learn the alphabet, it's basically English alphabet with some other modified characters.
 
-So, I recommend reading [[this]](https://gohoneko.neocities.org/grammar/taekim.html#6%20The%20Scripts).  
-
-You can do it on a paper or a screen, it doesn't matter really.   
-
-Then, watch this video: [https://www.youtube.com/watch?v=_wZHqOghvSs](https://www.youtube.com/watch?v=_wZHqOghvSs)  
-
-It is a video by VietnamesePod101. This should probably be the only Vietnamese Pod video you should watch though, just sayin'.  
+Watch this video: [https://www.youtube.com/watch?v=Jf6mvBy9VXk](https://www.youtube.com/watch?v=Jf6mvBy9VXk)  
 
 Now, go on this website.    
 
@@ -43,10 +37,6 @@ You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/]
 ## Day 2  
 
 ### Stage: Creating your own Vietnam at home  
-
-Practice on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
-Timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).
-Do not forget that all kana must be enabled.  
 
 Surrounding your daily life with Vietnamese is the most important part of the immersion method.  
 

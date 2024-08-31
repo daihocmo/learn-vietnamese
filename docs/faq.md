@@ -27,6 +27,7 @@ No more than 1 hour per day. Prioritise immersion time, not flashcards. They are
 Do what works for you!  
  
 ### Easiest novel?
+Novels written by Nguyễn Nhật Ánh.
 
 ### How do I look up words easier on webpages?
 Yomitan. You can find it on the Chrome Web Store or whatever Firefox uses. Load dictionaries into it and hover over text while holding the ++shift++ key. I went into more detail in [Yomitan Guide](yomitan.md) , so check that out.
@@ -80,7 +81,8 @@ Yes but once you get bored, switch!
 Unfortunately, it takes a lot of time and dedication to get fluent at a language.  
 
 ### How do I learn how to read?
-By looking up the words. Look at the Vietnamese sentence I gave above. Chances are you don’t know 刹那. Copy it into a dictionary or use Yomichan, it will show you the reading (せつな) and the meaning (きわめて短い時間)(if you are learning it bilingually it might be *moment; instant*). Congratulations you now know how to read more Vietnamese.
+idk
+
 ### Grammar
 It's important to learn them.  
 
