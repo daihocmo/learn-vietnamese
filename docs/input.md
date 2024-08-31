@@ -1,5 +1,3 @@
-Please watch [Stephen Krashen: Language Acquisition and Comprehensible Input](https://www.youtube.com/watch?v=fnUc_W3xE1w) before proceeding.
-
 ### Listening
 
 **(These 3 playlists are made by VietnameseClass101)**

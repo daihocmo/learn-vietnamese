@@ -4,7 +4,9 @@ site_author: onlyduyy
 site_url: https://daihocmo.github.io/learn-vietnamese/
 
 nav:
-  - Home: 'index.md'
+  - Home: 
+    - 'Home': 'index.md'
+    - 'Join': 'join.md'
   - 'Guides':
     - 'Vietnamese Guide': 'guide.md'
     - 'Speaking Vietnamese': 'speaking.md'
@@ -12,13 +14,17 @@ nav:
     - 'Reading Techniques and Strategies': 'readingtips.md'
     - 'Monolingual Guide': 'monolingual.md'
     - 'Vietnames FAQ': 'faq.md' 
+  - 'Immersion': 'immersion.md'
   - 'Setup':
     - 'Yomitan': 'yomitan.md'
+  - 'Mining': 'mining.md'
   - 'Resources':
     - 'Resources': 'resources.md'
     - 'Comprehensible Input': 'input.md'
   - 'Recommendations':
     - 'Communities': 'community.md' 
+  - 'Miscellaneous': 'misc.md'
+
 
 theme:
   palette:
