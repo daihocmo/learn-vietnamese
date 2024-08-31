@@ -1,4 +1,4 @@
-## An optimized approach to learning Japanese
+## An optimized approach to learning Vietnamese
 
 Welcome to Immersion-Based Vietnamese Learning, a website made for Vietnamese learners and people interested in language learning more generally.
 
