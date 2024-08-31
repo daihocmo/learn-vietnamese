@@ -1,6 +1,4 @@
 I'm not really into creating _yet another vietnamese language learning server_. This language doesn't have that much learners but there're still people who want to learn, acquire the language.
-
-These language servers might be helpful for learning Vietnamese, but their guides or advice may be considered "ineffective language learning advice". If you find something that contradicts what's written in this guide, you have to decide it yourself if it suits you, or ask people in TheMoeWay's Discord Server (about the language learning advice, not Vietnamese specifically).
  
 ## Communities
 
