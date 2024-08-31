@@ -1,4 +1,4 @@
-I'm not really into creating _yet another vietnamese language learning server_. This language doesn't have that much learners but there're still people who want to learn, acquire the language.
+I'm not really into creating _yet another vietnamese language learning server_. This language doesn't have that much learners but there're still people who want to learn, acquire the language so here are some suggestions.
  
 ## Communities
 
@@ -7,6 +7,3 @@ I'm not really into creating _yet another vietnamese language learning server_. 
 - [Vietnamese English Muong Studies](https://discord.gg/FSntTjy)
 - [ベトナム語-日本語言語交換 | Học tiếng Việt - Nhật](https://discord.com/invite/RqAFdzkee5)
 
-## Forums
-- [r/VietNam](https://reddit.com/r/VietNam)
-- [r/learnvietnamese](https://reddit.com/r/learnvietnamese)

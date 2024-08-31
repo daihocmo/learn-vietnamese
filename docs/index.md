@@ -2,7 +2,9 @@
 
 Welcome to Immersion-Based Vietnamese Learning, a website made for Vietnamese learners and people interested in language learning more generally.
 
-Most of the posts and guides here were taken (~~stolen~~) from [TheMoeWay](https://learnjapanese.moe/) and [Donkuri's site](https://donkuri.github.io/learn-japanese/), please visit their site if you wanna learn Japanese or just bcuz I'm guilty of copying their posts. This site is simply just a copycat.
+Most of the posts and guides here were taken (~~stolen~~) from [TheMoeWay](https://learnjapanese.moe/) and [Donkuri's site](https://donkuri.github.io/learn-japanese/), please visit their site if you wanna learn Japanese or just bcuz I'm guilty of copying their posts. This site is simply just a copycat. 
+
+You should read their sites about how they learn Japanese, which can be applied to learning Vietnamese (or to basically every languages on the Earth).
 
 ### What is this website?
 

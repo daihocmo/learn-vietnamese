@@ -28,7 +28,6 @@ It's recommended to download _at least_ 2 dictionaries for better word coverage.
 - Từ điển Tiếng Việt - Hồ Ngọc Đức
 - Từ điển Lạc Việt đơn ngữ
 
-
 ## Preview:
 
 ![viet-english-dictionary](./previews/guides/reading/08.webp)

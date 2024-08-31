@@ -1,6 +1,6 @@
 site_name: Immersion-based Vietnamese Learning - Khu học mở  
-site_description: Guide to self-learning Vietnamese through Comprehensible Input and Immersion.
-site_author: onlyduyy  
+site_description: How to learn Vietnamese. Guide to self-learning Vietnamese through Comprehensible Input and Immersion.
+site_author: duykhanh471  
 site_url: https://daihocmo.github.io/learn-vietnamese/
 
 nav:
@@ -9,6 +9,7 @@ nav:
     - 'Join': 'join.md'
   - 'Guides':
     - 'Vietnamese Guide': 'guide.md'
+    - '30 Day Vietnamese': 'routine.md'
     - 'Speaking Vietnamese': 'speaking.md'
     - 'Reading Vietnamese': 'reading.md'
     - 'Reading Techniques and Strategies': 'readingtips.md'
@@ -22,6 +23,7 @@ nav:
     - 'Resources': 'resources.md'
     - 'Comprehensible Input': 'input.md'
   - 'Recommendations':
+    - 'Recommendations': 'recommendation.md'
     - 'Communities': 'community.md' 
   - 'Miscellaneous': 'misc.md'
 
@@ -46,6 +48,7 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/logo.svg
+  favicon: assets/vietnam.svg
   features:
     - navigation.tabs
     - navigation.sections
@@ -74,6 +77,7 @@ markdown_extensions:
   - toc:
       permalink: true
 plugins:
+  - search
   - open-in-new-tab
 
 extra:

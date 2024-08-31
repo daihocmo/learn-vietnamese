@@ -44,16 +44,21 @@ Your first light novel will be extremely painful, but your second light novel wo
 Reading scans or physicals like these is not recommended, because it is hard to look up words from it. 
 
 ![LN 1](previews/reading/ln1.webp)
+
 *Novel: Tôi thấy hoa vàng trên cỏ xanh*
 
 ![LN 2](previews/reading/ln2.jpg)
+
 *Novel: Những ngày thơ ấu*
 
-[![LN 3](previews/reading/ln3.webp)](previews/reading/ln3.webp)
+![LN 3](previews/reading/ln3.webp)
+
 *Novel: Cho tôi xin một vé về tuổi thơ.*  
 
 You need to read stuff like this:
-[![LN 4](previews/reading/ln4.png)](previews/reading/ln4.jpg)
+
+![LN 4](previews/reading/ln4.png)
+
 *Novel: Sống mòn.*  
 
 This is **digital**. Very important. I can select the text and use Yomitan with it.
