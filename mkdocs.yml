@@ -45,8 +45,7 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-  icon:
-    logo: assets/logo.svg
+  logo: assets/logo.svg
   features:
     - navigation.tabs
     - navigation.sections
