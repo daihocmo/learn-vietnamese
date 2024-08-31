@@ -16,7 +16,6 @@ nav:
     - 'Yomitan': 'yomitan.md'
   - 'Resources':
     - 'Resources': 'resources.md'
-    - 'Anki': 'anki.md'
     - 'Comprehensible Input': 'input.md'
   - 'Recommendations':
     - 'Communities': 'community.md' 
@@ -50,36 +49,6 @@ theme:
     - search.share
     - search.suggest
   name: material
-
-theme:
-  palette:
-
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: purple
-      accent: cyan 
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: deep purple
-      accent: cyan 
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-  features:
-    - navigation.instant
-    - navigation.instant.progress
-    - navigation.sections
-    - navigation.expand
-    - search.suggest
-    - search.highlighting
-    - search.share
-  name: material
   
 markdown_extensions:
   - pymdownx.emoji:
@@ -101,3 +70,6 @@ markdown_extensions:
       permalink: true
 plugins:
   - open-in-new-tab
+
+extra:
+  generator: false
