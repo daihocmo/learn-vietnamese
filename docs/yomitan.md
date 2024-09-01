@@ -2,7 +2,7 @@
 Read Yomitan installation guide [here](https://learnjapanese.moe/yomichan/#getting-started/) before proceeding.
 
 PS: Remember to change the language to Vietnamese as shown here.
-![](./previews/guides/yomitan/language-settings.png)
+![](img/guides/yomitan/language-settings.png)
 
 ## Acquire Dictionaries
 
@@ -30,4 +30,4 @@ It's recommended to download _at least_ 2 dictionaries for better word coverage.
 
 ## Preview:
 
-![viet-english-dictionary](./previews/guides/reading/08.webp)
+![viet-english-dictionary](img/guides/reading/08.webp)
