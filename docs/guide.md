@@ -1,4 +1,4 @@
-The structure of this guide is based on [TheMoeWay's Guide](https://learnjapanese.moe/guide/) (TheMoeWay's guide includes the "Preface" part, which tackles many questions about traditional language learning methods so feel free to check this out). 
+The structure of this guide is based on [TheMoeWay's Guide](https://learnjapanese.moe/guide/) (TheMoeWay's guide includes the **Preface** part, which tackles many questions about traditional language learning methods so feel free to check it out). 
 
 Vietnamese has:
 
@@ -43,9 +43,9 @@ You might wanna use the chart as a master reference for all singular characters 
 
 #### Step 2 - The YouTube video
 
-- Learn Vietnamese alphabet pronunciation [here](https://www.youtube.com/watch?v=XYOmnA2O2-E).
+- Learn Vietnamese alphabet pronunciation [here](https://www.youtube.com/watch?v=vywmh8V_5h0).
 
-- After that, learn Vietnamese tones [here](https://www.youtube.com/watch?v=BmKHnC_g5k0), don't try to pronouce it, just remember and then listen to a lot of Vietnamese, you'll gradually become good at it.
+- After that, learn Vietnamese tones [here](https://www.youtube.com/watch?v=EnpL-Hhiy4E), don't try to pronouce it, just remember and then listen to a lot of Vietnamese, you'll gradually become good at it.
 
 #### Step 3 - the grinding
 

@@ -27,7 +27,7 @@ What I expect from you:
 ### Stage: alphabet stage  
 The absolute first thing you need to do when you learn Vietnamese is to learn the alphabet, it's basically English alphabet with some other modified characters.
 
-Watch this video: [https://www.youtube.com/watch?v=Jf6mvBy9VXk](https://www.youtube.com/watch?v=Jf6mvBy9VXk)  
+Watch this video: [https://www.youtube.com/watch?v=vywmh8V_5h0](https://www.youtube.com/watch?v=vywmh8V_5h0)  
 
 Now, vist [this website](https://quizlet.com/vn/233838209/the-vietnamese-alphabet-chu-cai-tieng-viet-flash-cards/). This is a Quizlet link to help you revise the alphabet, the pronunciation at the back of a card is written in Vietnamese, represents exactly how it sounds, without relying on dumb IPA or corressponding english sounds like "ah, oh, ehh". 
 
@@ -165,7 +165,7 @@ Tomorrow will get more complex. So, uh, look forward to it...?
 
 ## Day 4  
 
-### Stage: Learning kanji and new words: Using Anki for the first time.  
+### Stage: Learning new words: Using Anki for the first time.  
 
 Today you'll be:  
 
@@ -188,7 +188,6 @@ Now let's download Anki.
 
 You can download Anki by visiting the official website ([here](https://apps.ankiweb.net/)) and clicking on the Download button. It should scroll the page down to the downloads section. Click the first option.  
 
-<!-- Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (grab the latest `.apkg` file)   -->
 Download the required deck here (in progress).
 
 When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine.  
