@@ -48,30 +48,28 @@ You just have to click one of the links here and it will directs you to the Viet
 - [FPTPlay](https://fptplay.vn/block/category_vod/viet-nam-5575464417dc1321ee858668): Watching Vietnamese movies for free, you just have to use your Google or Facebook account. 
 - [TV360](https://tv360.vn/movies/phim-viet-nam?c=3733): Same as above.
 - [VieChannel](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw): There are a lot of gameshows in this channel.
-[**※ Vietnamese Movie Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/movies) - 
+- [**※ Vietnamese Movie Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/movies) 
 
 ### Novels and Literary Texts
 
-#### Truyện ngắn - Short stories
-- [Văn học trẻ - Truyện ngắn](https://vanhoctre.com/tac-gia-tac-pham/van-hoc-viet-nam/truyen-ngan): Collection of short stories.
-- [Báo Nhân Dân - Mục truyện ngắn](https://nhandan.vn/truyen-ngan/): Collection of short stories from Nhan Dan Newspaper.
-- [Hội nhà văn - Truyện ngắn](https://vanvn.vn/tac-pham-moi/truyen-ngan/): Same as above, but written by people from "Hội nhà văn".
-- [Wikisource Vietnamese Short Stories Collection](https://vi.wikisource.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Truy%E1%BB%87n_ng%E1%BA%AFn_Vi%E1%BB%87t_Nam): Collection of short stories from Wikisource
-- [Truyen Voz](https://voz.vn/f/truyen-voz.96/) - Short stories written by Voz forum's users
-- [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/): old Vietnamese books (expired copyright) being digitalized. 
-- [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks. There might be some NSFW books so it's advised to visit [**Vietnamese Book Suggestion**](books.md) to know which one "should you search for". However, I think this should be up to your preference, not mine.
-- [**※ Vietnamese Book Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/books) - Finding real Vietnamese Literature suggestion that might suits you.
+#### Truyện ngắn
+- [Văn học trẻ - Truyện ngắn](https://vanhoctre.com/tac-gia-tac-pham/van-hoc-viet-nam/truyen-ngan)
+- [Báo Nhân Dân - Mục truyện ngắn](https://nhandan.vn/truyen-ngan/)
+- [Hội nhà văn - Truyện ngắn](https://vanvn.vn/tac-pham-moi/truyen-ngan/)
+- [Wikisource Vietnamese Short Stories Collection](https://vi.wikisource.org/wiki/Th%E1%BB%83_lo%E1%BA%A1i:Truy%E1%BB%87n_ng%E1%BA%AFn_Vi%E1%BB%87t_Nam)
+- [Truyen Voz](https://voz.vn/f/truyen-voz.96/)
+- [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/) - old and copyright expired books 
 
 
-#### Web novels & Light novels
+#### Tiểu thuyết
+- [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks. There might be some NSFW books so it's advised to visit [**Vietnamese Book Suggestion**](https://onlyduyy.github.io/vietnamese-media-recommendation/books) to know which one "should you search for". However, I think this should be up to your preference, not mine.
 - [Hako](https://ln.hako.vn/): Reading online webnovels in Vietnamese
+- [**※ Vietnamese Book Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/books) - Finding real Vietnamese Literature suggestions.
 - [**※ Vietnamese WN&LN Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/ln-wn)
 
 ### Manga
-
-- [Blogtruyenmoi](https://blogtruyenmoi.com/) - Most of the mangas here are uploaded by users or scanlated groups (There are also some mangas from Vietnamese publishers).
-- [Nettruyen](https://nettruyenco.vn/) - read manga online (deprecated)
-- [TruyenQQVN](https://truyenqqvn.com/) - read manga online
+- [Blogtruyenmoi](https://blogtruyenmoi.com/)
+- [TruyenQQVN](https://truyenqqvn.com/)
 
 ### Audiobooks & Podcasts
 - [**※ Vietnamese Podcast Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/podcasts) 
@@ -81,7 +79,7 @@ You just have to click one of the links here and it will directs you to the Viet
 
 - [VOZ](https://voz.vn/) - one of the largest Technology forums in Vietnamese. 
 - [Blogtruyen Forum](https://forum.blogtruyenmoi.com/): An Forum for manga lovers, you can also read manga in Vietnamese here.
-- [TVE-4U](https://tve-4u.org/) - for bookworms
+- [TVE-4U](https://tve-4u.org/) - a forum dedicated to books, novels and literary texts
 
 ### News
 - [VTVNews](https://vtv.vn/)
@@ -93,11 +91,11 @@ You just have to click one of the links here and it will directs you to the Viet
 ### Dictionaries
 
 #### Yomichan
-Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily. 
-- [**※ duykhanh471's dictionary collection**](https://onlyduyy.github.io/viet-yomitan/)
-- [JoaTH: Guide to the Best Vietnamese Dictionaries](https://www.reddit.com/r/learnvietnamese/comments/blc33z/joath_guide_to_the_best_vietnamese_dictionaries/)
+Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily.
 
 - [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary extension on the web browser.  
+- [**※ duykhanh471's dictionary collection**](https://onlyduyy.github.io/viet-yomitan/)
+- [JoaTH: Guide to the Best Vietnamese Dictionaries](https://www.reddit.com/r/learnvietnamese/comments/blc33z/joath_guide_to_the_best_vietnamese_dictionaries/)
 
 #### Online
 - [Lac Viet VI-EN](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-A/-all.html)
@@ -108,6 +106,7 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 
 #### E-Reader Dictionaries
 - **[VNEDICT in stardict format](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)**
+- [Kindle Dictionaries](https://maydocsachtot.com/tong-hop-tu-dien-cho-may-doc-sach-kindle/)
 
 #### Other Tools
 
