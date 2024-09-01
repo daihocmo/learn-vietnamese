@@ -752,13 +752,15 @@ When you get advanced at Vietnamese and understand your raw listening immersion,
 
 Your **passive listening** fills in the gaps where you otherwise wouldn't be doing Vietnamese.  
 
-### Stage: 100-page Doraemon challenge  
+### Stage: 200-page Doraemon challenge  
 
 From today until the 30th day. I want you to challenge yourself to read 100 pages of the Doraemonmanga.  
 
 Doraemon is a great slice of life manga that has been translated into many languages, including Vietnamese.
 
-Manga are tricky to look up words on because they are essentially, text on images. But you can just type out words and look them up using Yomitan. 
+Manga are tricky to look up words on because they are essentially, text on images. But you can just type out words and look them up using Yomitan (typing vietnamese if fairly easy). 
+
+You can download the manga [here](https://drive.proton.me/urls/D7397KHVJC#FOvauRhcv724).
 
 **Q: So, what will I need to be doing from today until the 30th day?**  
 
@@ -805,8 +807,8 @@ And when you read, look up, and understand i+1 sentences, your Vietnamese compre
 And with enough reading, you'll be able to go back to those difficult sentences and understand them at least a little better.  
 In other words, you'll only learn to understand sentences with more reading!!!   
 
-
 ### Important! Learning how to read for long hours and making it enjoyable.  
+
 #### Timeboxing
 
 **Pomodoro**  
@@ -837,18 +839,17 @@ You can always go back to that one annoying part after you've read the good bits
 
 If you want to, of course.  
 
-
 #### Take breaks!  
 
 Take breaks if you feel tired/fatigued!  
 
-## Day 15 to Day 30: Daily Vietnamese Study and Immersion [ÁC CHIẾN KHỔ ĐẤU - 悪戦苦闘]()!  
+## Day 15 to Day 30: Daily Vietnamese Study and Immersion **ÁC CHIẾN KHỔ ĐẤU - 悪戦苦闘**!  
 
 Until the 30th day, all I want you to do is:
 
 - Anki
 - your grammar study
-- "Immersion" = (reading that manga, raw listening anime, subtitle tutor, passive listening, Vietnamese subtitles)
+- "Immersion" = (reading that manga, movies, tv shows, subtitle tutor, passive listening or anything you like)
 
 The method is pretty much that.  
 

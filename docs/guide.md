@@ -33,7 +33,7 @@ The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the of
 
 _The alphabet chart, there are some characters that sound different than the English counterpart, don't try to remember all of them at first, especially the letter combinations._
 
-![tones](img/main-guide/tones.webp)
+![tones](img/main-guide/tones.png)
 
 _The tone chart._
 
@@ -45,9 +45,7 @@ You might wanna use the chart as a master reference for all singular characters 
 
 - Learn Vietnamese alphabet pronunciation [here](https://www.youtube.com/watch?v=XYOmnA2O2-E).
 
-- After that, learn Vietnamese tones [here](https://www.youtube.com/watch?v=3bptcM1hf1E).
-
-Both videos only take you 20 minutes, so don't skip any parts and watch until the end. 
+- After that, learn Vietnamese tones [here](https://www.youtube.com/watch?v=BmKHnC_g5k0), don't try to pronouce it, just remember and then listen to a lot of Vietnamese, you'll gradually become good at it.
 
 #### Step 3 - the grinding
 
@@ -119,7 +117,7 @@ Learning grammar can be straightforward and complex at the same time. It's quite
 Here are a few guides I wanna recommend to total beginners. You do not need to do every single one, just find the one that works well for you.
 
 - Elementary Vietnamese by Binh Nhu Ngo
-- [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers like podcasts.
+- [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi.
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 
 It is prime time to start getting some immersion going when you have learned some new grammar points. Seeing how the grammar you learned is applied in real usages really helps further your understanding of the grammar points.
@@ -143,11 +141,11 @@ The answer is actually very simple. Fun! Media can be entertaining for reasons o
 
 To make Vietnamese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](https://learnjapanese.moe/yomichan/). 
 
-To look up words individually, you can use [Soha](http://tratu.soha.vn/) (Remember to change dictionary mode to "Việt - Anh", the dropdown box), apps for Android [here](https://play.google.com/store/apps/details?id=com.bravolang.dictionary.vietnamese&hl=en&gl=US).
+To look up words individually, you can use [Lạc Việt](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-A/-all.html), apps for Android [here](https://play.google.com/store/apps/details?id=com.bravolang.dictionary.vietnamese&hl=en&gl=US).
 
 ### Choosing immersion content
 
-Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](media.md). Just make sure you're actually interested in whatever you're choosing to immerse with!
+Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](https://onlyduyy.github.io/vietnamese-media-recommendation/). Just make sure you're actually interested in whatever you're choosing to immerse with!
 
 ### How to immerse with listening
 
@@ -221,10 +219,5 @@ _This guide is made possible by TheMoeWay community, I just modified it so it fi
 There isn't really much else to the learning process other than immerse a lot and learn words and grammar. You can really get fluent at Vietnamese with this method. But one thing does change when you leave the beginner stage.
 
 Learning vocabulary with Anki will become much more personal as you will be making your own cards from words found in your immersion in a process we call _mining_. You can search "Sentence Mining" for further information. Mining will essentially become the heart of your language _study_. 
-
-Here are some guides for "Sentence Mining", in order:
-
-- [Basic Sentence Mining Guide from Refold](https://refold.la/roadmap/stage-2/a/basic-sentence-mining)
-- [How to use Sentence Mining](https://www.reddit.com/r/languagelearning/comments/ja37ua/how_do_i_use_sentence_mining/)
 
 Thank you so much for taking your time to read this guide and I wish you good luck on your Vietnamese learning journey!
