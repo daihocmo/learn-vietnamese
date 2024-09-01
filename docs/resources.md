@@ -3,9 +3,9 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 ## Learning Vietnamese
 
 ### Guide
-- [How to start learning Vietnamese](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
 - [Refold Vietnamese](http://refold.link/vietnamese) - Refold Roadmap for Vietnamese Learning.
 - [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo) - Not really a curated guide but it's worth reading.
+- [How to start learning Vietnamese](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
 
 ### Other Resource Pages
 - [**※ Awesome-Vietnamese**](https://daihocmo.github.io/Awesome-Vietnamese/) - Awesome Vietnamese Learning Resources. 
@@ -91,20 +91,20 @@ You just have to click one of the links here and it will directs you to the Viet
 - [Tạp chí Tia sáng](https://tiasang.com.vn/): A Vietnamese science & technology magazine.
 
 ### Dictionaries
-- [**※ duykhanh471's dictionary collection**](https://onlyduyy.github.io/viet-yomitan/)
-- [JoaTH: Guide to the Best Vietnamese Dictionaries](https://www.reddit.com/r/learnvietnamese/comments/blc33z/joath_guide_to_the_best_vietnamese_dictionaries/)
 
 #### Yomichan
 Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily. 
+- [**※ duykhanh471's dictionary collection**](https://onlyduyy.github.io/viet-yomitan/)
+- [JoaTH: Guide to the Best Vietnamese Dictionaries](https://www.reddit.com/r/learnvietnamese/comments/blc33z/joath_guide_to_the_best_vietnamese_dictionaries/)
 
 - [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary extension on the web browser.  
 
 #### Online
+- [Lac Viet VI-EN](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-A/-all.html)
 - [**※ Lac Viet VI-VI**](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/-all.html) - Recommended for intermediate learners, there are also examples.
 - [VNEDICT Online](http://www.denisowski.org/Vietnamese/Vietnamese.html)
 - [Youglish Vietnamese](https://youglish.com/vietnamese) - Sentences sourced from YouTube video subtitles. This is a great tool to improve your pronunciation, as the words will be said by native speakers speaking naturally.
 - [Forvo](https://forvo.com/languages/vi/): Search for a word and hear it pronounced by a native speaker.
-- [VietnamesePod101 Dictionary](https://www.vietnamesepod101.com/vietnamese-dictionary/) - A Vietnamese Dictionary made by VietnamesePod101.
 
 #### E-Reader Dictionaries
 - **[VNEDICT in stardict format](https://www.mediafire.com/folder/9ss2pn046fcjo/Vi%E1%BB%87t_-_Anh)**
@@ -116,7 +116,7 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
   
 ### Guides/Methods/Motivation
 
-- [AntiMoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.
+- [Antimoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.
 - [TheMoeWay](http://learnjapanese.moe/) - Immersion-based Japanese guide, learning Japanese through mass immersion and comprehensible input.
 - [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and Netflix mining guide with asbplayer
 

@@ -1,5 +1,7 @@
-# 30 Day Vietnamese  
+# 30 Day Vietnamese (UsagiSpoon)
 _Note: haven't done editing the whole guide yet._
+
+Usagispoon but with some modifications.
 
 A guide/routine to help people learn Vietnamese from scratch with the immersion method.  
 
@@ -11,7 +13,7 @@ What you'll expect to know at the end of the 30 days:
 
 - An understanding of the most common Vietnamese grammar patterns
 - A vocabulary of at least 500 words.  
-- An understanding of basic sentences in (?).  
+- An understanding of basic sentences in movies.  
 - A good foundation to continue learning Vietnamese on your own.  
 
 What I expect from you: 
@@ -27,24 +29,17 @@ The absolute first thing you need to do when you learn Vietnamese is to learn th
 
 Watch this video: [https://www.youtube.com/watch?v=Jf6mvBy9VXk](https://www.youtube.com/watch?v=Jf6mvBy9VXk)  
 
-Now, go on this website.    
-
-Do this for 10 minutes.  
-
-You can use this timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
-
+Now, vist [this website](https://quizlet.com/vn/233838209/the-vietnamese-alphabet-chu-cai-tieng-viet-flash-cards/). This is a Quizlet link to help you revise the alphabet, the pronunciation is written in Vietnamese, represents exactly how it sounds, without relying on dumb IPA or something like "ah, oh, ehh".
 
 ## Day 2  
 
 ### Stage: Creating your own Vietnam at home  
 
-Surrounding your daily life with Vietnamese is the most important part of the immersion method.  
+Surrounding your daily life with Vietnamese is the most important part of the immersion method. 
 
 It may be hard to decide, but you'll need to find content that interests you and you'll need to make consuming it a habit.  
 
-Slice of life is a good place to start.  
-
-There are many, many anime that have simple Vietnamese.  
+Slice of life movie is a good place to start.  
 
 Here are some suggestions (but you can use anything you want):  
 
@@ -56,13 +51,15 @@ A: And I like your way of thinking! Immersion is all about spending time with co
 
 I want you to try immersing for the first time with the "subtitle tutor" method.  
 
-The subtitle tutor method is where you watch an episode of an anime with English subtitles, then watch it again without subtitles. Then listen to it when doing other things (wireless earbuds makes this easier).  
+The subtitle tutor method is where you watch an episode of an with English subtitles, then watch it again without subtitles. Then listen to it when doing other things (wireless earbuds makes this easier).  
 
 The flowchart process:
 
 1. Watch with English subtitles  
 2. Watch without any subtitles (also known as raw listening)  
-3. Are you done for today? (Yes=Put the episodes on in the background to listen while you do other things. | No= Go back to step 1.)
+3. Are you done for today? 
+    - Yes = Put the episodes on in the background to listen while you do other things.
+    - No = Go back to step 1.
 
 Essentially, by watching the episode with subtitles first, you have increased the comprehensibility of your input.  
 
@@ -76,13 +73,12 @@ But it all begins with raw listening and trying to make that listening comprehen
 
 The subtitle tutor method is only meant to provide context for the audio you are listening to.   
 
-I also recommend listening to the audio when doing other things.  
+You can try listening to the audio when doing other things.  
 
 By doing that you are essentially filling in the silence with Vietnamese, which means, even if for a few seconds, you may pay attention to what's being said.  
 
 Note: Listening while doing other things = **passive immersion**.  
 Listening with undivided attention = **active immersion**.  
-
 
 **Q: Why immersion before any grammar or vocabulary study?** 
 
@@ -95,13 +91,10 @@ A: You can consider your immersion done for the day but if you want to do more (
 [Roll a dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
 I didn't want to overwhelm you on your second day, so you'll start learning about grammar tomorrow.  
+
 ## Day 3
 
-### Stage: Just starting grammar
-
-Do your daily kana practice on this site! [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
-
-Use a timer here: [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/)  
+### Stage: Just starting grammar 
 
 Now here's where you'll start grammar.  
 
@@ -111,21 +104,11 @@ You don't need to choose the correct patterns or anything like that.
 
 Everything you will be learning is insanely common and will be reinforced with your daily immersion.     
 
-The grammar guide I want you to use is Cure Dolly's Organic Vietnamese.  
-
-The YouTube playlist is here: [https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj](https://www.youtube.com/playlist?list=PLg9uYxuZf8x_A-vcqqyOFZu06WlhnypWj)  
-
-For folks out there that prefer reading, here is the [Cure Dolly fan-made textbook](https://docs.google.com/document/d/1OwVPStFrXRjXvzmrFQUfXpEiPNspYq6JYxA4zDTlhPM/edit)!  
+The grammar guide I want you to use is [duykhanh471's guide to Vietnamese grammar]()
 
 All I want you to do is **watch the videos** and **take notes**
 
 (Google Keep note taking site here: [https://keep.google.com/](https://keep.google.com/))  
-
-**Note: I recommend turning on the subtitles for Cure Dolly's videos.**    
-
-***Watch 3 videos a day***  
-
-That is a good number, you will be near the end of her guide after 30 days at that pace.  
 
 ***Take notes.***  
 
@@ -135,7 +118,7 @@ A: You should put information that you feel is important.
 
 Rely on your instincts.  
 
-If Cure Dolly says this means that, then you might want to take a note of it.  
+If they say this means that, then you might want to take a note of it.  
 
 Your notes do not need to be detailed, and you don't need to show them to anyone.  
 
@@ -167,12 +150,13 @@ You know the drill.
 **Q: Do I need to do the "subtitle tutor" method?**  
 
 A: The subtitle tutor method is **not required**. It is merely a way to make immersion more interesting in the beginning. 
+
 I merely presented it to you as a method that is available to you.  
 
 **Q: What do I do if I keep hearing a word that interests me and want to know what it means?**
 
 A: First of all, that's great!  
-You can use [Jisho.org](https://jisho.org/) to search up the word. 
+You can use [tratu.coviet.vn](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-A/-all.html) to search up the word. 
 There's a chance you might be mishearing it so you may not be able to find out.  
 
 Tomorrow will get more complex. So, uh, look forward to it...?  
@@ -183,22 +167,16 @@ Tomorrow will get more complex. So, uh, look forward to it...?
 
 Today you'll be:  
 
-- Practicing kana  
+- Practicing alphabet  
 - Studying grammar  
 - Using Anki for the first time
-- Learning new words and kanji in Anki. 
+- Learning new words in Anki. 
 - Setting up a Vietnamese keyboard on your pc 
 - Doing your daily immersion.  
 
 It is a lot. Please make sure you have enough time today.   
 
-Practice your kana on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) for 10 minutes.  
-
-[10 Minute Timer Here](https://www.online-stopwatch.com/timer/10minutes/)  
-
 After that, do your daily grammar study.  
-
-Remember the routine from the previous day: **3 Cure Dolly videos**!   
 
 After you've done that, let's set up Anki.  
 
@@ -208,7 +186,8 @@ Now let's download Anki.
 
 You can download Anki by visiting the official website ([here](https://apps.ankiweb.net/)) and clicking on the Download button. It should scroll the page down to the downloads section. Click the first option.  
 
-Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (grab the latest `.apkg` file)  
+<!-- Download the required deck [here](https://github.com/donkuri/Kaishi/releases) (grab the latest `.apkg` file)   -->
+Download the required deck here (in progress).
 
 When you first open Anki, the first thing you'll see is the "interface language selector". This just decides what language Anki will be displayed in. Any language is fine.  
 
@@ -224,7 +203,6 @@ In Anki, there are 3 buttons on the bottom of the window. The button **Import Fi
 Once clicked, it should open the file picker window.   
 
 Choose your downloaded deck.  
-
 
 When it finishes importing it should show you a box with bunch of text. Just press ok.  
 
@@ -349,7 +327,6 @@ Step 12: I reveal the back.
 Step 13: I grade myself depending on if the meaning *and* reading I thought it was, was correct.  
 Step 14: I usually use the Good button if I got it correct. Again if it wasn't correct.  
 
-
 After you have successfully learned 20 cards, you can consider your Anki done for the day.  
 
 The next day you can expect to see some cards in the green (Review) pile. 
@@ -384,47 +361,23 @@ When words don't stick, it means there are multiple things in the wider scope of
 
 In easier terms, you need more, or different information than the information on the card.  
 
-For these leeches, I recommend looking at them in example sentences. You can use [Jisho.org with the #sentence tag](https://jisho.org/search/%20%23sentences%20%E8%B8%8F%E3%82%80) to see example sentences with an English translation.  
-
+For these leeches, I recommend looking at them in example sentences. You can use [tratu.coviet.vn](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-A/-all.html) to see example sentences with an English translation.  
 
 **Setting up a Vietnamese Keyboard**  
 
 Now let's set up a Vietnamese keyboard. 
 
-Read this article: [http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/](http://www.miamioh.edu/cas/academics/centers/ilrc/technical-support/jpn-win-keyboard-entry/)  
-
-The article is very good. 
-
-After you've done that lemme teach you the most useful functions.
-
-++alt++++grave++ (backquote)(the key left of 1): Switch from entering just letters like these to kana like this: かな. if you type "kana" when the symbol on the taskbar is an "A" it will just be "kana" but if the symbol is あ then it will become "かな"
-
-++space++: Conversion. When you want to type a kanji, you have to type its reading, and then use space to convert it. Due to Vietnamese's... japanesesiness, there are multiple conversion candidates for the kana you entered. Let's try a word you probably just learned, like 言う. To type that in kanji you have to switch to kana input mode (the あ symbol) and type いう, then press space until 言う is selected, and then press ++enter++. If you want to enter kana without converting, just type what you want and press enter.  
-
-++f7++: Katakana conversion. 
-
-++win++++space++: Switch input methods (only effective if you have more than one input method (example `English (UK)` and `Vietnamese (Japan)`)  
-
+Read this article: [How to type Vietnamese on Computers](https://vietnameseguru.com/2022/02/how-to-type-vietnamese-on-computer/)  
 
 Now I think it is about time you do your daily immersion.  
 
 I hope the dice game helped you get used to immersing.  
 
-I recommend you decide on a set number of anime episodes to use for immersion per day.  
-
-If you can't decide, then by all means, let a dice decide for you! 
-
-[Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
+I recommend you decide on a set number of episodes to use for immersion per day.  If you can't decide, then by all means, let a dice decide for you! [Roll a 4-sided dice](https://www.google.com/search?q=roll+a+4+sided+dice)   
 
 ## Day 5  
 
-Go on this site [https://gohoneko.neocities.org/learn/kana.html](https://gohoneko.neocities.org/learn/kana.html) and practice kana for 10 minutes. [https://www.online-stopwatch.com/timer/10minutes/](https://www.online-stopwatch.com/timer/10minutes/).  
-
-Now do your daily Anki.  
-
-Anki is tough in the beginning.  
-
-But it gets better I promise!  
+Practice the alphabet do your daily Anki. Anki is tough in the beginning. But it gets better I promise!  
 
 Your Anki today will be slightly different. You'll have a blue number AND a green number next to the deck.  
 
@@ -435,8 +388,6 @@ Make sure you stay on top of your reviews!
 Important word of advice: If you ever become unable to keep up with piling reviews, then reduce your new cards per day limit!  
 
 After you've done your Anki for the day, you should get onto your daily grammar study.  
-
-**3 Cure Dolly videos!**  
 
 After that, it's just your daily immersion.  
 
@@ -452,7 +403,7 @@ Every little bit counts.
 
 ## Day 6  
 
-### Stage: First ever reading practice: Vietnamese subtitles! 
+### Stage: First ever reading practice: Vietnamese simple text. 
 
 Today you'll start reading practice for the first time!  
 
@@ -462,83 +413,11 @@ But don't worry if you don't understand it!
 
 Every bit counts!  
 
-First, practice kana for 10 minutes.  
+First, practice alphabet. After that, go on to doing your Anki. After your Anki, do your daily grammar lessons.  
 
-[Kana Practice Site](https://gohoneko.neocities.org/learn/kana.html)  
-[10 Minute Timer](https://www.online-stopwatch.com/timer/10minutes/)  
-
-After that, go on to doing your Anki.  
-
-After your Anki, do your 3 Cure Dolly videos.  
-
-Then let's get on to reading.  
-
-Your first reading content will be anime with Vietnamese subtitles.  
-
-It is kind of tricky to set it up, but let's go through it.  
-
-First, you will need Yomichan.
-
-Click on this [link](/yomichan) to read my guide on it.  
-
-After you have set up Yomichan, follow the rest of these steps. 
-
-In your Chrome extension settings (`chrome://extensions`), enable "**Developer mode**" in the **top right**.  
-
-Now download the [asbplayer Extension](https://github.com/killergerbah/asbplayer/releases)  
-
-It has to be installed manually; it is not on the Chrome Web Store.  
-
-You need to unzip the .zip file first.  
-
-Now you go in your Chrome extension settings and click "Load unzipped"  
-
-Choose the unzipped folder.  
-
-Restart your browser.  
-
-Now you need to get subtitle files for the anime you want to watch.  
-
-Let's just use... Love Live (2013) as an example.  
-
-The site [Kitsunekko](https://kitsunekko.net/dirlist.php?dir=subtitles%2Fjapanese%2F) has the biggest collection of Vietnamese subtitles for anime.   
-
-**(NOTE: The site has a tendency of going down randomly. You can view a backup [here](/kitsubackup.html#/ja))**    
-
-I scrolled down to "Love Live!", and downloaded the "Love Live! (01-13) (Webrip).zip" file.  
-
-After unzipping the file, I got a bunch of .SRT files. 
-
-.SRT files are subtitle files.  
-
-Now what you need to do is drag and drop an .SRT file onto a video.  
-
-The asbplayer extension works with [Hianime](https://hianime.to/watch/love-live-school-idol-project-1706?ep=22404). I recommend streaming from there.  
-
-Before you start playing an episode, make sure you have this page open: [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/)  
-
-When an episode starts playing, you can drag and drop an .SRT file onto it.  
-
-The subtitles should load and work.  
-
-English subtitles display at the same time, which is bad for learning because English subs can confuse you when you try to understand the actual Vietnamese structure behind the meaning. For just giving context to the audio, they are fine though. Anyway, to disable English subtitles, click the CC icon on the video player controls and click Off.  
+Then let's get on to reading. First, you will need Yomichan. Click on this [link](yomitan.md) to read my guide on it.  
 
 By using ++shift++ on a word, Yomichan should pop up with a dictionary definition. 
-
-But there is a problem. The subtitle file for Love Live is horribly **out of sync**!  
-
-This means the subtitles don't match the timing of the audio.  
-
-Luckily, asbplayer supports adjusting the timing.  
-
-You can do that with ++ctrl++++shift++++left++ or ++right++. Sometimes it doesn't work if you don't click on the video first.  
-You will need to experiment to find the right timing. For Love Live it was -8400ms.  
-
-It might be hard to figure out what subtitle belongs to what audio when reading is so difficult. 
-
-Sentences written in kana make it easier to tell which is which though.  
-
-This page [https://killergerbah.github.io/asbplayer/](https://killergerbah.github.io/asbplayer/) displays the subtitles in a list. This makes it easier to go back to a line you missed. It only works if you had it open before loading the subtitle.  
 
 **This also enables you to "read" the anime! Which I recommend you do!!!**    
 
@@ -556,35 +435,9 @@ A: I think you should decide this using a 20-sided dice, per episode.
 
 Roll!  
 
-After you've looked up your amount just *watch* the rest with Vietnamese subs.  
+After you've looked up your amount just *read* the rest.
 
-If anything piques your interest, then feel free to look it up!  
-
-**Q: When watching with Vietnamese subs, do I try to read everything on the screen?**
-
-A: No. I generally recommend looking up the number of words the dice decided and then just watch the rest of the episode without looking anything up or stopping to read anything, but you should focus on how the kana are pronounced etc.  
-
-**Q: When I look up something, or need to read something, do I pause the video?**  
-
-A: Yes! Pause the video when you need to look up!  
-
-**Q: What is the point of the subtitles in a list?**  
-
-A: You do it so you can do "raw reading practice".  
-
-When the anime playing, you are doing half-reading half-listening.  
-
-When you remove the audio part and just read the subtitles in a list, you are doing the equivalent of real reading!  
-
-**Q: Does the dice decide how many words I look up while watching the anime or while reading the subtitles in a list?**  
-
-A: [Roll another 20 sided dice](https://www.google.com/search?q=roll+a+20+sided+dice) for when you read the anime.  
-   
-**Q: How many episodes should I read?**  
-
-Focus on reading a single anime episode until you've looked up the amount of dice decided words.  
-
-**Q: Is it possible to understand everything by spending 30 minutes spamming Yomichan on a sentence?**  
+**Q: Is it possible to understand everything by spending 10 minutes spamming Yomichan on a sentence?**  
 
 A: Short answer: No. Comprehension is a gradual process.  
 
@@ -613,14 +466,6 @@ The best you can do for hard sentences is to look up the vocabulary in them.
 While it may not be enough to understand *that* sentence at *that* time, your newly found knowledge of the word can help you connect it to some meaning in a later context.  
 
 With more study and immersion (understanding things in context), your understanding of Vietnamese will increase.  
-
-
-
-**Q: Do I have to change the anime I'm reading to the one I last watched?**  
-
-No. I actually recommend reading the same one until you read the end.  
-
-But you don't have to always use the same one if it no longer interests you.  
 
 **Q: How can I expect to remember the words I look up?**  
 
@@ -666,10 +511,6 @@ Not always, it is inevitable that there are things you will just not understand 
 
 It is also tiring, so do it in moderation.  
 
-**Q: How many episodes should I watch with Vietnamese subs until I go back to no subs?**  
-
-A: 1 Vietnamese subtitled episode per day is a good number. 2 or 3 if you want to go all out.  
-
 **Q: Should I watch Vietnamese subs or raw?**  
 
 A: They exist for different purposes.  
@@ -705,15 +546,15 @@ Vietnamese subs are better because they give you the opportunity to learn the ac
 
 ## Day 7  
 
-**Note about kana practice:**  
+**Note about alphabet practice:**  
 
 Experience differs greatly from person to person. 
 
-Some of you may already be comfortable with the kana after just 6 days.  
+Some of you may already be comfortable with the alphabet after just 6 days.  
 
 Others may need more practice.  
 
-I think you should reduce the time spent on kana practice from **10 minutes** to **5 minutes**.  
+I think you should reduce the time spent on alphabet practice from **10 minutes** to **5 minutes**.  
 
 You will be exposed to Vietnamese text a lot more going forward.  
 
@@ -722,7 +563,7 @@ You will be exposed to Vietnamese text a lot more going forward.
 Your tasks for today are as follows.  
 
 Step 1. Do your Anki.  
-Step 2. Cure Dolly routine.  
+Step 2. Grammar.  
 Step 3. Immerse!! (Details below)  
 
 Focusing on a particular area of your Vietnamese (e.g., listening or reading) is good.  
@@ -742,29 +583,8 @@ Tails = Reading day
 
 ## Day 8
 
-### Stage: The elephant in the room... kanji!  
+### Stage: learn Vietnamese word patterns?
 
-Kanji look like scribbles, don't they?  
-
-For a beginner, they look nonsensical.  
-
-But for an experienced learner, they look like actual shapes and familiar faces.  
-
-Every kanji can be broken down into fundamental shapes. Also known as radicals. Or "primitives" (term used in Remembering the Kanji).
-
-Example: 萌 = 艹+日+月  
-Example: 踏 = 足+水+日  
-Example: 足 = 口+龰  
-Example: 将 = 丬+爫+寸  
-
-
-I recommend you do the "Recognition Remembering the Kanji 450" Anki deck.  
-
-[Download it here](https://mega.nz/file/2SJiWC4b#hL98qtC_hiLlQDg0LqVJoqD2-5ywT2Nwd4kjROY_KwQ)  
-
-The purpose of the deck is to steadily give you the ability to see kanji as a combination of consistent shapes.  
-
-Click the cog icon next to the 日本語 parent deck.  
 
 Now click Options.  
 
@@ -800,8 +620,8 @@ It is an important skill to have, because when you are learning Vietnamese for a
 
 **Q: So, what do I need to do today?**
 
-1. Anki. Your Kaishi 1.5k deck and the RRTK deck.  
-2. Grammar. Watch 3 Cure Dolly videos.
+1. Anki.  
+2. Grammar.
 3. Immersion.  
 
 **Q: Immersion...?**
@@ -845,7 +665,7 @@ Daily routine:
 2. Grammar  
 3. Immersion  
 
-You may want to look into [Condensed Audio](/resources#condensed-audio), this is a way to maximize the efficiency of passive listening.  
+You may want to look into Condensed Audio, this is a way to maximize the efficiency of passive listening.  
 
 Passive listening is when you listen to Vietnamese audio when you are doing other things.  
 
@@ -858,8 +678,6 @@ Or, listening to Vietnamese at every possible opportunity.
 Condensed audio removes non-speech parts of the audio, making it more efficient.  
 
 If you have wireless earbuds, listening all the time becomes a lot easier.  
-
-If you've been watching *Love Live! (2013)*, I made condensed audio for it a long while ago, which you can find [here](https://mega.nz/folder/sdB1mC6T#X_fYeasMb64i3tAf3LeYEA)  
 
 ## Day 11  
 
@@ -924,7 +742,7 @@ Your **listening** and **reading** practice are where you are **applying** your 
 
 The **subtitle tutor method** aims to boost the **comprehensibility** of your **listening immersion** by giving you context of what is being said in the audio.  
 
-Your **Vietnamese subtitle listening** helps you: associate kana with sounds, figure out what words are being said and ease you into reading.  
+Your **Vietnamese subtitle listening** helps you: associate alphabet with sounds, figure out what words are being said and ease you into reading.  
 
 Your **raw (no subs) listening practice** is where you build a mental model of how the language actually sounds. This is good for a number of reasons. The main reasons being getting a good accent, and also being able to hear the words that you know. Listening isn't as clear as reading, it can be very fast and hard to keep up with. By getting used to raw listening you can train yourself to hear these unclear things better.  
 
@@ -936,7 +754,7 @@ Your **passive listening** fills in the gaps where you otherwise wouldn't be doi
 
 From today until the 30th day. I want you to challenge yourself to read 100 pages of the よつばと！ manga.  
 
-よつばと！ is a great slice of life manga that features furigana (kana on the top of kanji).  
+よつばと！ is a great slice of life manga that features furigana (alphabet on the top of kanji).  
 
 Manga are tricky to look up words on because they are essentially, text on images.  
 
@@ -1046,7 +864,7 @@ If you want to, of course.
 
 Take breaks if you feel tired/fatigued!  
 
-## Day 15 to Day 30: Daily Vietnamese Study and Immersion [悪戦苦闘](https://jisho.org/word/%E6%82%AA%E6%88%A6%E8%8B%A6%E9%97%98)!  
+## Day 15 to Day 30: Daily Vietnamese Study and Immersion [ÁC CHIẾN KHỔ ĐẤU - 悪戦苦闘]()!  
 
 Until the 30th day, all I want you to do is:
 
@@ -1075,7 +893,6 @@ This study guide (UsagiSpoon) was just making a few of the decisions for you.
 **Q: What is the ideal UsagiSpoon lifesyle?**  
 
 A: [https://www.youtube.com/watch?v=r5Qxr8OGkaA](https://www.youtube.com/watch?v=r5Qxr8OGkaA)  
-
 
 ## Day 31 and beyond: After UsagiSpoon?  
 

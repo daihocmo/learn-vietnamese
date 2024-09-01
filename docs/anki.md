@@ -1,9 +1,3 @@
-Anki is an excellent option for revising nearly everything you wanna learn by heart.
-
-[Here is the full-text guide](https://leananki.com/how-to-use-anki-tutorial/) to get started (for those who prefer reading).
-
-## Premade decks for Vietnamese learning.
-
 ### Pronunciation
 - **[※ - Vietnamese Pronunciation Deck](https://ankiweb.net/shared/info/1747674390)**
 
