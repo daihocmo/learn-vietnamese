@@ -8,7 +8,7 @@ PS: Remember to change the language to Vietnamese as shown here.
 
 Please visit [this page](https://onlyduyy.github.io/viet-yomitan/) to download Vietnamese - English Dictionary Collection.
 
-![viet-eng-dictionary](./Image/dictionary-site.png)
+![viet-eng-dictionary](main-guide/dictionary-site.png)
 
 
 ## Installing dictionaries and basic usage
