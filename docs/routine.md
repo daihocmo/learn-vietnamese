@@ -29,7 +29,9 @@ The absolute first thing you need to do when you learn Vietnamese is to learn th
 
 Watch this video: [https://www.youtube.com/watch?v=Jf6mvBy9VXk](https://www.youtube.com/watch?v=Jf6mvBy9VXk)  
 
-Now, vist [this website](https://quizlet.com/vn/233838209/the-vietnamese-alphabet-chu-cai-tieng-viet-flash-cards/). This is a Quizlet link to help you revise the alphabet, the pronunciation is written in Vietnamese, represents exactly how it sounds, without relying on dumb IPA or something like "ah, oh, ehh".
+Now, vist [this website](https://quizlet.com/vn/233838209/the-vietnamese-alphabet-chu-cai-tieng-viet-flash-cards/). This is a Quizlet link to help you revise the alphabet, the pronunciation at the back of a card is written in Vietnamese, represents exactly how it sounds, without relying on dumb IPA or corressponding english sounds like "ah, oh, ehh". 
+
+Most of Vietnamese dictionaries out there don't have word audio, so you may wanna use [Google Translate](https://translate.google.com/?sl=vi&tl=en&text=%0A%0A&op=translate).
 
 ## Day 2  
 
@@ -750,35 +752,13 @@ When you get advanced at Vietnamese and understand your raw listening immersion,
 
 Your **passive listening** fills in the gaps where you otherwise wouldn't be doing Vietnamese.  
 
-### Stage: 100-page Yotsubato! challenge  
+### Stage: 100-page Doraemon challenge  
 
-From today until the 30th day. I want you to challenge yourself to read 100 pages of the よつばと！ manga.  
+From today until the 30th day. I want you to challenge yourself to read 100 pages of the Doraemonmanga.  
 
-よつばと！ is a great slice of life manga that features furigana (alphabet on the top of kanji).  
+Doraemon is a great slice of life manga that has been translated into many languages, including Vietnamese.
 
-Manga are tricky to look up words on because they are essentially, text on images.  
-
-But there are many tools out there that make this process easier.  
-
-There is a particularly crazy one known as *mokuro* that turns the manga into a HTML page.  
-
-The text bubbles turn into text you can actually use Yomichan on, just like a normal web page!  
-
-よつばと！ has some non-standard ways of writing words that make it tricky to use a dictionary with. Such as そう being written as そー
-
-This "ー" is not the kanji 一 (one). It is actually a vowel elongation mark.  
-
-It is known as "長音" (ちょうおん). The kanji of this mean long, sound!.    
-
-とー would be とう. びー would be びい. etc.    
-
-I have made a Yotsubato reading helper to help you with words like these.  
-
-**Everything you need is in this .zip file: [(Download)](https://mega.nz/file/JRxmAZyA#qfHSC-gjBxkumlELYrP6oIz3-p_dZka0Dgg4q1eTbEo)**   
-
-*Note: A typo I made in the reading helper: おいてくぞ is actually おいていくぞ, not おいておくぞ*
-
-Vietnamese manga is in vertical text. This means the text is read **downwards** from the **rightmost** line to the **leftmost** line.  
+Manga are tricky to look up words on because they are essentially, text on images. But you can just type out words and look them up using Yomitan. 
 
 **Q: So, what will I need to be doing from today until the 30th day?**  
 
@@ -789,8 +769,6 @@ Your immersion will get more... complicated.
 You will need to balance reading that manga and your usual immersion.  
 
 Shoving everything into the same day may be too difficult.  
-
-I suggest replacing your reading practice with Yotsubato! instead of Vietnamese subtitles. It doesn't have to be every day if you don't want to.  
 
 **Word looking up trick: The Yomichan Search Page**  
 
@@ -906,16 +884,13 @@ Some you might not even be able to do until months or years down the line!
 
 Nevertheless, I highly recommend you do them.  
 
-- Finish the entirety of Yotsubato volume 1
-- Finish the Kaishi 1.5k deck   
-- Finish the RRTK450 deck  
-- Do the [Kanji Phonetics](/kanjiphonetics) deck.  
-- Finish Cure Dolly's grammar guide  
-- Study all the Vietnamese grammar from the Dictionary of Vietnamese Grammar. There is an Anki deck for that [here](https://ankiweb.net/shared/info/1013111837). There are 629 grammar points ranging from beginner to advanced.     
-- Start studying Vietnamese pronunciation and pitch accent with [this guide](https://docs.google.com/document/d/1ReBf08JFK4n0PXdOxThAfWuiK9UWVZEWWzeKSECWTQo)
-- Start reading longer texts such as visual novels. Participate in TheMoeWay Discord's VN club to hang out with other people doing the same.  
-- Train your ability to recognize and read Vietnamese numbers, with this resource: [Practice Vietnamese Numbers](https://langpractice.com/japanese/).   
-- Start a "mining" Anki deck sometime after you finish the Kaishi 1.5k deck.  
-- Finish a visual novel in under 6 months after starting it.   
-- Try using a monolingual dictionary after you finish a visual novel.  
+- Finish the entirety of Doraemon volume 1
+- Finish the Banhcuon1.5k deck   
+- Do the [Vietnamese Pronunciation Deck]() deck.  
+- Finish duykhanh471's grammar guide  
+- Study all the Vietnamese grammar from the [Dictionary of Vietnamese Grammar](). There are 629 grammar points ranging from beginner to advanced.     
+- Start reading longer texts such as novels. Participate in TheMoeWay Discord's novel club to hang out with other people doing the same.  
+- Train your ability to recognize and read Vietnamese numbers, with this resource: [Practice Vietnamese Numbers](https://langpractice.com/vietnamese).   
+- Start a "mining" Anki deck sometime after you finish the Banhcuon1.5k deck.  
+- Try using a monolingual dictionary after you finish a novel.  
 - Increase your immersion hours.  

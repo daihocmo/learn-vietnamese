@@ -21,31 +21,29 @@ The learning process for the beginner consists of:
 
 ## 1.2 Vietnamese alphabet
 
-![alphabet.webp](./Image/alphabet.webp)
+![alphabet.webp](img/main-guide/alphabet1.png)
 
-The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the official writing system of Vietnam, reflecting the linguistic and cultural heritage of the country. This unique script, unlike many other East Asian writing systems, is based on the Latin alphabet, showcasing the influence of Western linguistic traditions in Vietnam’s language development. The alphabet consists of 29 letters, including 14 consonants and 15 vowels. Each letter has a unique sound, and it is essential to know how to pronounce them correctly in order to speak and read Vietnamese fluently. 
+The Vietnamese alphabet, also known as the Quốc ngữ script, stands as the official writing system of Vietnam, reflecting the linguistic and cultural heritage of the country. This unique script, unlike many other East Asian writing systems, is based on the Latin alphabet, showcasing the influence of Western linguistic traditions in Vietnam’s language development. Each letter has a unique sound, and it is essential to know how to pronounce them correctly in order to speak and read Vietnamese fluently. 
 
 ### 1.3 How to learn the alphabet
 
 ### Step 1: the chart
 
-![bang_chu_cai](./Image/bang_chu_cai.webp)
+![bang_chu_cai](img/main-guide/bang_chu_cai.webp)
 
 _The alphabet chart, there are some characters that sound different than the English counterpart, don't try to remember all of them at first, especially the letter combinations._
 
-![tones](./Image/tones.webp)
+![tones](img/main-guide/tones.webp)
 
 _The tone chart._
 
 There are six (6) tones in the Vietnamese language with five (5) tone marks as you can see in the above chart.
 
-Both of the above chart are taken from [Omniglot](https://www.omniglot.com/writing/vietnamese.htm).
-
 You might wanna use the chart as a master reference for all singular characters and letter combinations. This will help you a lot when you are learning how to read Vietnamese so I recommend you save it. 
 
 #### Step 2 - The YouTube video
 
-- Learn Vietnamese alphabet pronunciation [here](https://youtu.be/Jf6mvBy9VXk?si=u35CESIcmtEIZYas).
+- Learn Vietnamese alphabet pronunciation [here](https://www.youtube.com/watch?v=XYOmnA2O2-E).
 
 - After that, learn Vietnamese tones [here](https://www.youtube.com/watch?v=3bptcM1hf1E).
 
@@ -73,7 +71,7 @@ You should also have a pronunciation deck, please visit [here](https://ankiweb.n
  
 To make Vietnamese less daunting, I recommend you work through a beginner-level vocabulary deck for Anki. This is a deck consisting of around 1000 to 2000 words aimed at teaching you the most common Vietnamese words to jumpstart your Vietnamese learning.
 
-Please visit [here](https://daihocmo.github.io/learn-vietnamese/anki/#premade-decks-for-vietnamese-learning) to download some of the suggested Vietnamese Vocabulary Decks.
+Please visit [here](anki.md) to download some of the suggested Vietnamese Vocabulary Decks.
 
 ### Quick Anki Setup
 

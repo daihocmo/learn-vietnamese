@@ -22,7 +22,7 @@ As mentioned earlier, make sure you have an adequate vocabulary size (say, you'v
 ### Truyện tranh
 Truyện tranh is probably the best way to get into reading without it being too intimidating as the way its written is similar to spoken Vietnamese, and assuming you're already quite familiar with that, it won't be much of a trouble getting used to. And if you're not yet familiar, you'll be familiar after reading _truyện tranh_.
 
-![Manga](previews/reading/manga1.png)
+![Manga](img/reading/manga1.png)
 
 *Manga: Doraemon*
 
@@ -43,21 +43,21 @@ I seriously recommend you read novels on this site: [Tủ sách văn học trong
 Your first light novel will be extremely painful, but your second light novel won't be as painful. Expect a light novel to take a 1-3 months to finish reading when you're first starting out, it will get quicker overtime (I can finish a light novel in around 10 hours). Just read more, read a lot.  
 Reading scans or physicals like these is not recommended, because it is hard to look up words from it. 
 
-![LN 1](previews/reading/ln1.webp)
+![LN 1](img/reading/ln1.webp)
 
 *Novel: Tôi thấy hoa vàng trên cỏ xanh*
 
-![LN 2](previews/reading/ln2.jpg)
+![LN 2](img/reading/ln2.jpg)
 
 *Novel: Những ngày thơ ấu*
 
-![LN 3](previews/reading/ln3.webp)
+![LN 3](img/reading/ln3.webp)
 
 *Novel: Cho tôi xin một vé về tuổi thơ.*  
 
 You need to read stuff like this:
 
-![LN 4](previews/reading/ln4.png)
+![LN 4](img/reading/ln4.png)
 
 *Novel: Sống mòn.*  
 

@@ -66,34 +66,34 @@ Two reasons:
 
 **I recommend doing the monolingual transition with Yomichan.**  
 
-![Image](previews/mono/monodemo.png)
+![Image](img/mono/monodemo.png)
 
 Yomichan is a browser extension that allows you to look up Vietnamese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](yomitan.md)  
 
 ### Optimizing Yomichan Settings 
 
 First you need to ensure that Advanced options is enabled.  
-![Image](previews/mono/mono1.jpg)
+![Image](img/mono/mono1.jpg)
 
 Second, we want to remove any and all scan delays because we will be making heavy use of this extension and wouldn't want to be slowed down by anything.  
 
-![Image](previews/mono/mono2.jpg)
+![Image](img/mono/mono2.jpg)
 
 Now we will enable scanning within pop-ups, this is very important, as we want to be able to look up any words we don't know within a **definiton.**  
-![Image](previews/mono/mono3.jpg)  
+![Image](img/mono/mono3.jpg)  
 
 You may want to increase the size of your Yomichan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomichan dictionaries comfortably we are going to edit the following settings.  
 
-![Image](previews/mono/mono4.jpg)  
+![Image](img/mono/mono4.jpg)  
 
 Here's how our pop up looks now:  
-![Image](previews/mono/mono5.png) 
+![Image](img/mono/mono5.png) 
 
 Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!  
 
 You can also add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](yomitan.md) for more info.  
 
-![Image](previews/mono/mono6.jpg)  
+![Image](img/mono/mono6.jpg)  
 
 I will touch on dictionaries in the next section.  
 
@@ -119,7 +119,7 @@ Let's continue.
 
 Import the set of dictionaries that best suits you in [Recommended Dictionaries](#recommended-dictionaries).  
 
-![Image](previews/mono/mono8.png)  
+![Image](img/mono/mono8.png)  
 
 ### Why do you say use a lot of dictionaries?
 
@@ -137,7 +137,7 @@ You need to have a lot of dictionaries and have every one of them enabled becaus
 ### Yomichan Offline
 You can still use Yomichan offline. Here’s how.
 
-![Image](previews/mono/mono9.jpg)
+![Image](img/mono/mono9.jpg)
 
 That’s how.
 
@@ -181,16 +181,16 @@ Find something you like. It can be a light novel (which has been translated into
 So what? It’s good that you are reading the dictionary more. Think of the dictionary as something FUN. 
 It's fascinating in its own right.  
 
-![Image](previews/mono/mono10.webp)  
+![Image](img/mono/mono10.webp)  
 
 
 #### 10 Important Tips and Tricks
 
-(NHẤT). Read at least 1 novel (it can be a light novel or visual novel) before going monolingual.
+(NHẤT). Read at least 1 novel before going monolingual.
 
 (NHỊ). Try to experiment with what dictionary order is the best for you.
 
-(TAM). If the word you look up with Yomichan is only in a bilingual dictionary, try doing a kana search for it, or a full kanji search (Alt+Insert to get to the Yomichan search page)  
+(TAM). If the word you look up with Yomichan is only in a bilingual dictionary, try searching it on Google.
 
 (TỨ). If you don’t understand the definition even if you looked up all the words, just look at/use the bilingual definition (last resort). You will get better at understanding when you use it more.
 

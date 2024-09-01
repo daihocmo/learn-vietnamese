@@ -20,13 +20,13 @@ The settings below are for the **Vietnamese** Note Type. You can install it by i
 
 ### Screenshot
 
-![alt text](previews/mining/template.png)
+![alt text](img/mining/template.png)
 
 ### Preview
 
-![alt text](previews/mining/anki-front-1.png)
+![alt text](img/mining/anki-front-1.png)
 
-![alt text](previews/mining/anki-back-1.png)
+![alt text](img/mining/anki-back-1.png)
 
 ## Read more about Mining
 - [Donkuri's guide to mining](https://donkuri.github.io/learn-japanese/mining/)
