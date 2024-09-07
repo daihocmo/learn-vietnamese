@@ -8,7 +8,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [How to start learning Vietnamese](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
 
 ### Other Resource Pages
-- [**※ Awesome-Vietnamese**](https://daihocmo.github.io/Awesome-Vietnamese/) - Awesome Vietnamese Learning Resources. 
+- [Awesome-Vietnamese](https://daihocmo.github.io/Awesome-Vietnamese/) - Awesome Vietnamese Learning Resources. 
 - [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
 - [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
 - [Dạy tiếng Việt - VOV](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
@@ -24,14 +24,16 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Idiomatic Expressions](https://vietnamesetypography.com/samples/idiomatic-expressions/) - Vietnamese "Idiomatic Expressions" 
 
 ### Grammar
-- [**※ Vietnamese : An Essential Grammar by Binh Nhu Ngo**](https://drive.proton.me/urls/TR1A3GBG8M#WiqnQfudUCQI)
+- [duykhanh471's guide to Vietnamese Grammar](https://thu-vien-mo.github.io/duykhanh471-guide-to-viet-grammar/)
+- [Dictionary of Vietnamese Grammar](https://thu-vien-mo.github.io/dictionary-of-vietnamese-grammar/)
+- [Vietnamese : An Essential Grammar by Binh Nhu Ngo](https://drive.proton.me/urls/TR1A3GBG8M#WiqnQfudUCQI)
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
-- [A Vietnamese Grammar Reference - Laurence C Thompson](https://www.scribd.com/document/256469090/Laurence-C-Thompson-A-Vietnamese-Reference-Grammar)
 - [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects! 
 
 ### Chữ Nôm
 
+- [CLC Phiên dịch Hán Nôm](https://tools.clc.hcmus.edu.vn/) - CLC Sino-Nom Translator
 - [ChuNom.org](https://chunom.org/): There are some Chữ Nôm course offered by ChuNom.org
 - [Nom Foundation](https://nomfoundation.org/): an American nonprofit agency for Han Nom preservation. 
 - [VNY2K](http://vny2k.com/hannom/index.aspx): An online dictionary dedicated to Han Nom etymology

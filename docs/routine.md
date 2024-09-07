@@ -885,10 +885,10 @@ Some you might not even be able to do until months or years down the line!
 Nevertheless, I highly recommend you do them.  
 
 - Finish the entirety of Doraemon volume 1
-- Finish the Banhcuon1.5k deck   
+- Finish the Banhcuon1.5k deck (haven't made the deck yet lol)
 - Do the [Vietnamese Pronunciation Deck]() deck.  
 - Finish duykhanh471's grammar guide  
-- Study all the Vietnamese grammar from the [Dictionary of Vietnamese Grammar](). There are 629 grammar points ranging from beginner to advanced.     
+- Study all the Vietnamese grammar from the [Dictionary of Vietnamese Grammar](https://github.com/daihocmo/learn-vietnamese.git). There are about 220 grammar points (working in progress).     
 - Start reading longer texts such as novels. Participate in TheMoeWay Discord's novel club to hang out with other people doing the same.  
 - Train your ability to recognize and read Vietnamese numbers, with this resource: [Practice Vietnamese Numbers](https://langpractice.com/vietnamese).   
 - Start a "mining" Anki deck sometime after you finish the Banhcuon1.5k deck.  

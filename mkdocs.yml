@@ -21,6 +21,8 @@ nav:
   - 'Resources':
     - 'Resources': 'resources.md'
     - 'Comprehensible Input': 'input.md'
+  - 'Chữ nôm':
+    - 'Chữ nôm': 'chu-nom.md'
   - 'Recommendations':
     - 'Recommendations': 'recommendation.md'
     - 'Communities': 'community.md' 
