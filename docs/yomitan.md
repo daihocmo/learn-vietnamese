@@ -2,13 +2,13 @@
 Read Yomitan installation guide [here](https://learnjapanese.moe/yomichan/#getting-started/) before proceeding.
 
 PS: Remember to change the language to Vietnamese as shown here.
-![](img/guides/yomitan/language-settings.png)
+![](img/yomitan/language-settings.png)
 
 ## Acquire Dictionaries
 
 Please visit [this page](https://onlyduyy.github.io/viet-yomitan/) to download Vietnamese - English Dictionary Collection.
 
-![viet-eng-dictionary](main-guide/dictionary-site.png)
+![viet-eng-dictionary](img/main-guide/dictionary-site.png)
 
 
 ## Installing dictionaries and basic usage
@@ -30,4 +30,4 @@ It's recommended to download _at least_ 2 dictionaries for better word coverage.
 
 ## Preview:
 
-![viet-english-dictionary](img/guides/reading/08.webp)
+![viet-english-dictionary](img/reading/ln4.png)
