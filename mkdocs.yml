@@ -6,12 +6,9 @@ site_url: https://daihocmo.github.io/learn-vietnamese/
 nav:
   - Home: 
     - 'Home': 'index.md'
-    - 'Join': 'join.md'
   - 'Guides':
     - 'Vietnamese Guide': 'guide.md'
-    - '30 Day Vietnamese': 'routine.md'
     - 'Speaking Vietnamese': 'speaking.md'
-    - 'Reading Vietnamese': 'reading.md'
     - 'Reading Techniques and Strategies': 'readingtips.md'
     - 'Monolingual Guide': 'monolingual.md'
     - 'Vietnames FAQ': 'faq.md' 
