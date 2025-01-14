@@ -1,11 +1,7 @@
 # Reading Techniques and Strategies
 
-The REAL Getting Started with Reading Guide
-
-Reading is pretty much the most effective way to get better at Vietnamese. There is no doubt about it.  
 
 "Read more" is often the first piece of Vietnamese learning advice that advanced learners of Vietnamese will give to any beginner, and for good reason.  
-This article aims to give you tips and talk about worries that you may have when reading.  
 
 ## Reading Tips 
 
@@ -27,11 +23,11 @@ You can apply the same exact strategy to Vietnamese.
 
 And it's the strategy that I recommend everyone take when they get into reading.  
 
-### Yomichan, TVE-4u, EPUBs+ッツ Reader  
+### Yomitan, TVE-4u, EPUBs+ッツ Reader  
 
 The holy trinity of Vietnamese learning (for novel enjoyers).  
 
-- Set up Yomichan [here](yomitan.md)  
+- Set up Yomitan [here](yomitan.md)  
 - TVE-4u in [Resources](resources.md)  
 - EPUBs... many ways you can get them (TVE-4u, DTV-Ebook .etc.)
 - [ッツ Reader](https://reader.ttsu.app/manage)  
@@ -44,7 +40,7 @@ But you should kind of be aware that they only have speech and short description
 
 Nevertheless, they are still good for reading, and you can obviously learn tons of words from manga, and you'll get good at reading manga by reading a lot of manga.  
 
-### Yomichan, Mokuro, and a good OCR  
+### Yomitan, Mokuro, and a good OCR  
 
 The holy trinity of Vietnamese learning (for manga enjoyers).  
 
@@ -88,7 +84,7 @@ Try to read for how long you are willing to read for the day, and then check how
 
 Then take that amount of characters or pages and increase it by a bit (round it up or something) and make that your goal to read every day.  
 
-### The usefulness of grammar study and some specific Yomichan dictionaries.  
+### The usefulness of grammar study and some specific Yomitan dictionaries.  
 
 Honestly grammar study is very useful for reading.  
 
@@ -137,11 +133,11 @@ Bilingual definitions can be too ambiguous sometimes, so it is always best to ch
 
 I don't know because I was looking up every single thing since the beginning, and I think it worked out fine?  
 
-Yomichan makes everything so easy.  
+Yomitan makes everything so easy.  
 
 If I had to use copy paste into external apps or write out the word or even worse, use a physical dictionary then I would probably not look up many words.  
 
-But YOU are living in 2023. YOU have Yomichan. Take advantage of it.  
+But YOU are living in 2023. YOU have Yomitan. Take advantage of it.  
 
 Install a frequency dictionary (I recommend JPDB) so you can see what words are actually common. Below 10,000 frequency is a sign that it comes up a lot in books and anime.  
 

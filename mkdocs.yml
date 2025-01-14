@@ -1,30 +1,26 @@
-site_name: How to learn Vietnamese - Khu học mở  
-site_description: Guide to self-learning Vietnamese through Comprehensible Input and Immersion.
+site_name: immerse in trees 
+site_description: the trees speak vietnamese
 site_author: duykhanh471  
 site_url: https://daihocmo.github.io/learn-vietnamese/
+repo_name: Contribute to the site
+repo_url: https://github.com/daihocmo/learn-vietnamese
 
 nav:
   - Home: 
     - 'Home': 'index.md'
   - 'Guides':
-    - 'Vietnamese Guide': 'guide.md'
-    - 'Speaking Vietnamese': 'speaking.md'
-    - 'Reading Techniques and Strategies': 'readingtips.md'
+    - 'How to learn Vietnamese': 'guide.md'
+    - 'Speaking': 'speaking.md'
+    - 'Reading': 'reading.md'
     - 'Monolingual Guide': 'monolingual.md'
-    - 'Vietnames FAQ': 'faq.md' 
+  - 'Routine': routine.md
+  - 'FAQ': 'faq.md' 
   - 'Setup':
     - 'Yomitan': 'yomitan.md'
   - 'Mining': 'mining.md'
   - 'Resources':
     - 'Resources': 'resources.md'
     - 'Comprehensible Input': 'input.md'
-  - 'Chữ nôm':
-    - 'Chữ nôm': 'chu-nom.md'
-  - 'Recommendations':
-    - 'Recommendations': 'recommendation.md'
-    - 'Communities': 'community.md' 
-  - 'Miscellaneous': 'misc.md'
-
 
 theme:
   palette:
@@ -77,7 +73,7 @@ markdown_extensions:
       permalink: true
 plugins:
   - search
-#  - open-in-new-tab
+  - open-in-new-tab
 
 extra:
   generator: false

@@ -416,9 +416,9 @@ Every bit counts!
 
 First, practice alphabet. After that, go on to doing your Anki. After your Anki, do your daily grammar lessons.  
 
-Then let's get on to reading. First, you will need Yomichan. Click on this [link](yomitan.md) to read my guide on it.  
+Then let's get on to reading. First, you will need Yomitan. Click on this [link](yomitan.md) to read my guide on it.  
 
-By using ++shift++ on a word, Yomichan should pop up with a dictionary definition. 
+By using ++shift++ on a word, Yomitan should pop up with a dictionary definition. 
 
 **This also enables you to "read" the anime! Which I recommend you do!!!**    
 
@@ -438,7 +438,7 @@ Roll!
 
 After you've looked up your amount just *read* the rest.
 
-**Q: Is it possible to understand everything by spending 10 minutes spamming Yomichan on a sentence?**  
+**Q: Is it possible to understand everything by spending 10 minutes spamming Yomitan on a sentence?**  
 
 A: Short answer: No. Comprehension is a gradual process.  
 
@@ -486,7 +486,7 @@ You get better at it over time.
 
 Language learning is just pattern recognition after all.  
 
-Yomichan is a great help because it knows where words start and end with 90% accuracy.  
+Yomitan is a great help because it knows where words start and end with 90% accuracy.  
 
 **Q: Now that I can see the Vietnamese, can I try to translate it in my head?**  
 
@@ -633,7 +633,7 @@ You can decide everything with a dice and flipping a coin if you're uncertain, o
 
 I apologize if "immersion" is a vague term.  
 
-All of that stuff that you did with the anime and the subtitles and Yomichan is immersion.  
+All of that stuff that you did with the anime and the subtitles and Yomitan is immersion.  
 
 ## Day 9  
 
@@ -771,13 +771,13 @@ You will need to balance reading that manga and your usual immersion.
 
 Shoving everything into the same day may be too difficult.  
 
-**Word looking up trick: The Yomichan Search Page**  
+**Word looking up trick: The Yomitan Search Page**  
 
-You can use Yomichan to search up words by typing it or copy and pasting it.  
+You can use Yomitan to search up words by typing it or copy and pasting it.  
 
-You will need to use the Yomichan search page to look up words from my Yotsubato Reading Helper.  
+You will need to use the Yomitan search page to look up words from my Yotsubato Reading Helper.  
 
-You can access the search page by clicking on the Yomichan icon in your browser extensions toolbar, and then clicking the magnifying glass icon. Or by pressing ++alt++++insert++  
+You can access the search page by clicking on the Yomitan icon in your browser extensions toolbar, and then clicking the magnifying glass icon. Or by pressing ++alt++++insert++  
 
 **Q: How long will it actually take to read 100 pages?**
 

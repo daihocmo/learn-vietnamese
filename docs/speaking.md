@@ -24,14 +24,3 @@ Get over it and move on. It’s not a big deal. As long as you are immersing eve
 
 **Can I talk to other learners?**
 Using Vietnamese regularly, regardless of who you are using it to talk to is essential in expanding your active vocabularly. As long as you are immersing, there is no harm in talking to other learners.  
-
-### Other Links
-- [Antimoon Article](http://www.antimoon.com/other/myths-speaking.htm)  
-- [Main Guide](guide.md)  
-
-Have fun immersing!
-
-### Extra Note: Reading overload
-
-I spoke quite a lot about how you shouldn't read until you got a lot of listening immersion. This is because it is to ensure you get a good accent in the end. The reason why you should listen to Vietnamese first is to build a model of how Vietnamese sounds in your head, to get you used to how Vietnamese sounds. If you read without this knowledge, you may end up speaking with a foreign accent. Foreign accents happen when you think a sound in the target language is the same as a *similar* sounding sound in your native because you haven't listened long enough. It is almost impossible to read a language without applying any phonetic component to it, so even if you read in your head, you may still get this problem.
-Of course, if you don't care about accent, and would be fine with a "ngoại quốc" accent, then you don't really need to listen. Methods of approaching Vietnamese are never one-size-fits-all. But, I think it will really hurt your ego if you can read "văn bản hành chính" but can't understand any casual conversations and you may not be motivated to start mass listening late. That's why I encourage listening right from the beginning. I hope you understand.

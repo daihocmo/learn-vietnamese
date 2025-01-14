@@ -19,7 +19,7 @@ Bilingual definitions, 90% of the time are very vague, and do not capture the tr
 Here’s an example: 
 > Thống khổ 
 
-If you have been learning Vietnamese for a few months, you would know this word. And chances are you learned it using a bilingual dictionary. Let’s look at the bilingual definition.
+If you have been learning Vietnamese for a few months, you might know this word. And chances are you learned it using a bilingual dictionary. Let’s look at the bilingual definition.
 
 > unhappy, miserable  
 
@@ -62,15 +62,15 @@ Two reasons:
   
 **The truth:** “Dictionary vocabulary” = words you don’t know because you don’t read enough.
 
-## Yomichan - the better way to go monolingual.  
+## Yomitan - the better way to go monolingual.  
 
-**I recommend doing the monolingual transition with Yomichan.**  
+**I recommend doing the monolingual transition with Yomitan.**  
 
 ![Image](img/mono/monodemo.png)
 
-Yomichan is a browser extension that allows you to look up Vietnamese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomichan [here](yomitan.md)  
+Yomitan is a browser extension that allows you to look up Vietnamese words on a webpage by holding ++shift++ and hovering over it. It is supported by any Chromium or Firefox based browser. You can find out how to set up Yomitan [here](yomitan.md)  
 
-### Optimizing Yomichan Settings 
+### Optimizing Yomitan Settings 
 
 First you need to ensure that Advanced options is enabled.  
 ![Image](img/mono/mono1.jpg)
@@ -82,7 +82,7 @@ Second, we want to remove any and all scan delays because we will be making heav
 Now we will enable scanning within pop-ups, this is very important, as we want to be able to look up any words we don't know within a **definiton.**  
 ![Image](img/mono/mono3.jpg)  
 
-You may want to increase the size of your Yomichan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomichan dictionaries comfortably we are going to edit the following settings.  
+You may want to increase the size of your Yomitan pop up window because by default it is pretty small and will become a hindrance when using monolingual dictionaries. To make enough headroom to use Yomitan dictionaries comfortably we are going to edit the following settings.  
 
 ![Image](img/mono/mono4.jpg)  
 
@@ -91,7 +91,7 @@ Here's how our pop up looks now:
 
 Next, if you want, you don't need to but I recommend it, enable automatic audio playback, so we know how to pronounce a word correctly the moment we look it up. Also add the extra audio source because surprisingly it adds extra audio!  
 
-You can also add the Forvo audio source in Yomichan. See [Yomichan Setup Tutorial](yomitan.md) for more info.  
+You can also add the Forvo audio source in Yomitan. See [Yomitan Setup Tutorial](yomitan.md) for more info.  
 
 ![Image](img/mono/mono6.jpg)  
 
@@ -99,7 +99,7 @@ I will touch on dictionaries in the next section.
 
 ### Getting and using monolingual dictionaries
 
-Again, I recommend you use monolingual dictionaries with Yomichan. I will talk about alternatives later.
+Again, I recommend you use monolingual dictionaries with Yomitan. I will talk about alternatives later.
  
 Before we continue, have a read on recommended dictionaries and what they are exactly. 
 
@@ -134,8 +134,8 @@ You need to have a lot of dictionaries and have every one of them enabled becaus
 
 - [Lạc Việt](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V)  
 
-### Yomichan Offline
-You can still use Yomichan offline. Here’s how.
+### Yomitan Offline
+You can still use Yomitan offline. Here’s how.
 
 ![Image](img/mono/mono9.jpg)
 
@@ -151,7 +151,7 @@ Primarily in the AJATT community, there’s this one piece of advice:
 
 This is something Khatzumoto of AJATT proposed.  
 
-I mean, if you read novels, this may be a pretty good approach, because you will already be familiar with the words, because novels generally just have more words than movies or comic. If you only watch movies and read comic, this may prove to be quite frustrating. When this piece of advice was put out, Yomichan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions.  
+I mean, if you read novels, this may be a pretty good approach, because you will already be familiar with the words, because novels generally just have more words than movies or comic. If you only watch movies and read comic, this may prove to be quite frustrating. When this piece of advice was put out, Yomitan didn’t exist. So people in that time would have found this piece of advice terrible and tiring to constantly look up everything in the definitions.  
 
 This isn’t a fundamentally flawed approach, I think it’s pretty good how it says “just read the dictionary more!”, because that’s exactly what you need to do. 
 
@@ -165,12 +165,12 @@ When I read more novels I got more used to written Vietnamese, and when I looked
 
 ### What did you do when you came across a word you didn’t know in the definition?
 
-I looked it up with Yomichan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition, I just looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION.   
-Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it.  Yomichan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomichan.
+I looked it up with Yomitan. I tried reading the monolingual definition. If there were too many words I didn’t know in the definition, I just looked at the English definition (as a last resort) and moved on. You just need to keep doing this. REPETITION.   
+Read more books. You will get comfortable with the monolingual dictionary if you just read a lot. Yes. Read more. Read a lot. That’s all there is to it.  Yomitan just makes the process easier, you don’t waste your energy manually searching, instead your energy goes into actually reading. That’s why I recommend using Yomitan.
 
 ### >Soo… what’s the best way to approach monolingual?
 
-Read more novels with a monolingual dictionary. I recommend reading novels on [TVE-4U](https://tve-4u.org/forums/tu-sach-van-hoc-trong-nuoc.12/) using Yomichan.  
+Read more novels with a monolingual dictionary. I recommend reading novels on [TVE-4U](https://tve-4u.org/forums/tu-sach-van-hoc-trong-nuoc.12/) using Yomitan.  
 
 ### What if I don't like reading novels? I hate reading novels!  
 
@@ -190,7 +190,7 @@ It's fascinating in its own right.
 
 (NHỊ). Try to experiment with what dictionary order is the best for you.
 
-(TAM). If the word you look up with Yomichan is only in a bilingual dictionary, try searching it on Google.
+(TAM). If the word you look up with Yomitan is only in a bilingual dictionary, try searching it on Google.
 
 (TỨ). If you don’t understand the definition even if you looked up all the words, just look at/use the bilingual definition (last resort). You will get better at understanding when you use it more.
 

@@ -1,6 +1,4 @@
-I'm too lazy to write a proper guide on comprehensible input so here we go:
-
--   [Antimoon- Input](https://www.antimoon.com/how/input.htm) - focus on english learning but its approach is invaluable and timeless and can be applied to Vietnamese.
+# Vietnamese Comprehensible Input Resources
 
 ### Listening
 

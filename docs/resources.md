@@ -38,7 +38,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Nom Foundation](https://nomfoundation.org/): an American nonprofit agency for Han Nom preservation. 
 - [VNY2K](http://vny2k.com/hannom/index.aspx): An online dictionary dedicated to Han Nom etymology
 - [VNY2K - Tu nguyen](http://vny2k.com/hannom/tunguyen.asp): Same as above, with more detailed etymological explanations.
-- [Chữ Nôm Dictionary](https://www.mediafire.com/file/sn5xjfcp045vh9p/Ch%E1%BB%AF_N%C3%B4m.zip/file) - Chữ Nôm Dictionary converted by Marsh Nguyễn for Yomichan/Yomitan. The data comes from [https://chunom.org/](https://chunom.org/) The dictionary contains 1,569 entries.
+- [Chữ Nôm Dictionary](https://www.mediafire.com/file/sn5xjfcp045vh9p/Ch%E1%BB%AF_N%C3%B4m.zip/file) - Chữ Nôm Dictionary converted by Marsh Nguyễn for Yomitan/Yomitan. The data comes from [https://chunom.org/](https://chunom.org/) The dictionary contains 1,569 entries.
 
 
 ## Acquire Vietnamese
@@ -63,18 +63,11 @@ You just have to click one of the links here and it will directs you to the Viet
 - [1000 cuốn sách vang bóng một thời](https://tve-4u.org/forums/1000-quyen-sach-viet-mot-thoi-vang-bong.136/) - old and copyright expired books 
 
 
-#### Tiểu thuyết
+#### Sách/Tiểu thuyết
 - [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks. There might be some NSFW books so it's advised to visit [**Vietnamese Book Suggestion**](https://onlyduyy.github.io/vietnamese-media-recommendation/books) to know which one "should you search for". However, I think this should be up to your preference, not mine.
-- [Hako](https://ln.hako.vn/): Reading online webnovels in Vietnamese
-- [**※ Vietnamese Book Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/books) - Finding real Vietnamese Literature suggestions.
-- [**※ Vietnamese WN&LN Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/ln-wn)
-
-### Manga
-- [Blogtruyenmoi](https://blogtruyenmoi.com/)
-- [TruyenQQVN](https://truyenqqvn.com/)
+- [Hako](https://ln.hako.vn/): Reading webnovels in Vietnamese
 
 ### Audiobooks & Podcasts
-- [**※ Vietnamese Podcast Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/podcasts) 
 - [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Podcasts in Vietnamese.
 
 ### Vietnamese Forums
@@ -92,8 +85,8 @@ You just have to click one of the links here and it will directs you to the Viet
 
 ### Dictionaries
 
-#### Yomichan
-Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily.
+#### Yomitan
+Yomitan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily.
 
 - [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary extension on the web browser.  
 - [**※ duykhanh471's dictionary collection**](https://onlyduyy.github.io/viet-yomitan/)
@@ -114,7 +107,8 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 
 - **[※ Anki (Windows, Mac and Linux)](https://apps.ankiweb.net/)** - Spaced repetition flashcard program. A must have. It is tricky to use at first. You can install the app on mobile too but for iOS it cost $29.
 - [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard (Windows). For Linux users please install [ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo).    
-  
+- [Using a Vietnamese Keyboard](https://andyfoster.github.io/VietnameseTextbook/book#using-a-vietnamese-keyboard) - How to type using a Vietnamese Keyboard.
+
 ### Guides/Methods/Motivation
 
 - [Antimoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.
