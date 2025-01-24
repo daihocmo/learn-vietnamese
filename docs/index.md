@@ -12,4 +12,4 @@ This website explains a general input-driven immersion-based language learning m
 
 I would like to thank donkuri for [this fantastic website](https://donkuri.github.io/learn-japanese/) which inspired me to build this site.
 
-More generally, I would like to thank every single person that has worked on the many resources listed on [the resources page](resources.md). Our community is full of talented people who have dedicated a large portion of their time for free to the betterment of our learning experience. For this, I will forever be grateful.
+More generally, I would like to thank every single person that has worked on the learning resources listed on [the resources page](resources.md).
