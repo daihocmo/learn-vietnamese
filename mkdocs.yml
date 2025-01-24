@@ -1,26 +1,18 @@
 site_name: immerse in trees 
 site_description: the trees speak vietnamese
 site_author: duykhanh471  
-site_url: https://daihocmo.github.io/learn-vietnamese/
+site_url: https://daihocmo.github.io/learn-vietnamese
 repo_name: Contribute to the site
 repo_url: https://github.com/daihocmo/learn-vietnamese
 
 nav:
-  - Home: 
-    - 'Home': 'index.md'
-  - 'Guides':
-    - 'How to learn Vietnamese': 'guide.md'
-    - 'Speaking': 'speaking.md'
-    - 'Reading': 'reading.md'
-    - 'Monolingual Guide': 'monolingual.md'
-  - 'Routine': routine.md
-  - 'FAQ': 'faq.md' 
-  - 'Setup':
-    - 'Yomitan': 'yomitan.md'
+  - 'Home': 'index.md'
+  - 'Main Guide': 'guide.md'
+  - 'Immersion': 'immersion.md'
+  - 'Setup': 'setup.md'
   - 'Mining': 'mining.md'
-  - 'Resources':
-    - 'Resources': 'resources.md'
-    - 'Comprehensible Input': 'input.md'
+  - 'Resources': 'resources.md'
+  - 'Recommendations': 'recommendations.md'
 
 theme:
   palette:
@@ -43,34 +35,16 @@ theme:
         name: Switch to light mode
   logo: assets/logo.svg
   favicon: assets/vietnam.svg
-  custom_dir: overrides
+  # custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
+    - navigation.footer
     - toc.follow
-    - search.highlighting
-    - search.share
     - search.suggest
+    - search.highlight
   name: material
-  
-markdown_extensions:
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-  - meta
-  - admonition
-  - attr_list
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.details
-  - pymdownx.keys
-  - pymdownx.superfences
-  - pymdownx.tabbed:
-      alternate_style: true
-  - toc:
-      permalink: true
+
 plugins:
   - search
   - open-in-new-tab

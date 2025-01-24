@@ -1,14 +1,15 @@
+# immerse in trees
+
 ## An optimized approach to learning Vietnamese
+
+Welcome to **immerse in trees**, a website made for Vietnamese learners.
 
 ### What is this website about?
 
-This website explains a general input-driven immersion-based language learning method with special focus on Vietnamese. 
-
-Immersion-based learning is deceptively simple and has its roots, at least in the Japanese learning community, in [this famous blog](http://web.archive.org/web/20230604042706/http://www.alljapaneseallthetime.com/blog). In there, the author realized that by immersing himself constantly in Japanese, he was able to understand the language much faster than by spending time solving grammar exercises in a textbook.
+This website explains a general input-driven immersion-based language learning method with special focus on Vietnamese.
 
 ### Credit
 
-This site is literally [TheMoeWay](https://learnjapanese.moe/) and [Donkuri's site](https://donkuri.github.io/learn-japanese/) with minor edits.
+I would like to thank donkuri for [this fantastic website](https://donkuri.github.io/learn-japanese/) which inspired me to build this site.
 
-### Why don't write your own guide?
-Uh I'm lazy and their (shoui and donkuri) guides are great for learners and I don't find it worth rewriting the whole guide (I'll try to improve/rewrite the guide (I'm doing it now) so that it fits Vietnamese learners better).
+More generally, I would like to thank every single person that has worked on the many resources listed on [the resources page](resources.md). Our community is full of talented people who have dedicated a large portion of their time for free to the betterment of our learning experience. For this, I will forever be grateful.

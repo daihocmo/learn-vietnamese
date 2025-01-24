@@ -1,35 +1,29 @@
 Welcome to the Resources Sheet, resources are categorised into "Learning" Vietnamese and "Acquiring" Vietnamese. 
 
+**IMPORTANT**: I'm moving most of the learning resources to [Betonamgo - A curated list of Vietnamese language learning resources](https://thu-tram.github.io/betonamgo/)
+
 ## Learning Vietnamese
-
-### Guide
-- [Refold Vietnamese](http://refold.link/vietnamese) - Refold Roadmap for Vietnamese Learning.
-- [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo) - Not really a curated guide but it's worth reading.
-- [How to start learning Vietnamese](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
-
-### Other Resource Pages
-- [Awesome-Vietnamese](https://daihocmo.github.io/Awesome-Vietnamese/) - Awesome Vietnamese Learning Resources. 
-- [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
-- [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
-- [Dạy tiếng Việt - VOV](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
-- [Tiếng Việt Thực Hành - Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
 
 ### Alphabet
 - [Flexiclasses Vietnamese Learning Blog](https://flexiclasses.com/vietnamese/alphabet/): All about Vietnamese alphabet, learning how to read and write here.
 - [Vietnamese Alphabet by MyLanguages.org](http://www.mylanguages.org/vietnamese_alphabet.php): Yet another Vietnamese alphabet guide.
 
 ### Vocabulary
-
-- [**※ Vietnamese Anki Decks**](anki.md) - Collection of Vietnamese Learning Anki Decks.
+- [Basic Vietnamese for English Speakers](https://ankiweb.net/shared/info/285983903) - About 1000 words 
+- [Learn Vietnamese with colored tones 1184 cards](https://ankiweb.net/shared/info/767852629) - There are also Vietnamese example sentence!
+- [Basic Vietnamese Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/6bg6r8/much_overdue_release_of_my_revised_basic/) - The deck from r/learnvietnamese
+- [Vietnamese Optimized Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/17wvl30/vietnamese_optimized_anki_deck/) 
+- [7700 Word Vietnamese Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/b039ha/7700_word_vietnamese_anki_deck/)
 - [Vietnamese Idiomatic Expressions](https://vietnamesetypography.com/samples/idiomatic-expressions/) - Vietnamese "Idiomatic Expressions" 
 
+### Pronunciation
+- **[※ - Vietnamese Pronunciation Deck](https://ankiweb.net/shared/info/1747674390)**
+
 ### Grammar
-- [duykhanh471's guide to Vietnamese Grammar](https://thu-vien-mo.github.io/duykhanh471-guide-to-viet-grammar/)
-- [Dictionary of Vietnamese Grammar](https://thu-vien-mo.github.io/dictionary-of-vietnamese-grammar/)
 - [Vietnamese : An Essential Grammar by Binh Nhu Ngo](https://drive.proton.me/urls/TR1A3GBG8M#WiqnQfudUCQI)
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
-- [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
-- [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects! 
+- [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi.
+- [Vietnamese Grammar by Soi - Anki Deck](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects! 
 
 ### Chữ Nôm
 
@@ -50,7 +44,7 @@ You just have to click one of the links here and it will directs you to the Viet
 - [FPTPlay](https://fptplay.vn/block/category_vod/viet-nam-5575464417dc1321ee858668): Watching Vietnamese movies for free, you just have to use your Google or Facebook account. 
 - [TV360](https://tv360.vn/movies/phim-viet-nam?c=3733): Same as above.
 - [VieChannel](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw): There are a lot of gameshows in this channel.
-- [**※ Vietnamese Movie Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/movies) 
+- [**※ Vietnamese Movie Recommendation**](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-viet/) 
 
 ### Novels and Literary Texts
 
@@ -64,16 +58,15 @@ You just have to click one of the links here and it will directs you to the Viet
 
 
 #### Sách/Tiểu thuyết
-- [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks. There might be some NSFW books so it's advised to visit [**Vietnamese Book Suggestion**](https://onlyduyy.github.io/vietnamese-media-recommendation/books) to know which one "should you search for". However, I think this should be up to your preference, not mine.
+- [Waka.vn](https://waka.vn/)
 - [Hako](https://ln.hako.vn/): Reading webnovels in Vietnamese
 
 ### Audiobooks & Podcasts
-- [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Podcasts in Vietnamese.
+- [Fonos](https://fonos.vn/) - You can listen to any book's first chapter for free on [their Youtube channel](https://www.youtube.com/@FonosVietnam) 
 
 ### Vietnamese Forums
 
 - [VOZ](https://voz.vn/) - one of the largest Technology forums in Vietnamese. 
-- [Blogtruyen Forum](https://forum.blogtruyenmoi.com/): An Forum for manga lovers, you can also read manga in Vietnamese here.
 - [TVE-4U](https://tve-4u.org/) - a forum dedicated to books, novels and literary texts
 
 ### News
@@ -88,8 +81,7 @@ You just have to click one of the links here and it will directs you to the Viet
 #### Yomitan
 Yomitan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily.
 
-- [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary extension on the web browser.  
-- [**※ duykhanh471's dictionary collection**](https://onlyduyy.github.io/viet-yomitan/)
+- [**※ duykhanh471's dictionary collection**](https://tru-tram.github.io/viet-yomitan/)
 - [JoaTH: Guide to the Best Vietnamese Dictionaries](https://www.reddit.com/r/learnvietnamese/comments/blc33z/joath_guide_to_the_best_vietnamese_dictionaries/)
 
 #### Online
@@ -109,10 +101,13 @@ Yomitan, a browser add-on that allows you to look up Japanese (and Vietnamese) w
 - [Unikey](https://www.unikey.org/download.html): Vietnamese Keyboard (Windows). For Linux users please install [ibus-bamboo](https://github.com/BambooEngine/ibus-bamboo).    
 - [Using a Vietnamese Keyboard](https://andyfoster.github.io/VietnameseTextbook/book#using-a-vietnamese-keyboard) - How to type using a Vietnamese Keyboard.
 
-### Guides/Methods/Motivation
-
-- [Antimoon](http://www.antimoon.com/) - AntiMoon is a site made for English learners. It promotes learning through large amounts of input, also known as immersion. It has good articles on some of the practical methods used in immersion.
-- [TheMoeWay](http://learnjapanese.moe/) - Immersion-based Japanese guide, learning Japanese through mass immersion and comprehensible input.
+### Other Resource Pages
+- [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo) - Not really a curated guide but it's worth reading.
+- [Refold Vietnamese](http://refold.link/vietnamese) - Refold Roadmap for Vietnamese Learning.
+- [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
+- [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
+- [Dạy tiếng Việt - VOV](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
+- [Tiếng Việt Thực Hành - Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
 - [YouTube & Netflix mining guide](https://soyuz18.notion.site/Sentence-mining-from-Netflix-and-YouTube-with-asbplayer-83a03590cd8349ba81ca10340645b565) - Youtube and Netflix mining guide with asbplayer
 
 ### "Other"
