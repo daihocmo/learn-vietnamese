@@ -1,4 +1,4 @@
-# Vietnamese Learning Setup
+# Setup Guide
 
 This section is about setting up the various tools we will use to learn Vietnamese, the most important of which are Anki and Yomitan. This section is divided in two subsections: *Anki* and *Yomitan*.
 

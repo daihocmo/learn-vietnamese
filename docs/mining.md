@@ -1,4 +1,4 @@
-# Mining
+# Mining Guide
 
 If you did everything right in the previous section, you should be able to look up words in Japanese with Yomitan. This section will cover everything you need to know to setup a proper mining experience. Mining is usually something one does after going through a vocabulary deck like [Basic Vietnamese for English Speakers](https://ankiweb.net/shared/info/285983903).
 

@@ -1,18 +1,23 @@
 site_name: immerse in trees 
 site_description: the trees speak vietnamese
-site_author: duykhanh471  
+site_author: khuhocmo  
 site_url: https://daihocmo.github.io/learn-vietnamese
 repo_name: Contribute to the site
 repo_url: https://github.com/daihocmo/learn-vietnamese
 
 nav:
-  - 'Home': 'index.md'
-  - 'Main Guide': 'guide.md'
-  - 'Immersion': 'immersion.md'
-  - 'Setup': 'setup.md'
-  - 'Mining': 'mining.md'
-  - 'Resources': 'resources.md'
-  - 'Recommendations': 'recommendations.md'
+  - 'Home': 
+    - 'index.md'
+  - 'Main Guide': 
+    - 'guide.md'
+  - 'Immersion': 
+    - 'immersion.md'
+  - 'Setup & Mining': 
+    - 'setup.md'
+    - 'mining.md'
+  - 'Resources & Recommendations': 
+    - 'resources.md' 
+    - 'recommendations.md'
 
 theme:
   palette:
@@ -34,16 +39,30 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/logo.svg
-  favicon: assets/vietnam.svg
-  # custom_dir: overrides
+  favicon: assets/logo.svg
+  custom_dir: overrides
   features:
-    - navigation.tabs
     - navigation.sections
-    - navigation.footer
     - toc.follow
     - search.suggest
     - search.highlight
   name: material
+
+markdown_extensions:
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - toc:
+      permalink: true
 
 plugins:
   - search

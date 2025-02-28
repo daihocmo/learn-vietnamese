@@ -1,4 +1,4 @@
-# Immersion in Vietnamese
+# Immersion Guide
 
 In the **Main Guide**, I've written about Immersion and a quick guide to it. 
 
@@ -14,6 +14,8 @@ Your first reading material is going to suck. You will spend a lot of time on ba
 ### Choosing immersion materials
 
 As said previously, **just pick whatever you want** or use the [Vietnamese Media Recommendation Spreadsheet](https://daihocmo.github.io/awesome-ngon-ngu/media-recs/tieng-viet/).
+
+![alt text](img/book.png)
 
 ### On the topic of dialects
 So people may wonder something like "Does it actually matter which dialect I'll learn between Southern and Northern vietnamese?". TL;DR: *Do you have problems understanding American and British English? That should be your answer.*
@@ -34,6 +36,9 @@ Here is another answer by [u/Particular-Live](https://reddit.com/user/Particular
 
 You'll encounter both dialects on the Internet. It's not too hard to learn dialect-specific words - your real problem will be understanding Vietnamese written without accent marks, Vietnamese with typos, teen code (our version of leetspeak), slangs and memes.
 
+![alt text](img/ve-xinh.png)
+
+
 ### Avoid toxic arguments regarding study methods
 
 While there is such a thing as a best method for an individual, that doesn't mean it's best for everyone. Some people prefer textbooks, some might enjoy watching Vietnamese movies. This method mentioned in this site worked for me and learners that I've encountered.
@@ -41,3 +46,4 @@ While there is such a thing as a best method for an individual, that doesn't mea
 ### Should I get Vietnamese classes or a tutor?
 
 If you'd like to, but it's not necessary by any means.
+
