@@ -1,18 +1,10 @@
-# immerse in trees
+# Welcome
 
-## An optimized approach to learning Vietnamese
+!!! info "TheMoeWay clone, but adapted for Vietnamese learning."
+    Credit goes to [TheMoeWay](http://learnjapanese.moe/) and its respective author(s).
 
-Welcome to **immerse in trees**, a website made for Vietnamese learners.
+![welcome](img/welcome.png)
 
-![alt text](img/welcome.png)
-
-### What is this website about?
-
-This website explains a general input-driven immersion-based language learning method with special focus on Vietnamese.
-
-### Credit
-
-I would like to thank donkuri for [this fantastic website](https://donkuri.github.io/learn-japanese/) which inspired me to build this site.
-
-More generally, I would like to thank every single person that has worked on the learning resources listed on [the resources page](resources.md).
-
+You can *learn how to learn* Vietnamese properly here. Click on the button below to get started.
+ 
+[:fontawesome-solid-book-open: Read the guide! ](guide.md){: .md-button .md-button--primary }  

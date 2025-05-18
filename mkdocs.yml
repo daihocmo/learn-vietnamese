@@ -1,23 +1,27 @@
-site_name: immerse in trees 
-site_description: the trees speak vietnamese
+site_name: immerse in trees - Khu học mở
+site_description: Guide to self-learning Vietnamese through Comprehensible Input and Immersion.
 site_author: khuhocmo  
-site_url: https://daihocmo.github.io/learn-vietnamese
+site_url: https://daihocmo.github.io/learn-vietnamese/
 repo_name: Contribute to the site
 repo_url: https://github.com/daihocmo/learn-vietnamese
 
 nav:
-  - 'Home': 
-    - 'index.md'
-  - 'Main Guide': 
-    - 'guide.md'
-  - 'Immersion': 
-    - 'immersion.md'
-  - 'Setup & Mining': 
-    - 'setup.md'
-    - 'mining.md'
-  - 'Resources & Recommendations': 
-    - 'resources.md' 
-    - 'recommendations.md'
+  - 'Home': 'index.md'
+  - 'Guides':
+    - 'Vietnamese Guide': 'guide.md'
+    - '30 Day Vietnamese': 'routine.md'
+    - 'Speaking Vietnamese': 'speaking.md'
+    - 'Reading Vietnamese': 'reading.md'
+    - 'Reading Techniques and Strategies': 'readingtips.md'
+    - 'Monolingual Guide': 'monolingual.md'
+    - 'Vietnamese FAQ': 'faq.md' 
+  - 'Setup':
+    - 'Yomitan': 'yomitan.md'
+    - 'Mining': 'mining.md'
+    - 'Setup': 'setup.md'
+  - 'Resources':
+    - 'Resources': 'resources.md'
+
 
 theme:
   palette:
@@ -39,16 +43,20 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   logo: assets/logo.svg
-  favicon: assets/logo.svg
+  favicon: assets/fav.svg
   custom_dir: overrides
   features:
     - navigation.sections
     - toc.follow
+    - search.highlighting
+    - search.share
     - search.suggest
-    - search.highlight
   name: material
-
+  
 markdown_extensions:
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - meta
   - admonition
   - attr_list
@@ -63,7 +71,6 @@ markdown_extensions:
       alternate_style: true
   - toc:
       permalink: true
-
 plugins:
   - search
   - open-in-new-tab
