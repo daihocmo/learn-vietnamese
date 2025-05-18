@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="512" height="512">
+	<title>New Project</title>
+	<defs>
+		<linearGradient id="g1" x2="1" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0,-910,946,0,498,869)">
+			<stop offset="0" stop-color="#328e6e"/>
+			<stop offset=".99" stop-color="#67ae6e"/>
+			<stop offset="1" stop-color="#67ae6e"/>
+		</linearGradient>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.t0 { font-size: 1000px;fill:  url(#g1);font-weight: 400;font-family: "NotoSansJP-Regular", "Noto Sans JP" } 
+	</style>
+	<text id="越" style="transform: matrix(1,0,0,1,42,126)" >
+		<tspan x="0" y="796" class="t0">越</tspan><tspan  y="796" class="t0">
+</tspan>
+	</text>
+</svg>
