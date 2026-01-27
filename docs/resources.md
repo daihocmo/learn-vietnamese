@@ -2,13 +2,16 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 
 ## Learning Vietnamese
 
+
 ### Guide
+
 - [Refold Vietnamese](http://refold.link/vietnamese) - Refold Roadmap for Vietnamese Learning.
 - [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo) - Not really a curated guide but it's worth reading.
 - [How to start learning Vietnamese](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
 
 ### Other Resource Pages
-- [Betonamgo - A curated list of Vietnamese language learning resources](https://thu-tram.github.io/betonamgo/)
+
+- [**※ - Betonamgo - A curated list of Vietnamese language learning resources**](https://thu-tram.github.io/betonamgo/)
 - [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
 - [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
 - [Dạy tiếng Việt - VOV](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
@@ -49,7 +52,7 @@ You just have to click one of the links here and it will directs you to the Viet
 - [FPTPlay](https://fptplay.vn/block/category_vod/viet-nam-5575464417dc1321ee858668): Watching Vietnamese movies for free, you just have to use your Google or Facebook account. 
 - [TV360](https://tv360.vn/movies/phim-viet-nam?c=3733): Same as above.
 - [VieChannel](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw): There are a lot of gameshows in this channel.
-- [**※ Vietnamese Movie Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/movies) 
+- [**※ Vietnamese Movie Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet//movies) 
 
 ### Novels and Literary Texts
 
@@ -63,17 +66,17 @@ You just have to click one of the links here and it will directs you to the Viet
 
 
 #### Tiểu thuyết
-- [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks. There might be some NSFW books so it's advised to visit [**Vietnamese Book Suggestion**](https://onlyduyy.github.io/vietnamese-media-recommendation/books) to know which one "should you search for". However, I think this should be up to your preference, not mine.
+- [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks. There might be some NSFW books so it's advised to visit [**Vietnamese Book Suggestion**](https://daihocmo.github.io/kho-media/tieng-viet//books) to know which one "should you search for". However, I think this should be up to your preference, not mine.
 - [Hako](https://ln.hako.vn/): Reading online webnovels in Vietnamese
-- [**※ Vietnamese Book Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/books) - Finding real Vietnamese Literature suggestions.
-- [**※ Vietnamese WN&LN Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/ln-wn)
+- [**※ Vietnamese Book Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet//books) - Finding real Vietnamese Literature suggestions.
+- [**※ Vietnamese WN&LN Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet//ln-wn)
 
 ### Manga
 - [Blogtruyenmoi](https://blogtruyenmoi.com/)
 - [TruyenQQVN](https://truyenqqvn.com/)
 
 ### Audiobooks & Podcasts
-- [**※ Vietnamese Podcast Recommendation**](https://onlyduyy.github.io/vietnamese-media-recommendation/podcasts) 
+- [**※ Vietnamese Podcast Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet//podcasts) 
 - [Podcastindex](https://podcastindex.org/): Listen to Podcast online without sign-in, not just Podcasts in Vietnamese.
 
 ### Vietnamese Forums
@@ -126,6 +129,8 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 ## Comprehensible Input
 
 ### Listening
+
+- [**※ - Langiri**](https://langiri.com/)
 - [Vlog in Slow Vietnamese](https://www.youtube.com/playlist?list=PLW2Cgj7b_FvjiNUTa4GHRJz2H8SbncPCy)
 - [Slow Vietnamese Input](https://www.youtube.com/playlist?list=PLW2Cgj7b_FviK9D0yZ6-n2R3WgeuZieTT)
 - [Easy Vietnamese - Learn Vietnamese from the streets!](https://www.youtube.com/playlist?list=PLA5UIoabheFN8XxzGYrLkEDuhxESQ8kUr)

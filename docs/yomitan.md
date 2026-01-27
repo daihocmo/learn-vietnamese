@@ -105,7 +105,7 @@ This requires you to have Anki (2.1 and newer) installed and open on your comput
 
 ## Anki Setup
 
-See [kuri's website](https://donkuri.github.io/learn-Vietnamese/setup/#anki-setup).
+See [kuri's website](https://donkuri.github.io/learn-japanese/setup/#anki-setup).
 
 ## Offline audio server (+ More audios than default)  
 

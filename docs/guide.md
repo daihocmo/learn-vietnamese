@@ -102,6 +102,8 @@ Of course, you will not be *only* doing immersion with no aid at all. You will s
 
 ## 2.1 How to learn Vietnamese
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mzlK7aGWoIo?si=BQ63cBN9hdJ0p3mP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ### Beginner study process
 
 The learning process for the beginner consists of:
@@ -171,13 +173,13 @@ The answer is actually very simple. Fun! Media can be entertaining for reasons o
 
 ### Reading & Dictionaries
 
-To make Vietnamese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](https://learnVietnamese.moe/yomichan/). 
+To make Vietnamese less of a pain to read, you can use a free browser extension known as Yomitan. You can find a tutorial on how to use it [here](yomitan.md). 
 
 To look up words individually, you can use [Lạc Việt](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-A/-all.html), apps for Android [here](https://play.google.com/store/apps/details?id=com.bravolang.dictionary.vietnamese&hl=en&gl=US).
 
 ### Choosing immersion content
 
-Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](https://onlyduyy.github.io/vietnamese-media-recommendation/). Just make sure you're actually interested in whatever you're choosing to immerse with!
+Honestly, pick whatever you want. If you don't have anything in mind you can just check [Vietnamese Media Recommendation](https://daihocmo.github.io/kho-media/tieng-viet//). Just make sure you're actually interested in whatever you're choosing to immerse with!
 
 ### How to immerse with listening
 

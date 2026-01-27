@@ -18,7 +18,6 @@ nav:
   - 'Setup':
     - 'Yomitan': 'yomitan.md'
     - 'Mining': 'mining.md'
-    - 'Setup': 'setup.md'
   - 'Resources':
     - 'Resources': 'resources.md'
 
