@@ -2,12 +2,9 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 
 ## Learning Vietnamese
 
-
 ### Guide
 
 - [Refold Vietnamese](http://refold.link/vietnamese) - Refold Roadmap for Vietnamese Learning.
-- [More Vietnamese](https://morevietnamese.com/) - Vietnamese Learning Blog written by Elisabeth Ruth (Thảo) - Not really a curated guide but it's worth reading.
-- [How to start learning Vietnamese](https://www.youtube.com/watch?v=GRPnQe2FTrY) 
 
 ### Other Resource Pages
 
@@ -23,15 +20,16 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 
 ### Vocabulary
 
+- [**※ Basic Vietnamese for English Speakers: Audio**](https://ankiweb.net/shared/info/285983903)
 - [Vietnamese Idiomatic Expressions](https://vietnamesetypography.com/samples/idiomatic-expressions/) - Vietnamese "Idiomatic Expressions" 
 
 ### Grammar
-- [duykhanh471's guide to Vietnamese Grammar](https://thu-vien-mo.github.io/duykhanh471-guide-to-viet-grammar/)
-- [Dictionary of Vietnamese Grammar](https://thu-vien-mo.github.io/dictionary-of-vietnamese-grammar/)
+
+- [**※ thu tram's guide to viet grammar**](https://thu-tram.github.io/viet-grammar-guide/)
+- [Dictionary of Vietnamese Grammar](https://thu-tram.github.io/dovg)
 - [Vietnamese : An Essential Grammar by Binh Nhu Ngo](https://drive.proton.me/urls/TR1A3GBG8M#WiqnQfudUCQI)
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
-- [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482): An Anki deck for learning Vietnamese Grammar. There are audios for different dialects! 
 
 ### Chữ Nôm
 
@@ -52,7 +50,7 @@ You just have to click one of the links here and it will directs you to the Viet
 - [FPTPlay](https://fptplay.vn/block/category_vod/viet-nam-5575464417dc1321ee858668): Watching Vietnamese movies for free, you just have to use your Google or Facebook account. 
 - [TV360](https://tv360.vn/movies/phim-viet-nam?c=3733): Same as above.
 - [VieChannel](https://www.youtube.com/channel/UCkna2OcuN1E6u5I8GVtdkOw): There are a lot of gameshows in this channel.
-- [**※ Vietnamese Movie Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet//movies) 
+- [**※ Vietnamese Movie Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet/movies) 
 
 ### Novels and Literary Texts
 
