@@ -2,19 +2,12 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 
 ## Learning Vietnamese
 
-### Guide
+### Pronunciation
 
-- [Refold Vietnamese](http://refold.link/vietnamese) - Refold Roadmap for Vietnamese Learning.
-
-### Other Resource Pages
-
-- [**※ - Betonamgo - A curated list of Vietnamese language learning resources**](https://thu-tram.github.io/betonamgo/)
-- [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
-- [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
-- [Dạy tiếng Việt - VOV](https://vovworld.vn/vi-VN/day-tieng-viet/316.vov) - Vietnamese Lessons from VOV.
-- [Tiếng Việt Thực Hành - Giữ gìn tiếng mẹ đẻ ở hải ngoại!](https://tiengviethuchanh.wordpress.com/) - Vietnamese Learning Website for Vietnamese living overseas
+- **[※ - Vietnamese Pronunciation Deck](https://ankiweb.net/shared/info/1747674390)**
 
 ### Alphabet
+
 - [Flexiclasses Vietnamese Learning Blog](https://flexiclasses.com/vietnamese/alphabet/): All about Vietnamese alphabet, learning how to read and write here.
 - [Vietnamese Alphabet by MyLanguages.org](http://www.mylanguages.org/vietnamese_alphabet.php): Yet another Vietnamese alphabet guide.
 
@@ -22,6 +15,8 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 
 - [**※ Basic Vietnamese for English Speakers: Audio**](https://ankiweb.net/shared/info/285983903)
 - [Vietnamese Idiomatic Expressions](https://vietnamesetypography.com/samples/idiomatic-expressions/) - Vietnamese "Idiomatic Expressions" 
+- [Vietnamese Optimized Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/17wvl30/vietnamese_optimized_anki_deck/) 
+- [7700 Word Vietnamese Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/b039ha/7700_word_vietnamese_anki_deck/)
 
 ### Grammar
 
@@ -30,6 +25,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese : An Essential Grammar by Binh Nhu Ngo](https://drive.proton.me/urls/TR1A3GBG8M#WiqnQfudUCQI)
 - [seahorse viet grammar's archive](https://seahorseviet.wordpress.com/category/grammar/): Many grammar points but without sorting.
 - [Learning Vietnamese Grammar with TVO](https://www.youtube.com/playlist?list=PLpDgPu_Hq9ZxWC8CAODefCnjAov6t-3ev): A grammar series in Northern dialect made by Tieng Viet Oi, despite being a Vietnamese learning channel there are many videos made for native speakers.
+- [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482) - An anki deck for learning viet grammar.
 
 ### Chữ Nôm
 
@@ -64,14 +60,9 @@ You just have to click one of the links here and it will directs you to the Viet
 
 
 #### Tiểu thuyết
-- [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks. There might be some NSFW books so it's advised to visit [**Vietnamese Book Suggestion**](https://daihocmo.github.io/kho-media/tieng-viet//books) to know which one "should you search for". However, I think this should be up to your preference, not mine.
+- [DTV-Ebook](https://www.dtv-ebook.com): Download Vietnamese ebooks. There might be some NSFW books so it's advised to visit [**Vietnamese Book Suggestion**](https://daihocmo.github.io/kho-media/tieng-viet/books) to know which one "should you search for". However, I think this should be up to your preference, not mine.
 - [Hako](https://ln.hako.vn/): Reading online webnovels in Vietnamese
-- [**※ Vietnamese Book Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet//books) - Finding real Vietnamese Literature suggestions.
-- [**※ Vietnamese WN&LN Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet//ln-wn)
-
-### Manga
-- [Blogtruyenmoi](https://blogtruyenmoi.com/)
-- [TruyenQQVN](https://truyenqqvn.com/)
+- [**※ Vietnamese Book Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet/books) - Finding real Vietnamese Literature suggestions.
 
 ### Audiobooks & Podcasts
 - [**※ Vietnamese Podcast Recommendation**](https://daihocmo.github.io/kho-media/tieng-viet//podcasts) 
@@ -95,7 +86,7 @@ You just have to click one of the links here and it will directs you to the Viet
 Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) words easily.
 
 - [**※ Yomitan Installation guide for Vietnamese Learning**](yomitan.md) - Learn how to setup the best popup dictionary extension on the web browser.  
-- [**※ duykhanh471's dictionary collection**](https://onlyduyy.github.io/viet-yomitan/)
+- [**※ duykhanh471's dictionary collection**](https://thu-tram.github.io/viet-yomitan/)
 - [JoaTH: Guide to the Best Vietnamese Dictionaries](https://www.reddit.com/r/learnvietnamese/comments/blc33z/joath_guide_to_the_best_vietnamese_dictionaries/)
 
 #### Online
@@ -143,38 +134,14 @@ Yomichan, a browser add-on that allows you to look up Japanese (and Vietnamese) 
 - [365 stories for kids](https://truyenchobe.com/tag/1001-chuyen-ke-cho-be-truoc-gio-di-ngu)
 - [Vietnamese folk tales](https://tiengviethuchanh.wordpress.com/truyen-co-tich/)
 
-## Anki Decks
+## Other
 
-### Pronunciation
-- **[※ - Vietnamese Pronunciation Deck](https://ankiweb.net/shared/info/1747674390)**
+### Resource Pages
 
-### Vocabulary
-- [Basic Vietnamese for English Speakers](https://ankiweb.net/shared/info/285983903) - About 1000 words 
-- [Vietnamese Vocabulary Core 1k (from Ling) by Soi](https://ankiweb.net/shared/info/1400808401)
-- [Learn Vietnamese with colored tones 1184 cards](https://ankiweb.net/shared/info/767852629) - There are also Vietnamese example sentence!
-- [Vietnamese Optimized Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/17wvl30/vietnamese_optimized_anki_deck/) 
-- [7700 Word Vietnamese Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/b039ha/7700_word_vietnamese_anki_deck/)
+- [**※ - Betonamgo - A curated list of Vietnamese language learning resources**](https://thu-tram.github.io/betonamgo/)
+- [gratisglobal vietnamese learning resources](https://gratisglobal.com/learn-vietnamese-free/)
+- [r/learnvietnamese's resources](https://www.reddit.com/r/learnvietnamese/comments/u0mdh/list_of_vietnamese_language_learning_resources/)
 
-### Grammar
-- [Vietnamese Grammar by Soi](https://ankiweb.net/shared/info/1707723482)
-- [Elementary Vietnamese](https://ankiweb.net/shared/info/417713476) - It's not completed tho.
+### Guide
 
-### Collection
-- [Basic Vietnamese Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/6bg6r8/much_overdue_release_of_my_revised_basic/) - The deck from r/learnvietnamese
-- [Xefjord's Complete Vietnamese (Northern)](https://ankidecks.com/decks/about/131/show)
-- [Xefjord's Complete Vietnamese](https://www.dropbox.com/sh/g4iz7sw992qzieg/AAD-iCCcDrUmfUPsXU3JtvWLa?dl=0) - You can find the deck for Southern Dialect here.
-- [Vietnamese Verbs](https://ankiweb.net/shared/info/2123021502)
-- [Vietnamese for English Speakers](https://ankiweb.net/shared/info/2064548721)
-
-### LTL Vietnamese Collection
-- [🇻🇳🇻🇳🇻🇳 LTL VIETNAMESE DECK LEVEL 1 - Short](https://ankiweb.net/shared/info/190476395)
-- [🇻🇳🇻🇳🇻🇳 LTL Vietnamese Deck Level 2 - Short Medium](https://ankiweb.net/shared/info/109765305)
-- [🇻🇳🇻🇳🇻🇳 LTL Vietnamese Deck Level 3 - Medium](https://ankiweb.net/shared/info/193056394)
-- [🇻🇳🇻🇳🇻🇳 LTL Vietnamese Deck Level 4 - Medium Long](https://ankiweb.net/shared/info/490478202)
-- [🇻🇳🇻🇳🇻🇳 LTL Vietnamese Deck Level 5 - Long](https://ankiweb.net/shared/info/327582122)
-
-### Other
-
-- [Forvo Travel (Vietnamese)](https://ankiweb.net/shared/info/1771783638)
-- [Vietnamese - English 22000](https://ankiweb.net/shared/info/1548842830)
-- You might wanna check other decks on [Ankiweb Share Decks](https://ankiweb.net/shared/decks?search=vietnamese).
+- [Refold Vietnamese](http://refold.link/vietnamese) - Refold Roadmap for Vietnamese Learning.

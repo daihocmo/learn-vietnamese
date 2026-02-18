@@ -112,7 +112,7 @@ There aren't many monolingual dictionaries out there, so here are just some sugg
 - [**Lạc Việt**](https://tratu.coviet.vn/hoc-tieng-anh/tu-dien/lac-viet/V-V/)
 - [VNEDICT](http://www.denisowski.org/Vietnamese/vnedict_readme.htm) - Or other Vietnamese - English Dictionaries (Babylon, Hồ Ngọc Đức, Lạc Việt).
 
-[Download Vietnamese dictionaries for Yomitan here](https://onlyduyy.github.io/viet-yomitan/)
+[Download Vietnamese dictionaries for Yomitan here](https://thu-tram.github.io/viet-yomitan/)
 
 ### Continuation: Getting and using monolingual dictionaries  
 
