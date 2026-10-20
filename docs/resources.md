@@ -17,7 +17,7 @@ Welcome to the Resources Sheet, resources are categorised into "Learning" Vietna
 - [Vietnamese Idiomatic Expressions](https://vietnamesetypography.com/samples/idiomatic-expressions/) - Vietnamese "Idiomatic Expressions" 
 - [Vietnamese Optimized Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/17wvl30/vietnamese_optimized_anki_deck/) 
 - [7700 Word Vietnamese Anki Deck](https://www.reddit.com/r/learnvietnamese/comments/b039ha/7700_word_vietnamese_anki_deck/)
-- [Vietnamese Travel Essentials: 50 Phrases](https://ankiwordbank.com/decks/vietnamese-travel-essentials-50-must-know-phrases-native-audio?utm_source=github.com&utm_medium=outreach) - Free 50-card Anki starter deck of everyday phrases with audio, no account needed
+- [Vietnamese Travel Essentials: 50 Phrases](https://ankiwordbank.com/decks/vietnamese-travel-essentials-50-must-know-phrases-native-audio) - Free 50-card Anki starter deck of everyday phrases with audio, no account needed
 
 ### Grammar
 
